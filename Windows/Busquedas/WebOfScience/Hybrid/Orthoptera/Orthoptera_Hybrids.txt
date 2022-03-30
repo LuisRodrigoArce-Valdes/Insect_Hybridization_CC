@@ -1,0 +1,29 @@
+Sp1	Sp2	Authors	Year	Article
+Allonemobius shalontaki	Allonemobius socius	"Birge, LM; Braswell, WE; Howard, DJ."	2007	A component of isolation between Allonemobius shalontaki (Orthoptera : Gryllidae : Nemobiinae) and a sympatric congener
+Saga pedo	Saga rammei	"Lemonnier-Darcemont, M; Darcemont, C."	2007	Hybridization between Saga pedo (Pallas 1771) and Saga rammei Kaltenbach 1965 (Orthoptera : Tettigoniidae)
+Orchelimum nigripes	Orchelimum pulchellum	"Shapiro, LH."	2001	Asymmetric assortative mating between two hybridizing Orchelimum katydids (Orthoptera : Tettigoniidae)
+Allonemobius fasciatus	Allonemobius socius	"GREGORY, PG; HOWARD, DJ."	1993	"LABORATORY HYBRIDIZATION STUDIES OF ALLONEMOBIUS-FASCIATUS AND A-SOCIUS (ORTHOPTERA, GRYLLIDAE)"
+Hemideina ricta	Hemideina femorata	"MorganRichards, M; Townsend, JA."	1995	"Hybridisation of tree weta on Banks Peninsula, New Zealand, and colour polymorphism within Hemideina ricta (Orthoptera: Stenopelmatidae)"
+Chorthippus biguttulus	Chorthippus brunneus	"Gottsberger, B; Mayer, F."	2019	"Dominance effects strengthen premating hybridization barriers between sympatric species of grasshoppers (Acrididae, Orthoptera)"
+Saga campbelli	Saga hellenica	"Lemonnier-Darcemont, M; Dutrillaux, AM; Dutrillaux, B; Darcemont, C."	2011	Hybridation between Saga campbelli Kaltenbach 1965 and Saga hellenica Kaltenbach 1967 (Orthoptera: Tettigoniidae).
+Chorthippus parallelus	Chorthippus montanus	"Hochkirch, A; Lemke, I."	2011	"Asymmetric mate choice, hybridization, and hybrid fitness in two sympatric grasshopper species"
+Gryllus firmus	Gryllus pennsylvanicus	"DOHERTY, JA; STORZ, MM."	1992	"CALLING SONG AND SELECTIVE PHONOTAXIS IN THE FIELD CRICKETS, GRYLLUS-FIRMUS AND G-PENNSYLVANICUS (ORTHOPTERA, GRYLLIDAE)"
+Trimerotropis agrestis	Trimerotropis maritima	"Brust, ML; Hoback, WW; Wright, RJ."	2009	Apparent Hybridization Between Trimerotropis agrestis and Trimerotropis maritima (Orthoptera: Acrididae) in a Recently Disturbed Habitat
+Chorthippus albomarginatus	Chorthippus karelini	"Vedenina, VY."	2015	"COURTSHIP SONG ANALYSIS IN TWO HYBRID ZONES BETWEEN SIBLING SPECIES OF THE CHORTHIPPUS ALBOMARGINATUS GROUP (ORTHOPTERA, GOMPHOCERINAE)"
+Chorthippus karelini	Chorthippus oschei	"Vedenina, VY."	2015	"COURTSHIP SONG ANALYSIS IN TWO HYBRID ZONES BETWEEN SIBLING SPECIES OF THE CHORTHIPPUS ALBOMARGINATUS GROUP (ORTHOPTERA, GOMPHOCERINAE)"
+Chorthippus albomarginatus	Chorthippus oschei	"Vedenina, V; Holusa, J; Kocarek, P."	2009	THE CHORTHIPPUS ALBOMARGINATUS-GROUP (ORTHOPTERA: ACRIDIDAE: GOMPHOCERINAE) IN THE CARPATHIAN BASIN: TRACES OF HYBRIDIZATION BETWEEN C. ALBOMARGINATUS AND C. OSCHEI IN SOUTHERN SLOVAKIA
+Chorthippus brunneus	Chorthippus jacobsi	"Saldamando, CI; Tatsuta, H; Butlin, RK."	2005	Hybrids between Chorthippus brunneus and C-jacobsi (Orthoptera : Acrididae) do not show endogenous postzygotic isolation
+Gryllus rubens	Gryllus texensis	"Walker, TJ."	2000	Pulse rates in the songs of trilling field crickets (Orthoptera : Gryllidae : Gryllus)
+Gryllus assimilis	Gryllus multipulsator	"Weissman, DB; Walker, TJ; Gray, DA."	2009	The Field Cricket Gryllus assimilis and Two New Sister Species (Orthoptera: Gryllidae)
+Stenobothrus clavatus	Stenobothrus rubicundus	"Vedenina, V; Fahsing, S; Sradnick, J; Klopfel, A; Elsner, N."	2013	A narrow hybrid zone between the grasshoppers Stenobothrus clavatus and Stenobothrus rubicundus (Orthoptera: Gomphocerinae): female preferences for courtship songs
+Hexacentrus japonicus	Hexacentrus unicolor	"INAGAKI, H; SUGIMOTO, T."	1994	"INTERSPECIFIC MICRODIVERGENCY IN MALE GENITALIA BETWEEN 2 SIBLING SPECIES OF THE BUSH-CRICKET GENUS HEXACENTRUS (ORTHOPTERA, TETTIGONIIDAE)"
+Trimerotropis suffusa	Trimerotropis cyaneipennis	"JOHN, B; LIGHTFOOT, DC; WEISSMAN, DB."	1983	"THE MEIOTIC BEHAVIOR OF NATURAL F1 HYBRIDS BETWEEN TRIMEROTROPIS-SUFFUSA SCUDDER AND TRIMEROTROPIS-CYANEIPENNIS BRUNER (ORTHOPTERA, OEDIPODINAE)"
+Hemideina thoracica	Hemideina trewicki	"Mckean, NE; Trewick, SA; Morgan-Richards, M."	2016	Little or no gene flow despite F-1 hybrids at two interspecific contact zones
+Hemideina thoracica	Hemideina crassidens	"Mckean, NE; Trewick, SA; Morgan-Richards, M."	2016	Little or no gene flow despite F-1 hybrids at two interspecific contact zones
+Chorthippus montanus	Chorthippus parallelus	"Rohde, K; Hau, Y; Weyer, J; Hochkirch, A."	2015	Wide prevalence of hybridization in two sympatric grasshopper species may be shaped by their relative abundances
+Euchorthippus pulvinatus	Euchorthippus chopardi	"SANTOS, JL; ARANA, P; HENRIQUESGIL, N."	1991	CYTOGENETICS OF 2 INTERSPECIFIC SYNTHETIC HYBRIDS OF THE GRASSHOPPER GENUS EUCHORTHIPPUS
+Chorthippus biguttulus	Chorthippus mollis	"Finck, J; Ronacher, B."	2017	Components of reproductive isolation between the closely related grasshopper species Chorthippus biguttulus and C. mollis
+Phaulacridium marginale	Phaulacridium otagoense	"Sivyer, L; Morgan-Richards, M; Koot, E; Trewick, SA."	2018	"Anthropogenic cause of range shifts and gene flow between two grasshopper species revealed by environmental modelling, geometric morphometrics and population genetics"
+Gryllus bimaculatus	Gryllus campestris	"Veen, T; Faulks, J; Tyler, F; Lloyd, J; Tregenza, T."	2013	Diverse reproductive barriers in hybridising crickets suggests extensive variation in the evolution and maintenance of isolation
+Melanoplus sanguinipes	Melanoplus devastator	"Orr, MR."	1996	Life-history adaptation and reproductive isolation in a grasshopper hybrid zone
+Teleogryllus oceanicus	Teleogryllus commodus	"Bailey, NW; Moran, PA; Hennig, RM."	2017	Divergent mechanisms of acoustic mate recognition between closely related field cricket species (Teleogryllus spp.)
