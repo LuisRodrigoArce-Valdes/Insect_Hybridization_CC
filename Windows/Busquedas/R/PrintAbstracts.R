@@ -5,14 +5,14 @@ rm(list = ls())
 # EDIT THIS SECTION
 
 # Select Web  of Science table to analyse
-file <- "../Hybrid/Hymenoptera/09_Hybrid_Hymenoptera.txt"
+file <- "../Hybrid/Diptera/12_Hybrid_Diptera.txt"
 
 # Output file name
-output <- "../Hybrid/Hymenoptera/09_Hybrid_Hymenoptera"
+output <- gsub(".txt","", file)
 
 # Add search information
 engine <- "Web of Science"
-string <- '(AB=(hybrid OR hybridization OR hybridisation) OR AK=(hybrid OR hybridization OR hybridisation) OR TI=(hybrid OR hybridization OR hybridisation)) AND (AB=(hymenoptera) OR TI=(hymenoptera) or AK=(hymenoptera)) NOT ALL=(fluorescent OR  fluorescence OR "in situ")'
+string <- '(AB=(hybrid OR hybridization OR hybridisation) OR AK=(hybrid OR hybridization OR hybridisation) OR TI=(hybrid OR hybridization OR hybridisation)) AND (AB=(diptera) OR TI=(diptera) or AK=(diptera)) NOT ALL=(fluorescent OR fluorescence OR "in situ")'
 date <- "28/03/2022"
 
 ###############################################################################################################
@@ -32,6 +32,9 @@ head[1] <- "PT"
 colnames(file) <- head
 rm(head)
 
+# Sorting papers by publication year (we need the first hybridisation records)
+file <- file[order(file$PY, decreasing = F),]
+
 # printing abstracts
 sink(paste0(output, ".md"))
 
@@ -50,4 +53,4 @@ for (i in 1:nrow(file)) {
 }
 sink()
 
-# Convert to pdf using https://www.markdowntopdf.com/
+# Convert to pdf using https://www.markdowntopdf.com/◘
