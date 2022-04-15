@@ -7,7 +7,7 @@
 
 # For looping across all 4 orders
 
-for i in Orthoptera #Lepidoptera Hymenoptera Diptera
+for i in Orthoptera Lepidoptera Hymenoptera Diptera
 do
 
 # 01. Creating output diretories
@@ -16,10 +16,10 @@ mkdir -p ../results/$i/01_BOLD
 
 # 02.- First I am doing a list of all hybridizing species
 # First column:
-cut -f1 ../data/${i}_Hybrids.txt | tail -n +2 > tmp1
+cut -f1 ../data/${i}_Hybrids.tsv | tail -n +2 > tmp1
 
 # Second column:
-cut -f2 ../data/${i}_Hybrids.txt | tail -n +2 > tmp2
+cut -f2 ../data/${i}_Hybrids.tsv | tail -n +2 > tmp2
 
 # Concatenating both columns, sorting and removing duplicates
 cat tmp1 tmp2 | sort | uniq > ../results/$i/01_BOLD/${i}_species.txt

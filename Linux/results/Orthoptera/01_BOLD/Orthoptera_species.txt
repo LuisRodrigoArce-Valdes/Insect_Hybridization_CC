@@ -10,12 +10,16 @@ Chorthippus mollis
 Chorthippus montanus
 Chorthippus oschei
 Chorthippus parallelus
+Cyphoderris buckelli
+Cyphoderris monstrosa
 Euchorthippus chopardi
 Euchorthippus pulvinatus
 Gryllus assimilis
 Gryllus bimaculatus
 Gryllus campestris
+Gryllus cayensis
 Gryllus firmus
+Gryllus fultoni
 Gryllus multipulsator
 Gryllus pennsylvanicus
 Gryllus rubens
