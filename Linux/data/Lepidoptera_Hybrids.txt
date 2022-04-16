@@ -1,0 +1,978 @@
+Suborder	Family	Sp1	Sp2	Condition	MainTopic	Authors	Year	Article
+"""Moth"""	Zygaenidae	Adscita alpina	Adscita italica	Field	Yes	"Efetov, KA; Kucherenko, EE; Tarmann, GM."	2020	"An application of the synthetic sex attractants from the series ""EFETOV-2"" for studying Procridinae in Italy (Lepidoptera: Zygaenidae)"
+"""Moth"""	Noctuidae	Agrotis ipsilon	Agrotis segetum	Laboratory	Yes	"Gadenne, C; Picimbon, JF; Becard, JM; LalanneCassou, B; Renou, M."	1997	Development and pheromone communication systems in hybrids of Agrotis ipsilon and Agrotis segetum (Lepidoptera: Noctuidae)
+"""Butterfly"""	Lycaenidae	Ahlbergia frivaldszkyi	Callophrys rubi	Field	Yes	"Shapoval, NA; Yakovlev, RV; Kuftina, GN; Lukhtanov, VA; Knyazev, SA; Romanovich, AE; Krupitsky, AV. 2021"	2021	"Identification of Natural Hybrids between Ahlbergia frivaldszkyi (Lederer, 1853) and Callophrys rubi (Linnaeus, 1758) (Lepidoptera, Lycaenidae) Using Mitochondrial and Nuclear Markers"
+"""Butterfly"""	Nymphalidae	Anartia amathea	Anartia fatima	Field	Yes	"Dasmahapatra, KK; Blum, MJ; Aiello, A; Hackwell, S; Davies, N; Bermingham, EP; Mallett, T."	2002	Inferences from a rapidly moving hybrid zone
+"""Moth"""	Saturniidae	Antheraea pernyi	Antheraea roylei	Field	Yes	"Yang, J; Zhang, RS; Chen, DB; Chen, MM; Li, YP; Liu, YQ."	2019	The complete mitochondrial genome of Antheraea proylei strain In981 (Lepidoptera: Saturniidae)
+"""Moth"""	Saturniidae	Antheraea pernyi	Antheraea yamamai	Laboratory	Yes	"SHIMADA, T; YAMAUCHI, H; KOBAYASHI, M."	1988	"DIAPAUSE OF THE INTER-SPECIFIC F1 HYBRIDS BETWEEN ANTHERAEA-YAMAMAI (GUERIN-MENEVILLE) AND ANTHERAEA-PERNYI (G-M) (LEPIDOPTERA, SATURNIIDAE)"
+"""Butterfly"""	Pieridae	Anthocharis cardamines	Anthocharis euphenoides	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Pieridae	Anthocharis cardamines	Euchloe ausonia	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Pieridae	Anthocharis cardamines	Euchloe simplonia	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Lycaenidae	Aricia agestis	Aricia artaxerxes	Field	Yes	"Aagaard, K; Hindar, K; Pullin, AS; James, CH; Hammarstedt, O; Balstad, T; Hanssen, O."	2002	Phylogenetic relationships in brown argus butterflies (Lepidoptera : Lycaenidae : Aricia) from north-western Europe
+"""Butterfly"""	Lycaenidae	Aricia agestis	Polyommatus artaxerxes	Field	Yes	"Mallet, J; Wynne, IR; Thomas, CD."	2011	Hybridisation and climate change: brown argus butterflies in Britain (Polyommatus subgenus Aricia)
+"""Moth"""	Saturniidae	Callosamia angulifera	Callosamia promethea	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Saturniidae	Callosamia angulifera	Callosamia securifera	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Saturniidae	Callosamia angulifera	Hyalophora cecropia	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Saturniidae	Callosamia promethea	Callosamia securifera	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Notodontidae	Cerura erminea	Cerura vinula	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Noctuidae	Chloridea subflexa	Chloridea virescens	Laboratory	Yes	"GOODPASTURE, C; LACHANCE, LE; RICHARD, RD."	1980	"PERSISTENCE OF ABNORMAL SPERMIOGENESIS IN THE BACKCROSS GENERATIONS OF INTERSPECIFIC HYBRIDS BETWEEN HELIOTHIS-VIRESCENS X HELIOTHISSUBFLEXA (LEPIDOPTERA, NOCTUIDAE)"
+"""Moth"""	Tortricidae	Choristoneura biennis	Choristoneura fumiferana	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Tortricidae	Choristoneura biennis	Choristoneura occidentalis	Laboratory	Yes	"Nealis, VG."	2005	Diapause and voltinism in western and 2-year-cycle spruce budworms (Lepidoptera : Tortricidae) and their hybrid progeny
+"""Moth"""	Tortricidae	Choristoneura fumiferana	Choristoneura occidentalis	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Tortricidae	Choristoneura fumiferana	Choristoneura pinus	Field	Yes	"Deverno, LL; Smith, GA; Harrison, KJ."	1998	Randomly amplified polymorphic DNA evidence of introgression in two closely related sympatric species of coniferophagous Choristoneura (Lepidoptera : Tortricidae) in Atlantic Canada
+"""Moth"""	Tortricidae	Choristoneura fumiferana	Choristoneura retiniana	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Tortricidae	Choristoneura occidentalis	Choristoneura pinus	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Tortricidae	Choristoneura occidentalis	Choristoneura retiniana	Laboratory	Yes	"VOLNEY, WJA; LIEBHOLD, AM."	1985	"POSTDIAPAUSE DEVELOPMENT OF SYMPATRIC CHORISTONEURA-OCCIDENTALIS AND CHORISTONEURA-RETINIANA (LEPIDOPTERA, TORTRICIDAE) AND THEIR HYBRIDS"
+"""Moth"""	Tortricidae	Choristoneura pinus	Choristoneura retiniana	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Saturniidae	Citheronia regalis	Citheronia splendens	Laboratory	Yes	"Adamski, D; Marques, D; Mayo, KG; Mayo, R."	2019	DESCRIPTION OF LARVAL AND PUPAL STAGES OF A BILATERAL GYNANDROMORPH REARED FROM A CROSS BETWEEN CITHERONIA REGALIS (FABR.) AND C. SPLENDENS (DRUCE) (LEPIDOPTERA: SATURNIIDAE)
+"""Moth"""	Notodontidae	Clostera anachoreta	Clostera curtula	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Notodontidae	Clostera anachoreta	Clostera pigra	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Notodontidae	Clostera apicalis	Clostera pigra	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Notodontidae	Clostera curtula	Clostera pigra	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Nymphalidae	Coenonympha arcania	Coenonympha gardetta	Field	Yes	"Capblancq, T; Despres, L; Rioux, D; Mavarez, J."	2015	Hybridization promotes speciation in Coenonympha butterflies
+"""Butterfly"""	Pieridae	Colias alexandra	Colias eurytheme	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Pieridae	Colias alfacariensis	Colias hyale	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Pieridae	Colias crocea	Colias erate	Field	Yes	"Milovanov, AE; Simchuk, AP; Ivashov, AV."	2004	"Polymorphism in syntopic populations of Colias crocea and C-erate (Lepidoptera, Pieridae) in the Crimea"
+"""Butterfly"""	Pieridae	Colias crocea	Colias hyale	Field	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Pieridae	Colias erate	Colias eurytheme	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Pieridae	Colias eurytheme	Colias interior	Field	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Pieridae	Colias eurytheme	Colias philodice	Field	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Pieridae	Colias interior	Colias philodice	Laboratory	Yes	"KAROWE, DN."	1994	"DIAPAUSE DYNAMICS AMD HOST-PLANT UTILIZATION OF COLIAS-PHILODICE, COLIAS-INTERIOR AND THEIR HYBRIDS (LEPIDOPTERA, PIERIDAE)"
+"""Butterfly"""	Nymphalidae	Danaus erippus	Danaus plexippus	Laboratory	Yes	"Hay-Roe, MM; Lamas, G; Nation, JL."	2007	"Pre- and postzygotic isolation and Haldane rule effects in reciprocal crosses of Danaus erippus and Danaus plexippus (Lepidoptera : Danainae), supported by differentiation of cuticular hydrocarbons, establish their status as separate species"
+"""Moth"""	Sphingidae	Deilephila elpenor	Deilephila porcellus	Field	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Drepanidae	Drepana curvatula	Drepana falcataria	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Pieridae	Enantia albania	Enantia jethys	Field	Yes	"Jasso-Martinez, JM; Machkour-M'Rabet, S; Vila, R; Rodriguez-Arnaiz, R; Castaneda-Sortibran, AN."	2018	Molecular evidence of hybridization in sympatric populations of the Enantia jethys complex (Lepidoptera: Pieridae)
+"""Butterfly"""	Pieridae	Enantia albania	Enantia mazai	Field	Yes	"Jasso-Martinez, JM; Machkour-M'Rabet, S; Vila, R; Rodriguez-Arnaiz, R; Castaneda-Sortibran, AN."	2018	Molecular evidence of hybridization in sympatric populations of the Enantia jethys complex (Lepidoptera: Pieridae)
+"""Moth"""	Geometridae	Epirrita autumnata	Epirrita dilutata	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Geometridae	Epirrita autumnata	Epirrita filigrammaria	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Geometridae	Epirrita dilutata	Epirrita filigrammaria	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Nymphalidae	Erebia calcarius	Erebia cassioides	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Nymphalidae	Erebia calcarius	Erebia tyndarus	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Nymphalidae	Erebia cassioides	Erebia nivalis	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Nymphalidae	Erebia cassioides	Erebia tyndarus	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Nymphalidae	Erebia epiphron	Erebia pronoe	Field	Yes	"Michel, F; Meglecz, E; Martin, JF; Descimon, H."	2013	"Erebia serotina Descimon & de Lesse 1953 (Lepidoptera: Nymphalidae), a recurrent hybrid between two distantly related species"
+"""Moth"""	Noctuidae	Euxoa declarata	Euxoa rockburnei	Laboratory	Yes	"TEAL, PEA."	1985	"THE EFFECT OF HYBRIDIZATION ON THE PERIODICITY OF SEX-PHEROMONE RELEASE OF EUXOA SPECIES (LEPIDOPTERA, NOCTUIDAE)"
+"""Moth"""	Sphingidae	Gnathothlibus eras	Philodila astyanor	Field	Yes	"Rougerie, R; Haxaire, J; Kitching, IJ; Hebert, PDN."	2012	DNA barcodes and morphology reveal a hybrid hawkmoth in Tahiti (Lepidoptera: Sphingidae)
+"""Butterfly"""	Nymphalidae	Heliconius charithonia	Heliconius peruvianus	Field	Yes	"Jiggins, CD; Davies, N."	1998	Genetic evidence for a sibling species of Heliconius charithonia (Lepidoptera; Nymphalidae)
+"""Butterfly"""	Nymphalidae	Heliconius cydno	Heliconius heurippa	Laboratory	Yes	"Merot, C; Salazar, C; Merrill, RM; Jiggins, CD; Joron, M."	2017	What shapes the continuum of reproductive isolation? Lessons from Heliconius butterflies
+"""Butterfly"""	Nymphalidae	Heliconius cydno	Heliconius ismenius	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Nymphalidae	Heliconius cydno	Heliconius melpomene	Field	Yes	"BROWN, KS; EMMEL, TC; ELIAZAR, PJ; SUOMALAINEN, E."	1992	"EVOLUTIONARY PATTERNS IN CHROMOSOME-NUMBERS IN NEOTROPICAL LEPIDOPTERA .1. CHROMOSOMES OF THE HELICONIINI (FAMILY NYMPHALIDAE, SUBFAMILY NYMPHALINAE)"
+"""Butterfly"""	Nymphalidae	Heliconius cydno	Heliconius melpomene	Field	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Nymphalidae	Heliconius cydno	Heliconius pachinus	Field	Yes	"Kronforst, MR; Young, LG; Blume, LM; Gilbert, LE."	2006	Multilocus analyses of admixture and introgression among hybridizing Heliconius butterflies
+"""Butterfly"""	Nymphalidae	Heliconius erato	Heliconius himera	Field	Yes	"Jiggins, CD; McMillan, WO; Neukirchen, W; Mallet, J."	1996	What can hybrid zones tell us about speciation? The case of Heliconius erato and H-himera (Lepidoptera: Nymphalidae)
+"""Butterfly"""	Nymphalidae	Heliconius heurippa	Heliconius melpomene	Laboratory	Yes	"Merot, C; Salazar, C; Merrill, RM; Jiggins, CD; Joron, M."	2017	What shapes the continuum of reproductive isolation? Lessons from Heliconius butterflies
+"""Butterfly"""	Nymphalidae	Heliconius heurippa	Heliconius tristero	Field	Yes	"Brower, AVZ."	1996	"A new mimetic species of Heliconius (Lepidoptera:Nymphalidae), from southeastern Colombia, revealed by cladistic analysis of mitochondrial DNA sequences"
+"""Butterfly"""	Nymphalidae	Heliconius melpomene	Heliconius pachinus	Field	Yes	"Kronforst, MR; Young, LG; Blume, LM; Gilbert, LE."	2006	Multilocus analyses of admixture and introgression among hybridizing Heliconius butterflies
+"""Butterfly"""	Nymphalidae	Heliconius melpomene	Heliconius timareta	Field	Yes	"Merot, C; Mavarez, J; Evin, A; Dasmahapatra, KK; Mallet, J; Lamas, G; Joron, M."	2013	Genetic differentiation without mimicry shift in a pair of hybridizing Heliconius species (Lepidoptera: Nymphalidae)
+"""Moth"""	Noctuidae	Helicoverpa armigera	Helicoverpa assulta	Laboratory	Yes	"Wang, CZ; Dong, JF."	2001	Interspecific hybridization of Helicoverpa armigera and H-assulta (Lepidoptera : Noctuidae)
+"""Moth"""	Noctuidae	Helicoverpa armigera	Helicoverpa zea	Laboratory	Yes	"LASTER, ML; SHENG, CF."	1995	"SEARCH FOR HYBRID STERILITY FOR HELICOVERPA-ZEA IN CROSSES BETWEEN THE NORTH-AMERICAN HELIOTHIS-ZEA AND HELICOVERPA-ARMIGERA (LEPIDOPTERA, NOCTUIDAE) FROM CHINA"
+"""Moth"""	Saturniidae	Hyalophora cecropia	Hyalophora columbia	Field	Yes	"FERGE, LA."	1983	"DISTRIBUTION AND HYBRIDIZATION OF HYALOPHORA-COLUMBIA (LEPIDOPTERA, SATURNIIDAE) IN WISCONSIN"
+"""Moth"""	Saturniidae	Hyalophora cecropia	Hyalophora euryalus	Field	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Saturniidae	Hyalophora cecropia	Hyalophora gloveri	Field	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Saturniidae	Hyalophora columbia	Hyalophora euryalus	Field	Yes	"Collins, MM."	1997	Hybridization and speciation in Hyalophora (Insecta: Lepidoptera: Saturniidae): A reappraisal of W.R. Sweadner's classic study of a hybrid zone
+"""Moth"""	Saturniidae	Hyalophora euryalus	Hyalophora gloveri	Field	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Noctuidae	Hydraecia immanis	Hydraecia micacea	Field	Yes	"SCRIBER, JM; BOSSART, JL; SNIDER, D."	1992	"DIAGNOSTIC ALLELES FROM ELECTROPHORESIS DISTINGUISH 2 NOCTUID PEST SPECIES, HYDRAECIA-IMMANIS AND H-MICACEA (LEPIDOPTERA, NOCTUIDAE)"
+"""Moth"""	Sphingidae	Hyles chamyla	Hyles hippophaes	Field	Yes	"Patzold, F; Marabuto, E; Daneck, H; O'Neill, MA; Kitching, IJ; Hundsdoerfer, AK."	2021	"The Phylogenetics and Biogeography of the Central Asian Hawkmoths, Hyles hippophaes and H. chamyla: Can Mitogenomics and Machine Learning Bring Clarity?"
+"""Moth"""	Sphingidae	Hyles dahlii	Hyles gallii	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Sphingidae	Hyles euphorbiae	Deilephila elpenor	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Sphingidae	Hyles euphorbiae	Deilephila porcellus	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Sphingidae	Hyles euphorbiae	Hyles gallii	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Sphingidae	Hyles euphorbiae	Hyles hippophaes	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Sphingidae	Hyles euphorbiae	Hyles lineata	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Sphingidae	Hyles euphorbiae	Hyles tithymali	Field	Yes	"Hundsdoerfer, AK; Mende, MB; Harbich, H; Pittaway, AR; Kitching, IJ."	2011	Larval pattern morphotypes in the Western Palaearctic Hyles euphorbiae complex (Lepidoptera: Sphingidae: Macroglossinae)
+"""Moth"""	Sphingidae	Hyles euphorbiae	Hyles vespertilio	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Sphingidae	Hyles gallii	Deilephila elpenor	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Sphingidae	Hyles gallii	Deilephila porcellus	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Sphingidae	Hyles gallii	Hyles hippophaes	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Sphingidae	Hyles gallii	Hyles lineata	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Sphingidae	Hyles gallii	Hyles livornica	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Sphingidae	Hyles gallii	Hyles vespertilio	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Sphingidae	Hyles hippophaes	Deilephila elpenor	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Sphingidae	Hyles hippophaes	Hyles lineata	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Sphingidae	Hyles hippophaes	Hyles vespertilio	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Sphingidae	Hyles lineata	Deilephelia elpenor	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Sphingidae	Hyles vespertilio	Deilephila elpenor	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Iphiclides feisthamelii	Iphiclides podalirius	Field	Yes	"Gaunet, A; Dinca, V; Dapporto, L; Montagud, S; Voda, R; Schar, S; Badiane, A; Font, E; Vila, R."	2019	"Two consecutive Wolbachia-mediated mitochondrial introgressions obscure taxonomy in Palearctic swallowtail butterflies (Lepidoptera, Papilionidae)"
+"""Butterfly"""	Nymphalidae	Junonia coenia	Junonia zonalis	Field	Yes	"Lalonde, MML; Marcus, JM."	2020	BACK TO THE FUTURE: UPDATES ON THE INVASION HISTORY OF JUNONIA BUTTERFLIES IN FLORIDA AND THE MYSTERY OF CHOKOLOSKEE
+"""Moth"""	Sphingidae	Laothoe austauti	Smerinthus atlanticus	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Sphingidae	Laothoe austauti	Smerinthus ocellata	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Sphingidae	Laothoe populi	Smerinthus atlanticus	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Sphingidae	Laothoe populi	Smerinthus ocellata	Field	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Pieridae	Leptidea reali	Leptidea sinapis	Field	Yes	"Verovnik, R; Glogovcan, P."	2007	Morphological and molecular evidence of a possible hybrid zone of Leptidea sinapis and L reali (Lepidoptera : Pieridae)
+"""Butterfly"""	Nymphalidae	Limenitis archippus	Limenitis arthemis	Field	Yes	"PLATT, AP; HARRISON, SJ."	1994	"1ST RECORD OF AN HETEROTIC, ADULT FEMALE HYBRID LIMENITIS (BASILARCHIA) RUBIDUS (LEPIDOPTERA, NYMPHALIDAE)"
+"""Butterfly"""	Nymphalidae	Limenitis archippus	Limenitis lorquini	Field	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Nymphalidae	Limenitis archippus	Limenitis weidemeyerii	Field	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Geometridae	Lycia hirtaria	Lycia lapponaria	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Geometridae	Lycia hirtaria	Nyssia graecaria	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Geometridae	Lycia hirtaria 	Lycia isabellae	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Geometridae	Lycia hirtaria 	Lycia pomonaria	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Geometridae	Lycia hirtaria 	Lycia zonaria	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Geometridae	Lycia isabellae	Lycia lapponaria	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Geometridae	Lycia isabellae	Lycia pomonaria	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Geometridae	Lycia lapponaria	Lycia pomonaria	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Geometridae	Lycia zonaria	Lycia isabellae	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Geometridae	Lycia zonaria	Lycia lapponaria	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Geometridae	Lycia zonaria	Lycia pomonaria	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Geometridae	Lycia zonaria	Poecilopsis rachelae	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Lasiocampidae	Malacosoma castrensis	Malacosoma neustria	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Lasiocampidae	Malacosoma franconica	Malacosoma neustria	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Nymphalidae	Maniola chia	Maniola nurag	Field	Yes	"Grill, A; de Vos, R; van Arkel, J."	2004	"The shape of endemics: Notes on male and female genitalia in the genus Maniola (Schrank, 1801), (Lepidoptera, Nymphalidae, Satyrinae)"
+"""Butterfly"""	Nymphalidae	Maniola jurtina	Maniola nurag	Field	Yes	"Grill, A; Gkiokia, E; Alvarez, N."	2006	Evolutionary history and patterns of differentiation among European Maniola butterflies (Lepidoptera : Satyrinae)
+"""Butterfly"""	Nymphalidae	Melitaea acentria	Melitaea acentria	Field	Yes	"Pazhenkova, EA; Lukhtanov, VA."	2021	"Genomic introgression from a distant congener in the Levant fritillary butterfly, Melitaea acentria"
+"""Butterfly"""	Nymphalidae	Melitaea ornata	Melitaea phoebe	Field	Yes	"Russell, P; Bartolozzi, L."	2019	"A revisit to the Melitaea taxon nigrogygia Verity, 1939 (Lepidoptera: Nymphalidae) and designation of a Lectotype"
+"""Moth"""	Sphingidae	Mimas tiliae	Smerinthus ocellata	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Geometridae	Operophtera bruceata	Operophtera brumata	Field	Yes	"TROUBRIDGE, JT; FITZPATRICK, SM."	1993	"A REVISION OF THE NORTH-AMERICAN OPEROPHTERA (LEPIDOPTERA, GEOMETRIDAE)"
+"""Moth"""	Erebidae	Orgyia antiqua	Orgyia thyellina	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Crambidae	Ostrinia furnacalis	Ostrinia nubilalis	Field	Yes	"Wang, YZ; Kim, KS; Guo, WC; Li, QY; Zhang, YY; Wang, ZY; Coates, BS."	2017	Introgression between divergent corn borer species in a region of sympatry: Implications on the evolution and adaptation of pest arthropods
+"""Moth"""	Crambidae	Ostrinia furnacalis	Ostrinia scapulalis	Field	Yes	"Bourguet, D; Ponsard, S; Streiff, R; Meusnier, S; Audiot, P; Li, J; Wang, ZY."	2014	'Becoming a species by becoming a pest' or how two maize pests of the genus Ostrinia possibly evolved through parallel ecological speciation events
+"""Moth"""	Crambidae	Ostrinia zaguliaevi	Ostrinia zealis	Laboratory	Yes	"Tabata, J; Ishikawa, Y."	2011	Genetic Basis Regulating the Sex Pheromone Blend in Ostrinia zealis (Lepidoptera: Crambidae) and Its Allies Inferred From Crossing Experiments
+"""Butterfly"""	Papilionidae	Papilio aegeus	Papilio helenus	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio aegeus	Papilio maackii	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio aegeus	Papilio machaon	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio aegeus	Papilio macilentus	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio aegeus	Papilio polytes	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio aegeus	Papilio xuthus	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio alexiares	Papilio glaucus	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio alphenor	Papilio polytes	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio arcturus	Papilio bianor	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio ascalaphus	Papilio memnon	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio bianor	Papilio maackii	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio bianor	Papilio machaon	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio bianor	Papilio paris	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio bianor	Papilio polyctor	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio bianor	Papilio xuthus	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio brevicauda	Papilio machaon	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio brevicauda	Papilio polyxenes	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio canadensis	Papilio glaucus	Field	Yes	"Scriber, JM; Hagen, RH; Lederhouse, RC."	1996	"Genetics of mimicry in the tiger swallowtail butterflies, Papilio glaucus and P-canadensis (lepidoptera: Papilionidae)"
+"""Butterfly"""	Papilionidae	Papilio constantinus	Papilio dardanus	Laboratory	Yes	"CLARKE, CA; GORDON, IJ; SMITH, CR; VANEWRIGHT, RI."	1991	"PHYLOGENETIC-RELATIONSHIPS OF 3 AFRICAN SWALLOWTAIL BUTTERFLIES, PAPILIO-DARDANUS, P-PHORCAS AND P-CONSTANTINUS - NEW DATA FROM HYBRIDS (LEPIDOPTERA, PAPILIONIDAE)"
+"""Butterfly"""	Papilionidae	Papilio constantinus	Papilio phorcas	Laboratory	Yes	"CLARKE, CA; GORDON, IJ; SMITH, CR; VANEWRIGHT, RI."	1991	"PHYLOGENETIC-RELATIONSHIPS OF 3 AFRICAN SWALLOWTAIL BUTTERFLIES, PAPILIO-DARDANUS, P-PHORCAS AND P-CONSTANTINUS - NEW DATA FROM HYBRIDS (LEPIDOPTERA, PAPILIONIDAE)"
+"""Butterfly"""	Papilionidae	Papilio dardanus	Papilio phorcas	Field	Yes	"VANEWRIGHT, RI; SMITH, CR."	1992	"OCCURRENCE AND SIGNIFICANCE OF NATURAL HYBRIDS BETWEEN PAPILIO-DARDANUS AND P-PHORCAS (LEPIDOPTERA, PAPILIONIDAE)"
+"""Butterfly"""	Papilionidae	Papilio demoleus	Papilio maackii	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio demoleus	Papilio machaon	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio demoleus	Papilio xuthus	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio eurymedon	Papilio glaucus	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio eurymedon	Papilio multicaudatus	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio eurymedon	Papilio rutulus	Field	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio fuscus	Papilio macilentus	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio fuscus	Papilio polytes	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio glaucus	Papilio multicaudatus	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio glaucus	Papilio rutulus	Field	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio glaucus	Papilio scamander	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio glaucus	Papilio xuthus	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio helenus	Papilio hystaspes	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio helenus	Papilio memnon	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio helenus	Papilio nephelus	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio helenus	Papilio polytes	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio helenus	Papilio protenor	Field	Yes	"SPERLING, FAH."	1990	"NATURAL HYBRIDS OF PAPILIO (INSECTA, LEPIDOPTERA) - POOR TAXONOMY OR INTERESTING EVOLUTIONARY PROBLEM"
+"""Butterfly"""	Papilionidae	Papilio helenus	Papilio xuthus	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio hipponous	Papilio polytes	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio hospiton	Papilio machaon	Field	Yes	"Aubert, J; Barascud, B; Descimon, H; Michel, F."	1997	"Ecology and genetics of interspecific hybridization in the swallowtails, Papilio hospiton Gene and P-machaon L, in Corsica (Lepidoptera: Papilionidae)"
+"""Butterfly"""	Papilionidae	Papilio maackii	Papilio polyctor	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio maackii	Papilio xuthus	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio machaon	Papilio maackii	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio machaon	Papilio macilentus	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio machaon	Papilio polytes	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio machaon	Papilio polyxenes	Field	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio machaon	Papilio protenor	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio machaon	Papilio xuthus	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio machaon	Papilio zelicaon	Field	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio macilentus	Papilio memnon	Field	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio macilentus	Papilio xuthus	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio memnon	Papilio polymnestor	Field	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio memnon	Papilio polytes	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio memnon	Papilio rumanzovia	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio memnon	Papilio xuthus	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio multicaudatus	Papilio rutulus	Field	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio nephelus	Papilio polytes	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio palamedes	Papilio scamander	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio paris	Papilio xuthus	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio polymnestor	Papilio rumanzovia	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio polytes	Papilio polytes	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio polytes	Papilio protenor	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio polyxenes	Papilio machaon	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio polyxenes	Papilio xuthus	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio polyxenes	Papilio zelicaon	Laboratory	Yes	"Scriber, JM."	2007	Segregation of F-2 interspecific hybrid growth performance and wing color patterns relative to parental species in the Papilio machaon species group (Lepidoptera : Papilionidae)
+"""Butterfly"""	Papilionidae	Papilio protenor	Papilio xuthus	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Papilio zelicaon	Papilio polyxenes	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Papilionidae	Parnassius apollo	Parnassius phoebus	Field	Yes	"DESCIMON, H; GEIGER, H."	1988	"ELECTROPHORETIC DETECTION OF INTERSPECIFIC HYBRIDS IN PARNASSIUS (LEPIDOPTERA, PAPILIONIDAE)"
+"""Butterfly"""	Papilionidae	Parnassius bremeri	Parnassius nomion	Field	Yes	"Zakharov, EV."	2001	"Natural hybridization between two swallowtail species Parnassius nomion and Parnassius bremeri (Lepidoptera, Papilionidae) shown by RAPD-PCR"
+"""Butterfly"""	Hesperiidae	Pelopidas agna	Pelopidas mathias	Field	Yes	"Goonesekera, K; Lee, PLM; Van der Poorten, G; Ranawaka, G."	2021	"A global comparison of DNA sequences of Pelopidas (Lepidoptera: Hesperiidae) reveals discordance between morphological and genetic data, and an insular 'ghost' population"
+"""Butterfly"""	Nymphalidae	Phyciodes batesii	Phyciodes tharos	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Nymphalidae	Phyciodes campestris	Phyciodes tharos	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Nymphalidae	Phyciodes cocyta	Phyciodes tharos	Laboratory	Yes	"OLIVER, CG."	1980	"PHENOTYPIC DIFFERENTIATION AND HYBRID BREAKDOWN WITHIN PHYCIODES-THAROS (LEPIDOPTERA, NYMPHALIDAE) IN THE NORTHEASTERN UNITED STATES"
+"""Moth"""	Lasiocampidae	Phyllodesma ilicifolia	Phyllodesma tremulifolia	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Pieridae	Pieris bryoniae	Pieris napi	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Pieridae	Pieris callidice	Pieris occidentalis	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Pieridae	Pieris dulcinea	Pieris napi	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Pieridae	Pieris ergane	Pieris napi	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Pieridae	Pieris macdunnoughii	Pieris napi	Laboratory	Yes	"Chew, FS; Watt, WB."	2006	"The green-veined white (Pieris napi L.), its Pierine relatives, and the systematics dilemmas of divergent character sets (Lepidoptera, Pieridae)"
+"""Butterfly"""	Pieridae	Pieris mannii	Pieris napi	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Pieridae	Pieris mannii	Pieris rapae	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Pieridae	Pieris marginalis	Pieris napi	Laboratory	Yes	"Chew, FS; Watt, WB."	2006	"The green-veined white (Pieris napi L.), its Pierine relatives, and the systematics dilemmas of divergent character sets (Lepidoptera, Pieridae)"
+"""Butterfly"""	Pieridae	Pieris marginalis	Pieris oleracea	Laboratory	Yes	"Chew, FS; Watt, WB."	2006	"The green-veined white (Pieris napi L.), its Pierine relatives, and the systematics dilemmas of divergent character sets (Lepidoptera, Pieridae)"
+"""Butterfly"""	Pieridae	Pieris melete	Pieris napi	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Pieridae	Pieris microstriata	Pieris napi	Laboratory	Yes	"Chew, FS; Watt, WB."	2006	"The green-veined white (Pieris napi L.), its Pierine relatives, and the systematics dilemmas of divergent character sets (Lepidoptera, Pieridae)"
+"""Butterfly"""	Pieridae	Pieris napi	Pieris bryoniae	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Pieridae	Pieris napi	Pieris nesis	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Pieridae	Pieris napi	Pieris oleracea	Laboratory	Yes	"Chew, FS; Watt, WB."	2006	"The green-veined white (Pieris napi L.), its Pierine relatives, and the systematics dilemmas of divergent character sets (Lepidoptera, Pieridae)"
+"""Butterfly"""	Pieridae	Pieris napi	Pieris rapae	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Pieridae	Pieris napi	Pieris virginiensis	Laboratory	Yes	"Chew, FS; Watt, WB."	2006	"The green-veined white (Pieris napi L.), its Pierine relatives, and the systematics dilemmas of divergent character sets (Lepidoptera, Pieridae)"
+"""Butterfly"""	Pieridae	Pieris rapae	Pontia daplidice	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Lycaenidae	Plebejus idas	Plebejus melissa	Field	Yes	"Gompert, Z; Lucas, LK; Fordyce, JA; Forister, ML; Nice, CC."	2010	Secondary contact between Lycaeides idas and L-melissa in the Rocky Mountains: extensive admixture and a patchy hybrid zone
+"""Butterfly"""	Pieridae	Pontia daplidice	Pontia edusa	Field	Yes	"Porter, AH; Wenger, R; Geiger, H; Scholl, A; Shapiro, AM."	1997	The Pontia daplidice-edusa hybrid zone in northwestern Italy
+"""Butterfly"""	Pieridae	Pontia protodice	Pontia daplidice	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Lycaenidae	Pseudophilotes baton	Pseudophilotes vicrama	Field	No	"Bartonova, AS; Konvicka, M; Maresova, J; Wiemers, M; Ignatev, N; Wahlberg, N; Schmitt, T; Fric, ZF."	2021	Wolbachia affects mitochondrial population structure in two systems of closely related Palaearctic blue butterflies
+"""Butterfly"""	Hesperiidae	Pyrgus malvae	Pyrgus malvoides	Field	Yes	"Hernandez-Roldan, JL; Bofill, R; Dapporto, L; Munguira, ML; Vila, R."	2014	Morphological and chemical analysis of male scent organs in the butterfly genus Pyrgus (Lepidoptera: Hesperiidae)
+"""Moth"""	Saturniidae	Saturnia mendocino	Saturnia walterorum	Field	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Saturniidae	Saturnia pavonia	Saturnia pyri	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Saturniidae	Saturnia pavonia	Saturnia spini	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Geometridae	Selenia bilunaria	Selenia tetralunaria	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Noctuidae	Spodoptera descoinsi	Spodoptera latifascia	Laboratory	Yes	"Monti, L; Genermont, J; Malosse, C; LalanneCassou, B."	1997	"A genetic analysis of some components of reproductive isolation between two closely related species, Spodoptera latifascia (Walker) and S-descoinsi (Lalanne- Cassou and Silvain) (Lepidoptera: Noctuidae)"
+"""Moth"""	Noctuidae	Spodoptera littoralis	Spodoptera litura	Laboratory	Yes	"Saveer, AM; Becher, PG; Birgersson, G; Hansson, BS; Witzgall, P; Bengtsson, M."	2014	Mate recognition and reproductive isolation in the sibling species Spodoptera littoralis and Spodoptera litura
+"""Butterfly"""	Pieridae	Tatochila mercedis	Tatochila sterodice	Field	Yes	"PORTER, AH; SHAPIRO, AM."	1990	"LOCK-AND-KEY HYPOTHESIS - LACK OF MECHANICAL ISOLATION IN A BUTTERFLY (LEPIDOPTERA, PIERIDAE) HYBRID ZONE"
+"""Butterfly"""	Pieridae	Tatochila mercedis	Tatochila vanvolxemii	Field	Yes	"PORTER, AH; SHAPIRO, AM."	1990	"LOCK-AND-KEY HYPOTHESIS - LACK OF MECHANICAL ISOLATION IN A BUTTERFLY (LEPIDOPTERA, PIERIDAE) HYBRID ZONE"
+"""Moth"""	Notodontidae	Thaumetopoea pityocampa	Thaumetopoea wilkinsoni	Field	Yes	"Ipekdal, K; Burban, C; Saune, L; Battisti, A; Kerdelhue, C."	2020	From refugia to contact: Pine processionary moth hybrid zone in a complex biogeographic setting
+"""Moth"""	Geometridae	Thera obeliscata	Thera variata	Laboratory	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Moth"""	Geometridae	Timandra comae	Timandra griseata	Field	Yes	"Ounap, E; Viidalepp, J; Saarma, U."	2005	Phylogenetic evaluation of the taxonomic status of Timandra griseata and T-comae (Lepidoptera : Geometridae : Sterrhinae)
+"""Moth"""	Crambidae	Udea alpinalis	Udea uliginosalis	Field	Yes	"Mally, R; Huemer, P; Nuss, M."	2018	"Deep intraspecific DNA barcode splits and hybridisation in the Udea alpinalis group (Insecta, Lepidoptera, Crambidae) - an integrative revision"
+"""Moth"""	Yponomeutidae	Yponomeuta cagnagella	Yponomeuta malinellus	Laboratory	Yes	"Hora, KH; Roessingh, P; Menken, SBJ."	2005	Inheritance and plasticity of adult host acceptance in Yponomeuta species: implications for host shifts in specialist herbivores
+"""Moth"""	Yponomeutidae	Yponomeuta cagnagella	Yponomeuta padella	Laboratory	Yes	"Hora, KH; Roessingh, P; Menken, SBJ."	2005	Inheritance and plasticity of adult host acceptance in Yponomeuta species: implications for host shifts in specialist herbivores
+"""Moth"""	Yponomeutidae	Yponomeuta malinellus	Yponomeuta padella	Field	Yes	"Presgraves, DC."	2002	Patterns of postzygotic isolation in Lepidoptera
+"""Butterfly"""	Lycaenidae	Zizina emelina	Zizina otis	Laboratory	Yes	"Sakamoto, Y; Yago, M."	2017	Potential for interspecific hybridization between Zizina emelina and Zizina otis (Lepidoptera: Lycaenidae)
+"""Butterfly"""	Lycaenidae	Zizina labradus	Zizina oxleyi	Field	Yes	"Gillespie, M; Wratten, SD; Cruickshank, R; Wiseman, BH; Gibbs, GW."	2013	Incongruence between morphological and molecular markers in the butterfly genus Zizina (Lepidoptera: Lycaenidae) in New Zealand
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
