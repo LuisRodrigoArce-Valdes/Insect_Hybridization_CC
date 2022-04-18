@@ -1,1 +1,12 @@
-Linux/results/
+# Raw fasta files from BOLD
+Linux/01_Consensus/results/*/01_BOLD/*.fasta
+
+# Intermediary files
+Linux/*/results/*/02*
+Linux/*/results/*/03*
+Linux/*/results/*/04*
+Linux/*/results/*/05*
+Linux/*/results/*/06*
+
+# R
+.Rproj.user
