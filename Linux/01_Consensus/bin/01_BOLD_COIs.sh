@@ -5,9 +5,9 @@
 # http://www.boldsystems.org/
 # https://github.com/CNuge/BOLD-CLI
 
-# For looping across all 4 orders
+# For looping across all 4 orders and Odonates
 
-for i in Orthoptera Lepidoptera Hymenoptera Diptera
+for i in Odonata Orthoptera Lepidoptera Hymenoptera Diptera
 do
 
 # 01. Creating output diretories
