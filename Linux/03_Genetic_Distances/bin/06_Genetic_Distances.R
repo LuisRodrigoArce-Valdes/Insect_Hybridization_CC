@@ -13,7 +13,7 @@ library(tidyr)
 groups <- c("Orthoptera", "Lepidoptera", "Diptera", "Hymenoptera")
 
 # Genetic Distance Model (help: dist.dna):
-model <- "TN93"
+model <- "raw"
 
 # Consensus ####
 # Reading FASTAs
