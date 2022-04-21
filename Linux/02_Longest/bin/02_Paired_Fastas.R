@@ -8,7 +8,7 @@ library(tidyr)
 library(dplyr)
 
 # Groups vector
-groups <- c("Orthoptera", "Lepidoptera", "Diptera", "Hymenoptera")
+groups <- c("Odonata","Orthoptera", "Lepidoptera", "Diptera", "Hymenoptera")
 
 # List of hybridizing species per group
 species <- list()

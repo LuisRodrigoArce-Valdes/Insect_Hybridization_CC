@@ -1,4 +1,41 @@
 Order	Suborder	Family	Sp1	Sp2	Condition	MainTopic	Authors	Year	Article
+Odonata	Zygoptera	Coenagrionidae	Ischnura pumilio	Ischnura elegans	Sympatric	Yes	(Miller & Fincke, 2004)	NA	NA
+Odonata	Zygoptera	Coenagrionidae	Ischnura barberi	Ischnura ramburii	Sympatric	Yes	(Deviche, 2010)	NA	NA
+Odonata	Zygoptera	Coenagrionidae	Ischnura pumilio	Ischnura graellsii	Sympatric	Yes	(Cordero, 1989)	NA	NA
+Odonata	Zygoptera	Coenagrionidae	Ischnura damula	Ischnura demorsa	Sympatric	Yes	(Johnson, 1975)	NA	NA
+Odonata	Zygoptera	Coenagrionidae	Ischnura demorsa	Ischnura damula	Sympatric	Yes	(Johnson, 1975)	NA	NA
+Odonata	Zygoptera	Coenagrionidae	Ischnura graellsii	Ischnura elegans	Sympatric	Yes	(Sánchez-Guillén et al., 2012)	NA	NA
+Odonata	Zygoptera	Coenagrionidae	Ischnura elegans	Ischnura graellsii	Sympatric	Yes	(Sánchez-Guillén et al., 2012)	NA	NA
+Odonata	Zygoptera	Coenagrionidae	Ischnura elegans	Ischnura genei	Sympatric	Yes	(Sánchez-Guillén unpublished data)	NA	NA
+Odonata	Zygoptera	Coenagrionidae	Ischnura genei	Ischnura elegans	Sympatric	Yes	(Sánchez-Guillén unpublished data)	NA	NA
+Odonata	Zygoptera	Coenagrionidae	Ischnura graellsii	Ischnura saharensis	Sympatric	Yes	(Sánchez-Guillér unpublished data)	NA	NA
+Odonata	Zygoptera	Coenagrionidae	Ischnura saharensis	Ischnura graellsii	Sympatric	Yes	(Sánchez-Guillén unpublished data)	NA	NA
+Odonata	Zygoptera	Coenagrionidae	Ischnura graellsii	Ischnura genei	Allopatric	Yes	(Sánchez-Guillén unpublished data)	NA	NA
+Odonata	Zygoptera	Coenagrionidae	Ischnura genei	Ischnura graellsii	Allopatric	Yes	(Sánchez-Guillén unpublished data)	NA	NA
+Odonata	Zygoptera	Coenagrionidae	Ischnura elegans ebneri	Ischnura fountaineae	Sympatric	Yes	(Corbet, 1980)	NA	NA
+Odonata	Zygoptera	Coenagrionidae	Ischnura gemina	Ischnura denticollis	Sympatric	Yes	(Tierney, 1996)	NA	NA
+Odonata	Zygoptera	Coenagrionidae	Ischnura denticollis	Ischnura gemina	Sympatric	Yes	(Tierney, 1996)	NA	NA
+Odonata	Zygoptera	Coenagrionidae	Enallagma carunculatum	Ischnura cervula	Sympatric	Yes	(Miller & Fincke, 2004)	NA	NA
+Odonata	Zygoptera	Coenagrionidae	Ischnura pumilio	Platycnemis pennipes	Sympatric	Yes	(Kunz, 2005)	NA	NA
+Odonata	Zygoptera	Coenagrionidae	Enallagma cyathigerum	Ischnura denticollis	Sympatric	Yes	(Miller & Fincke, 2004)	NA	NA
+Odonata	Zygoptera	Coenagrionidae	Ischnura elegans	Coenagrion pulchellum	Sympatric	Yes	(Bick & Bick, 1981)	NA	NA
+Odonata	Zygoptera	Coenagrionidae	Ischnura elegans	Erythromma lindenii	Sympatric	Yes	(Miller & Fincke, 2004)	NA	NA
+Odonata	Zygoptera	Coenagrionidae	Ischnura elegans	Erythromma najas	Sympatric	Yes	(Miller & Fincke, 2004)	NA	NA
+Odonata	Zygoptera	Coenagrionidae	Ischnura perparva	Enallagma anna	Sympatric	Yes	(Bick & Bick, 1981)	NA	NA
+Odonata	Zygoptera	Coenagrionidae	Pyrrhosoma nymphula	Ischnura elegans	Sympatric	Yes	(Miller & Fincke, 2004)	NA	NA
+Odonata	Zygoptera	Coenagrionidae	Enallagma carunculatum	Ischnura perparva	Sympatric	Yes	(Miller & Fincke, 2004)	NA	NA
+Odonata	Zygoptera	Coenagrionidae	Ischnura elegans	Coenagrion puella	Sympatric	Yes	(Utzeri & Belfiore, 1990)	NA	NA
+Odonata	Zygoptera	Coenagrionidae	Ischnura elegans	Enallagma cyathigerum	Sympatric	Yes	(Bick & Bick, 1981)	NA	NA
+Odonata	Zygoptera	Coenagrionidae	Ischnura elegans	Pyrrhosoma nymphula	Sympatric	Yes	(Miller & Fincke, 2004)	NA	NA
+Odonata	Zygoptera	Coenagrionidae	Ischnura pumilio	Coenagrion puella	Sympatric	Yes	(Miller & Fincke, 2004)	NA	NA
+Odonata	Zygoptera	Coenagrionidae	Ischnura pumilio	Enallagma cyathigerum	Sympatric	Yes	(Miller & Fincke, 2004)	NA	NA
+Odonata	Zygoptera	Coenagrionidae	Pyrrhosoma nymphula	Ischnura pumilio	Sympatric	Yes	(Garner, 2003)	NA	NA
+Odonata	Zygoptera	Coenagrionidae	Enallagma hageni	Ischnura cervula	Sympatric	Yes	(Bick & Bick, 1981)	NA	NA
+Odonata	Zygoptera	Coenagrionidae	Ischnura elegans	Lestes sponsa	Sympatric	Yes	(Miller & Fincke, 2004)	NA	NA
+Odonata	Zygoptera	Coenagrionidae	Ischnura elegans	Lestes viridis	Sympatric	Yes	(Miller & Fincke, 2004)	NA	NA
+Odonata	Zygoptera	Coenagrionidae	Ischnura erratica	Lestes disjunctus	Sympatric	Yes	(Miller & Fincke, 2004)	NA	NA
+Odonata	Zygoptera	Coenagrionidae	Ischnura elegans	Calopteryx splendens	Sympatric	Yes	(Seggewise, 2008)	NA	NA
+Odonata	Zygoptera	Coenagrionidae	Ischnura elegans	Sympecma fusca	Sympatric	Yes	(Seggewise, 2008)	NA	NA
 Orthoptera	Ensifera	Gryllidae	Allonemobius fasciatus	Allonemobius socius	Field	Yes	GREGORY, PG; HOWARD, DJ.	1993	LABORATORY HYBRIDIZATION STUDIES OF ALLONEMOBIUS-FASCIATUS AND A-SOCIUS (ORTHOPTERA, GRYLLIDAE)
 Orthoptera	Ensifera	Gryllidae	Allonemobius shalontaki	Allonemobius socius	Laboratory	Yes	Birge, LM; Braswell, WE; Howard, DJ.	2007	A component of isolation between Allonemobius shalontaki (Orthoptera : Gryllidae : Nemobiinae) and a sympatric congener
 Orthoptera	Caelifera	Acrididae	Chorthippus albomarginatus	Chorthippus karelini	Field	Yes	Vedenina, VY.	2015	COURTSHIP SONG ANALYSIS IN TWO HYBRID ZONES BETWEEN SIBLING SPECIES OF THE CHORTHIPPUS ALBOMARGINATUS GROUP (ORTHOPTERA, GOMPHOCERINAE)
