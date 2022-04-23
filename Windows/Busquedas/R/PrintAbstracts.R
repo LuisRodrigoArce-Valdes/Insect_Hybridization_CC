@@ -1,21 +1,19 @@
 # Script to noquote out title, authors, years and abstract of all found manuscripts
 rm(list = ls())
 
-###############################################################################################################
-# EDIT THIS SECTION
+for (i in c("Diptera", "Orthoptera", "Lepidoptera", "Hymenoptera")) {
 
 # Select Web  of Science table to analyse
-file <- "../Hybrid/Hymenoptera/09_Hybrid_Hymenoptera.txt"
+file <- paste0("../Barriers/",i,"/",i,".txt")
 
 # Output file name
 output <- gsub(".txt","", file)
 
 # Add search information
 engine <- "Web of Science"
-string <- '(AB=(hybrid OR hybridization OR hybridisation) OR AK=(hybrid OR hybridization OR hybridisation) OR TI=(hybrid OR hybridization OR hybridisation)) AND (AB=(hymenoptera) OR TI=(hymenoptera) or AK=(hymenoptera)) NOT ALL=(fluorescent OR fluorescence OR "in situ" OR resistance)'
+string <- paste0("((TS=(reproductive barriers)) OR TS=(reproductive isolation)) AND ALL=(",i,")")
 date <- "28/03/2022"
 
-###############################################################################################################
 
 # Reading file (coding for this tab delimited text files is VERY strange)
 head <- read.table(file, header = F, nrows = 1, sep = "\t")
@@ -58,4 +56,5 @@ for (i in 1:nrow(file)) {
 }
 sink()
 
+}
 # Convert to pdf using https://www.markdowntopdf.com/
