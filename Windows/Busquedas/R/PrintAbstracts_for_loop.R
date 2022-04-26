@@ -1,15 +1,17 @@
 # Script to noquote out title, authors, years and abstract of all found manuscripts
 rm(list = ls())
 
+for (i in c("Lepidoptera", "Hymenoptera")) {
+
 # Select Web  of Science table to analyse
-file <- paste0("../Barriers/Hymenoptera/Hymenoptera_2.txt")
+file <- paste0("../Barriers/",i,"/",i,".txt")
 
 # Output file name
 output <- gsub(".txt","", file)
 
 # Add search information
 engine <- "Web of Science"
-string <- '(AB=("reproductive barriers" OR "reproductive isolation") OR AK=("reproductive barriers" OR "reproductive isolation") OR TI=("reproductive barriers" OR "reproductive isolation")) AND (ALL=(hymenoptera))'
+string <- paste0('(AB=("reproductive barriers" OR "reproductive isolation") OR AK=("reproductive barriers" OR "reproductive isolation") OR TI=("reproductive barriers" OR "reproductive isolation")) AND (ALL=(',i,'))')
 date <- "29/04/2022"
 
 
@@ -53,3 +55,6 @@ for (i in 1:nrow(file)) {
   cat(noquote("---\n\n"))
 }
 sink()
+
+}
+# Convert to pdf using https://www.markdowntopdf.com/
