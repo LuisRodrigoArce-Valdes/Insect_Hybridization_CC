@@ -2,15 +2,15 @@
 rm(list = ls())
 
 # Select Web  of Science table to analyse
-file <- paste0("../Barriers/Hymenoptera/Hymenoptera_2.txt")
+file <- paste0("../Barriers/Diptera/Diptera.txt")
 
 # Output file name
 output <- gsub(".txt","", file)
 
 # Add search information
 engine <- "Web of Science"
-string <- '(AB=("reproductive barriers" OR "reproductive isolation") OR AK=("reproductive barriers" OR "reproductive isolation") OR TI=("reproductive barriers" OR "reproductive isolation")) AND (ALL=(hymenoptera))'
-date <- "29/04/2022"
+string <- '(AB=("reproductive barriers" OR "reproductive isolation") OR AK=("reproductive barriers" OR "reproductive isolation") OR TI=("reproductive barriers" OR "reproductive isolation")) AND (ALL=(Diptera))'
+date <- "27/04/2022"
 
 
 # Reading file (coding for this tab delimited text files is VERY strange)
