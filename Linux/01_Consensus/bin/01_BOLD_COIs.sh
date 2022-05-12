@@ -7,7 +7,7 @@
 
 # For looping across all 4 orders and Odonates
 
-for i in Odonata # Orthoptera Lepidoptera Hymenoptera Diptera
+for i in Odonata Orthoptera Lepidoptera Hymenoptera Diptera
 do
 
 # 01. Creating output diretories
