@@ -10,7 +10,7 @@ library(dplyr)
 library(tidyr)
 
 # Groups vector
-groups <- c("Orthoptera", "Lepidoptera", "Diptera", "Hymenoptera")
+groups <- c("Odonata", "Orthoptera", "Lepidoptera", "Diptera", "Hymenoptera")
 
 # Genetic Distance Model (help: dist.dna):
 model <- "raw"
@@ -87,10 +87,10 @@ rm(consensus, longest)
 Wide.COIs <- spread(COIs, Strategy, Distance)
 
 # Looking for outliers
-Wide.COIs$Outliers <- Wide.COIs$Consensus > 0.25 | Wide.COIs$Longest > 0.25
+Wide.COIs$Outliers <- Wide.COIs$Consensus > 0.20 | Wide.COIs$Longest > 0.20
 
 # Scatterplot
-png("../figures/01_Strategies.png", width = 1600, height = 1600, res = 300)
+png("../figures/01_Strategies.png", width = 1800, height = 1600, res = 300)
 ggplot(Wide.COIs) +
   scale_y_continuous(limits = c(0,1)) +
   scale_x_continuous(limits = c(0,1)) +
@@ -139,7 +139,7 @@ dev.off()
 Wide.COIs <- Wide.COIs[Wide.COIs$Outliers==F,]
 Wide.COIs <- Wide.COIs[complete.cases(Wide.COIs),]
 
-png("../figures/04_Strategies_Not_Outliers.png", width = 1600, height = 1600, res = 300)
+png("../figures/04_Strategies_Not_Outliers.png", width = 1800, height = 1600, res = 300)
 ggplot(Wide.COIs) +
   geom_abline(slope = 1, intercept = 0) +
   geom_point(aes(x=Consensus, y=Longest, color=Order), alpha = 0.75) +
@@ -196,6 +196,10 @@ COIs <- COIs[,c(1,4,5,2,6,3)]
 
 # Also exporting table
 write.table(COIs, "../../Distances.txt", quote = F, sep = "\t", row.names = F)
+
+# Filtering odonates
+odonates <- COIs[COIs$Order=="Odonata",]
+COIs <- COIs[COIs$Order!="Odonata",]
 
 # Factoring suborder
 COIs$Suborder <- factor(COIs$Suborder, levels = c("Brachycera", "Nematocera",

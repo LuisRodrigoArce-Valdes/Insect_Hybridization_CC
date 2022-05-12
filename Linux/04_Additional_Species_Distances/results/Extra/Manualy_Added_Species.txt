@@ -1,0 +1,10 @@
+# Missings
+Allonemobius socius
+Calopteryx haemorroidalis
+Polyommatus agestis
+Polyommatus artaxerxes
+
+# Manually added from Genebank
+Hyles tithymali
+Phaulacridium marginale
+Phaulacridium otagoense

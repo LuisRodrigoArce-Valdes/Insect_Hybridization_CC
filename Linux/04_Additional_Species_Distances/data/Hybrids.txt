@@ -1,0 +1,12 @@
+Hymenoptera	Formica polyctena	Formica aquilonia
+Lepidoptera	Hyles euphorbiae	Hyles tithymali
+Lepidoptera	Polyommatus agestis	Polyommatus artaxerxes
+Orthoptera	Allonemobius socius	Allonemobius fasciatus
+Orthoptera	Phaulacridium marginale	Phaulacridium otagoense
+Odonata	Calopteryx splendens	Calopteryx haemorroidalis
+Odonata	Ischnura senegalensis	Ischnura elegans
+Odonata	Mnais costalis	Mnais pruinosa
+Odonata	Calopteryx splendens	Calopteryx xanthostoma
+Odonata	Coenagrion puella	Coenagrion pulchellum
+Odonata	Coenagrion puella	Coenagrion ornatum
+Odonata	Coenagrion pulchellum	Coenagrion ornatum
