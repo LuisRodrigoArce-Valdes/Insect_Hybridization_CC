@@ -1,0 +1,50 @@
+Table	Genus	Species (male)	Genus	Species (female)	Sexual inter	Try to tandem	Tandem	Mating	Oviposition	Hybrid-field	Hybrid-lab
+S2	Anax	imperator	Aeshna	juncea				x			
+S2	Argia	emma	Enallagama	carunculatum		x					
+S2	Argia	sedula	Enallagama	basidensis			x				
+S2	Coenagrion	puella	Enallagama	cyathigerum			x	x			
+S2	Cordulia 	aenea	Ephiteca	bimaculata				x			
+S2	Cordulia 	aenea	Somatochlora	flavomaculata	x			x			
+S2	Cordulia 	Shurtlefii	Leucorrinia	glaciallis	x						
+S2	Crocothemis	erythraea	Trithemis	annulata		x					
+S2	Diplacodes  	lefebvrei	Trithemis	arteriosa			x				
+S2	Dorocordulia 	libera	Ephiteca	canis	x						
+S2	Dromogomphus	spinosus	Gomphus	plagiatus			x				
+S2	Enallagma	basidensis	Argia	apicalis			x				
+S2	Enallagma	carunculatum	Argia	emma	x						
+S2	Enallagma	carunculatum	Ischnura 	cervula	x						
+S2	Enallagma	carunculatum	Ischnura 	perparva			x				
+S2	Enallagma	civile	Argia	moesta			x	x			
+S2	Enallagma	civile	Argia	vivida			x				
+S2	Enallagma	cyathigerum	Coenagrion 	puella		x					
+S2	Enallagma	cyathigerum	Ischnura 	denticolis		x					
+S2	Enallagma	cyathigerum	Telebasis 	salva		x					
+S2	Enallagma	hageni	Ischnura 	cervula			x				
+S2	Gomphus	crassus	Ophiogomphus	rupisulensis			x				
+S2	Gomphus	plagiatus	Dromogomphus	armatus			x				
+S2	Hetaerina 	americana 	Calopteryx	maculata		x	x	x			
+S2	Ischnura 	aurora	Xanthocnemis	Zealandica			x				
+S2	Ischnura 	elegans	Coenagrion 	pulchellum			x				
+S2	Ischnura 	elegans	Coenagrion 	puella				x			
+S2	Ischnura 	elegans 	Enallagama	cyathigerum				x			
+S2	Ischnura 	elegans 	Erythromma 	lindenii			x				
+S2	Ischnura 	elegans 	Erythromma 	najas			x				
+S2	Ischnura 	elegans 	Pyrrhosoma	nymphula				x			
+S2	Ischnura 	perparva	Enallagama	anna			x				
+S2	Ischnura 	pumilio	Coenagrion 	puella				x			
+S2	Ischnura 	pumilio	Enallagama	cyathigerum				x			
+S2	Lestes	sponsa	Sympecma	paedisca			x				
+S2	Lestes	sponsa	Chalcolestes	viridis			x				
+S2	Lestes	viridis	Sympecma	fusca		x					
+S2	Leucorrhinia	dubia orientalis	Sympetrum	danae		x					
+S2	Leucorrhinia	proxima	Sympetrum	pallipes			x				
+S2	Libellula	luctuosa	tramea	carolina			x				
+S2	Libellula	semifasciata	Celithemis	eponina			x				
+S2	Ophiogomphus	carolus	Gomphus	lividus			x				
+S2	Phyrrhosoma	nymphula	Coenagrion 	lunulatum			x				
+S2	Phyrrhosoma	nymphula	Coenagrion 	mercuriale			x				
+S2	Phyrrhosoma	nymphula	Coenagrion 	puella		x					
+S2	Phyrrhosoma	nymphula	Ischnura 	elegans			x				
+S2	Sympetrum	depressiusculum	Crocothemis	erythraea			x				
+S2	Sympetrum	depressiusculum	Orthetrum	cancellatum	x						
+S2	Sympetrum	frequens	Pantala	flavescens			x				
