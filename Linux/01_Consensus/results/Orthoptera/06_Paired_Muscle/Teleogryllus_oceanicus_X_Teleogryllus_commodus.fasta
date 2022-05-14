@@ -1,5 +1,5 @@
 >Teleogryllus_oceanicus
-ATGCGATGATT------ATTTTCTACTAATCATAAAGACATTGGAACTTTATATTTCATTTTTGGAGCTTGATCTGGAAT
+------ATGCGATGATTATTTTCTACTAATCATAAAGACATTGGAACTTTATATTTCATTTTTGGAGCTTGATCTGGAAT
 AGTAGGTACATCTTTAAGTATTTTAATTCGAACAGAATTAGGACAACCAGGATATCTTATTGGTGATGATCAAACTTATA
 ATGTTATTGTTACTGCACATGCATTTGTCATAATCTTTTTCATAGTAATACCAATTATAATTGGGGGTTTCGGAAATTGA
 TTAGTTCCACTAATATTAGGAGCTCCTGATATAGCATTTCCACGAATAAATAATATAAGATTTTGATTATTACCACCATC
@@ -20,7 +20,7 @@ CATTAGGTTCAACTATTTCCTTAATCGGAATTATTATATTAATTTTCATCATATGAGAAAGAATGATTTCTCATCGAAAA
 CTTTTATTTTCTATAAATTCAAATAGATCCTTAGAATGATTCCAAAATTTACCACCTGCAGAACATTCATATTCAGAACT
 TCCAATTCTTTCTAATT
 >Teleogryllus_commodus
-nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnAACTTTATATTTCATTTTTGGAGCTTGATCTGGAAT
+ttatcgcaacgatgattattttctactaatcataaagacattggAACTTTATATTTCATTTTTGGAGCTTGATCTGGAAT
 AGTAGGTACATCTTTAAGTATTTTAATTCGAACAGAATTAGGACAACCAGGATATCTTATTGGTGATGATCAAACTTATA
 ATGTTATTGTTACTGCGCATGCATTTGTCATAATCTTTTTCATAGTAATACCAATTATAATTGGGGGATTTGGAAATTGA
 TTGGTCCCACTAATATTAGGAGCTCCTGATATAGCATTTCCACGAATAAATAACATAAGATTTTGATTATTACCGCCATC
@@ -28,15 +28,15 @@ ATTAACCCTTTTATTAACCAGAAGAATAGTTGAAAATGGGGCAGGAACAGGATGAACGGTATACCCCCCATTATCAACCG
 GCATTGCTCATGCAGGTGCATCCGTTGATCTAGCTATTTTTTCATTACACCTAGCAGGGATTTCCTCCATTTTAGGAGCT
 GTCAATTTTATTACAACTATAATTAATATACGAGCCCCTGGAATATCAATAGATCAAACTCCATTATTTGTATGAGCCGT
 TGGTATTACAGCCCTTCTTTTATTATTATCATTACCAGTATTAGCTGGTGCTATTACTATATTATTAACAGACCGAAACT
-TAAATACTTCATTTTTCGATCCTGCAGGAGGAGGTGACCCCATTCTCTACCAACATTTATTTnnnnnnnnnnnnnnnnnn
-nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn--------------------------
+TAAATACTTCATTTTTCGATCCTGCAGGAGGAGGTGACCCCATTCTCTACCAACATTTATTTtgattctttggtcatcca
+gaggtttatattcttattttaccaggatttggaataatttctcatattattagacaagaaagaggtaaaaaggaagcatt
+tggaacacttgggataatttatgccatattagccattggtttattaggttttgttgtatgagcacatcatatatttactg
+ttggtatggatgtagatactcgagcatatttcacttcagccactataattattgccgttccaacaggaattaaaattttt
+agttgactagcaactcttcatggatctcaattatcctaca----------------------------------------
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
--------------------------------nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
-nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
-nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
-nnnnnnnnnnnnnnnnn
+-----------------

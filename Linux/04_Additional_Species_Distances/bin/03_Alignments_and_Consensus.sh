@@ -18,7 +18,7 @@ do
 		# Creating consesus sequence [cons only works if we have more than two sequencues]
 		if [ $(grep ">" ../results/$i/02_Species_Fastas/$n | wc -l) -gt 1 ]
 		then
-			cons -sequence ../results/$i/03_Muscle/$n.afa -outseq ../results/$i/04_Consensus/$n -name $n
+			cons -sequence ../results/$i/03_Muscle/$n.afa -outseq ../results/$i/04_Consensus/$n -name $n -plurality 1
 		else
 			cp ../results/$i/03_Muscle/$n.afa ../results/$i/04_Consensus/$n
 			sp=">$n"

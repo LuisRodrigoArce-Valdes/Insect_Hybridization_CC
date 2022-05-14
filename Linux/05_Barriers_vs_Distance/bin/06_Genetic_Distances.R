@@ -9,7 +9,7 @@ library(dplyr)
 library(tidyr)
 
 # Groups vector
-groups <- c("Orthoptera", "Diptera", "Hymenoptera") #"Odonata", "Lepidoptera"
+groups <- c("Orthoptera", "Diptera", "Hymenoptera", "Odonata") #"Lepidoptera"
 
 # Genetic Distance Model (help: dist.dna):
 model <- "raw"

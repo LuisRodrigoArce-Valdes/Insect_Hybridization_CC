@@ -16,9 +16,10 @@ do
 		# Aligning with muscle's "super5" algorithm (faster than the original method in large databases)
 		muscle -super5 ../results/$i/02_Species_Fastas/$n -output ../results/$i/03_Muscle/$n.afa
 		# Creating consesus sequence [cons only works if we have more than two sequencues]
+		# Using -plurality = 1, with at least one sequence per position consensus sequence will have a called nucleotide
 		if [ $(grep ">" ../results/$i/02_Species_Fastas/$n | wc -l) -gt 1 ]
 		then
-			cons -sequence ../results/$i/03_Muscle/$n.afa -outseq ../results/$i/04_Consensus/$n -name $n
+			cons -sequence ../results/$i/03_Muscle/$n.afa -outseq ../results/$i/04_Consensus/$n -name $n -plurality 1
 		else
 			cp ../results/$i/03_Muscle/$n.afa ../results/$i/04_Consensus/$n
 			sp=">$n"

@@ -27,6 +27,16 @@ odonates <- bind_rows(odonates)
 odonates$Species.male <- tolower(odonates$Species.male)
 odonates$Species.female <- tolower(odonates$Species.female)
 
+# Removing white spaces that could be at the end of each species
+odonates$Genera.male <- gsub(" *$","", odonates$Genera.male)
+odonates$Species.male <- gsub(" *$","", odonates$Species.male)
+odonates$Genera.female <- gsub(" *$","", odonates$Genera.female)
+odonates$Species.female <- gsub(" *$","", odonates$Species.female)
+
+# Removing white spaces that could be at the beggining of each species epithet
+odonates$Species.male <- gsub("^ *","", odonates$Species.male)
+odonates$Species.female <- gsub("^ *","", odonates$Species.female)
+
 # Removing subspecies epithet
 odonates$Species.male <- sub(" .*", "", odonates$Species.male)
 odonates$Species.female <- sub(" .*", "", odonates$Species.female)
@@ -63,3 +73,7 @@ for (i in 1:nrow(odonates)) {
   ri <- append(ri, pos)
 }
 odonates$RI <- ri
+
+# Saving table (later we will unify it with the other orders)
+dir.create("../results", showWarnings = F)
+write.table(odonates,"../results/odonates.tsv", sep = "\t", quote = F, row.names = F)

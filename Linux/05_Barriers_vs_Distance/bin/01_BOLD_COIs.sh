@@ -5,9 +5,12 @@
 # http://www.boldsystems.org/
 # https://github.com/CNuge/BOLD-CLI
 
+# Copying odondata species
+cp ../../../Windows/Busquedas/Barriers/Odonata/results/odonates.tsv ../data/01_raw/Odonata_Barriers.tsv
+
 # For looping across all 5 orders
 
-for i in Orthoptera Hymenoptera Diptera #Odonata Lepidoptera
+for i in Odonata #Lepidoptera Orthoptera Hymenoptera Diptera
 do
 
 # 01. Creating output diretories

@@ -27,6 +27,9 @@ for (i in groups) {
   fastas[[i]] <- fastas[[i]][grepl("COI-5P", fastas[[i]]$seq.name),]
   # Splitting column names
   fastas[[i]] <- separate(data = fastas[[i]], col = seq.name, into = c("BOLD", "Species", "Gene", "GenBank"), sep = "\\|", fill = "right")
+  # Removing "-" from the beggining and the end of the sequencues
+  fastas[[i]]$seq.text <- gsub("^-*","", fastas[[i]]$seq.text)
+  fastas[[i]]$seq.text <- gsub("-*$","", fastas[[i]]$seq.text)
   # Now we will remove "subspecies", to do that we will split the first appearance of " " by a "_":
   fastas[[i]]$Species <- sub(" ","_",fastas[[i]]$Species)
   # Now removing all text after a space, i. e. subspecies epitet
