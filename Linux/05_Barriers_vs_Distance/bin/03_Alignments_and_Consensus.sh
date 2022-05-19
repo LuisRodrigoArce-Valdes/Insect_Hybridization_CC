@@ -4,7 +4,7 @@
 # With this script we will align all COI sequences for each species and then create a Consensus sequence for each one
 # For looping across all 4 orders
 
-for i in Odonata Hymenoptera Orthoptera Diptera #Lepidoptera
+for i in Lepidoptera Odonata Hymenoptera Orthoptera Diptera
 do
 	mkdir -p ../data/$i/03_Muscle
 	mkdir -p ../data/$i/04_Consensus

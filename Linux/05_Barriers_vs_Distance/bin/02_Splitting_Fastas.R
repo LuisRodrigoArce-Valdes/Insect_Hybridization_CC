@@ -9,7 +9,7 @@ library(stringr)
 rm(list = ls())
 
 # Groups vector
-groups <- c("Orthoptera", "Diptera", "Hymenoptera", "Odonata") #"Lepidoptera"
+groups <- c("Orthoptera", "Diptera", "Hymenoptera", "Odonata", "Lepidoptera")
 
 # Creating list
 fastas <- list()

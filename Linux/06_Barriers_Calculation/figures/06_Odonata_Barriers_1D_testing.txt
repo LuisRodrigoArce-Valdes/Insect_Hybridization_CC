@@ -1,0 +1,49 @@
+[1] "Odonata: "
+
+	Kruskal-Wallis rank sum test
+
+data:  Gen by RI
+Kruskal-Wallis chi-squared = 48.234, df = 5, p-value = 3.182e-09
+
+[1] "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+
+	Pairwise comparisons using Wilcoxon rank sum exact test 
+
+data:  odonata.RI$Gen and odonata.RI$RI 
+
+                 TandemAttempt Tandem  Mating  Oviposition Hybrid 
+Tandem           0.91300       -       -       -           -      
+Mating           0.92939       1.00000 -       -           -      
+Oviposition      0.75170       0.72361 0.66528 -           -      
+Hybrid           0.30952       0.44093 0.54977 0.71496     -      
+CompleteGeneFlow 0.00044       4.0e-06 1.3e-09 6.9e-08     0.00087
+
+P value adjustment method: none 
+[1] "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+
+	Pairwise comparisons using Wilcoxon rank sum exact test 
+
+data:  odonata.RI$Gen and odonata.RI$RI 
+
+                 TandemAttempt Tandem  Mating  Oviposition Hybrid
+Tandem           1.0000        -       -       -           -     
+Mating           1.0000        1.0000  -       -           -     
+Oviposition      1.0000        1.0000  1.0000  -           -     
+Hybrid           1.0000        1.0000  1.0000  1.0000      -     
+CompleteGeneFlow 0.0065        6.1e-05 1.9e-08 1.0e-06     0.0131
+
+P value adjustment method: bonferroni 
+[1] "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+
+	Pairwise comparisons using Wilcoxon rank sum exact test 
+
+data:  odonata.RI$Gen and odonata.RI$RI 
+
+                 TandemAttempt Tandem  Mating  Oviposition Hybrid
+Tandem           1.0000        -       -       -           -     
+Mating           1.0000        1.0000  -       -           -     
+Oviposition      1.0000        1.0000  1.0000  -           -     
+Hybrid           1.0000        1.0000  1.0000  1.0000      -     
+CompleteGeneFlow 0.0054        6.7e-05 6.4e-08 1.7e-06     0.0087
+
+P value adjustment method: BY 

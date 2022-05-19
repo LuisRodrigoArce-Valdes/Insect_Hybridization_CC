@@ -1,0 +1,214 @@
+[1] "###########################"
+[1] "Orthoptera"
+
+	Kruskal-Wallis rank sum test
+
+data:  Gen by RI
+Kruskal-Wallis chi-squared = 3.5714, df = 2, p-value = 0.1677
+
+[1] "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+
+	Pairwise comparisons using Wilcoxon rank sum exact test 
+
+data:  isolation[isolation$Order == i, "Gen"] and isolation[isolation$Order == i, "RI"] 
+
+                   Mating Oviposition
+Oviposition        1.0    -          
+Complete_Gene_Flow 0.4    0.4        
+
+P value adjustment method: none 
+[1] "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+
+	Pairwise comparisons using Wilcoxon rank sum exact test 
+
+data:  isolation[isolation$Order == i, "Gen"] and isolation[isolation$Order == i, "RI"] 
+
+                   Mating Oviposition
+Oviposition        1      -          
+Complete_Gene_Flow 1      1          
+
+P value adjustment method: bonferroni 
+[1] "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+
+	Pairwise comparisons using Wilcoxon rank sum exact test 
+
+data:  isolation[isolation$Order == i, "Gen"] and isolation[isolation$Order == i, "RI"] 
+
+                   Mating Oviposition
+Oviposition        1      -          
+Complete_Gene_Flow 1      1          
+
+P value adjustment method: BY 
+[1] "###########################"
+[1] "Diptera"
+
+	Kruskal-Wallis rank sum test
+
+data:  Gen by RI
+Kruskal-Wallis chi-squared = 10.457, df = 3, p-value = 0.01505
+
+[1] "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+
+	Pairwise comparisons using Wilcoxon rank sum exact test 
+
+data:  isolation[isolation$Order == i, "Gen"] and isolation[isolation$Order == i, "RI"] 
+
+                   Mating Oviposition Hybrid
+Oviposition        0.036  -           -     
+Hybrid             0.145  0.333       -     
+Complete_Gene_Flow 0.006  0.550       0.163 
+
+P value adjustment method: none 
+[1] "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+
+	Pairwise comparisons using Wilcoxon rank sum exact test 
+
+data:  isolation[isolation$Order == i, "Gen"] and isolation[isolation$Order == i, "RI"] 
+
+                   Mating Oviposition Hybrid
+Oviposition        0.218  -           -     
+Hybrid             0.873  1.000       -     
+Complete_Gene_Flow 0.036  1.000       0.977 
+
+P value adjustment method: bonferroni 
+[1] "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+
+	Pairwise comparisons using Wilcoxon rank sum exact test 
+
+data:  isolation[isolation$Order == i, "Gen"] and isolation[isolation$Order == i, "RI"] 
+
+                   Mating Oviposition Hybrid
+Oviposition        0.267  -           -     
+Hybrid             0.599  0.980       -     
+Complete_Gene_Flow 0.088  1.000       0.599 
+
+P value adjustment method: BY 
+[1] "###########################"
+[1] "Hymenoptera"
+
+	Kruskal-Wallis rank sum test
+
+data:  Gen by RI
+Kruskal-Wallis chi-squared = 3, df = 2, p-value = 0.2231
+
+[1] "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+
+	Pairwise comparisons using Wilcoxon rank sum exact test 
+
+data:  isolation[isolation$Order == i, "Gen"] and isolation[isolation$Order == i, "RI"] 
+
+                   Mating Hybrid
+Hybrid             0.67   -     
+Complete_Gene_Flow 1.00   0.33  
+
+P value adjustment method: none 
+[1] "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+
+	Pairwise comparisons using Wilcoxon rank sum exact test 
+
+data:  isolation[isolation$Order == i, "Gen"] and isolation[isolation$Order == i, "RI"] 
+
+                   Mating Hybrid
+Hybrid             1      -     
+Complete_Gene_Flow 1      1     
+
+P value adjustment method: bonferroni 
+[1] "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+
+	Pairwise comparisons using Wilcoxon rank sum exact test 
+
+data:  isolation[isolation$Order == i, "Gen"] and isolation[isolation$Order == i, "RI"] 
+
+                   Mating Hybrid
+Hybrid             1      -     
+Complete_Gene_Flow 1      1     
+
+P value adjustment method: BY 
+[1] "###########################"
+[1] "Lepidoptera"
+
+	Kruskal-Wallis rank sum test
+
+data:  Gen by RI
+Kruskal-Wallis chi-squared = 15.039, df = 3, p-value = 0.001783
+
+[1] "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+
+	Pairwise comparisons using Wilcoxon rank sum exact test 
+
+data:  isolation[isolation$Order == i, "Gen"] and isolation[isolation$Order == i, "RI"] 
+
+                   Mating  Oviposition Hybrid 
+Oviposition        1.00000 -           -      
+Hybrid             0.62821 0.38371     -      
+Complete_Gene_Flow 0.00529 0.00048     0.00079
+
+P value adjustment method: none 
+[1] "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+
+	Pairwise comparisons using Wilcoxon rank sum exact test 
+
+data:  isolation[isolation$Order == i, "Gen"] and isolation[isolation$Order == i, "RI"] 
+
+                   Mating Oviposition Hybrid
+Oviposition        1.0000 -           -     
+Hybrid             1.0000 1.0000      -     
+Complete_Gene_Flow 0.0317 0.0029      0.0047
+
+P value adjustment method: bonferroni 
+[1] "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+
+	Pairwise comparisons using Wilcoxon rank sum exact test 
+
+data:  isolation[isolation$Order == i, "Gen"] and isolation[isolation$Order == i, "RI"] 
+
+                   Mating Oviposition Hybrid
+Oviposition        1.0000 -           -     
+Hybrid             1.0000 1.0000      -     
+Complete_Gene_Flow 0.0259 0.0058      0.0058
+
+P value adjustment method: BY 
+[1] "###########################"
+[1] "Odonata"
+
+	Kruskal-Wallis rank sum test
+
+data:  Gen by RI
+Kruskal-Wallis chi-squared = 48.154, df = 3, p-value = 1.975e-10
+
+[1] "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+
+	Pairwise comparisons using Wilcoxon rank sum test with continuity correction 
+
+data:  isolation[isolation$Order == i, "Gen"] and isolation[isolation$Order == i, "RI"] 
+
+                   Mating  Oviposition Hybrid 
+Oviposition        0.62493 -           -      
+Hybrid             0.47091 0.71496     -      
+Complete_Gene_Flow 5.2e-11 6.9e-08     0.00087
+
+P value adjustment method: none 
+[1] "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+
+	Pairwise comparisons using Wilcoxon rank sum test with continuity correction 
+
+data:  isolation[isolation$Order == i, "Gen"] and isolation[isolation$Order == i, "RI"] 
+
+                   Mating  Oviposition Hybrid
+Oviposition        1.0000  -           -     
+Hybrid             1.0000  1.0000      -     
+Complete_Gene_Flow 3.1e-10 4.1e-07     0.0052
+
+P value adjustment method: bonferroni 
+[1] "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+
+	Pairwise comparisons using Wilcoxon rank sum test with continuity correction 
+
+data:  isolation[isolation$Order == i, "Gen"] and isolation[isolation$Order == i, "RI"] 
+
+                   Mating  Oviposition Hybrid
+Oviposition        1.0000  -           -     
+Hybrid             1.0000  1.0000      -     
+Complete_Gene_Flow 7.7e-10 5.1e-07     0.0043
+
+P value adjustment method: BY 

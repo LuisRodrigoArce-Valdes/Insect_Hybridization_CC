@@ -10,7 +10,7 @@ cp ../../../Windows/Busquedas/Barriers/Odonata/results/odonates.tsv ../data/01_r
 
 # For looping across all 5 orders
 
-for i in Odonata #Lepidoptera Orthoptera Hymenoptera Diptera
+for i in Lepidoptera Orthoptera Hymenoptera Diptera Odonata
 do
 
 # 01. Creating output diretories
