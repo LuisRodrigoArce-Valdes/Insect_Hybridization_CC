@@ -18,12 +18,12 @@ Sesamia cretica	Sesamia nonagrioides	Field	N	?	?	?	?
 Heliconius cydno	Heliconius melpomene	Field	Y	Y	Y	Y	N
 Heliconius timareta	Heliconius melpomene	Field	Y	Y	Y	Y	Y
 Papilio canadensis	Papilio glaucus	Field	Y	Y	Y	Y	Y
-Etiella zinckenella	Etiella hobsoni 	Laboratory	N	?	?	?	?
-Helicoverpa armigera	Helicoverpa assulta	Laboratory	N	Y	Y	Y	N
+Etiella zinckenella	Etiella hobsoni	Laboratory	N	?	?	?	?
+Helicoverpa armigera	Helicoverpa assulta	Laboratory	N	Y	Y	Y	Y
 Lymantria monacha	Lymantria fumida	Field	N	?	?	?	?
 Platyptilia carduidactyla	Platyptilia williamsii	Field	N	N	N	N	N
 Spodoptera littoralis	Spodoptera litura	Laboratory	Y	Y	N	N	N
-Heliothis virescens 	Heliothis subflexa	Laboratory	Y	Y	Y	Y	N
+Chloridea virescens	Heliothis subflexa	Laboratory	Y	Y	Y	Y	N
 Danaus chrysippus	Danaus genutia	Field	Y	N	N	N	N
 Lycaeides idas	Lycaeides melissa	Field	Y	Y	Y	Y	Y
 Leptidea sinapis	Leptidea reali	Field	N	N	N	N	N
@@ -44,7 +44,7 @@ Pieris napi	Pieris oleracea	Laboratory	?	Y	Y	Y	Y
 Pieris napi	Pieris microstriata	Laboratory	?	Y	Y	Y	N
 Pieris oleracea	Pieris virginiensis	Laboratory	Y	N	N	N	N
 Pieris oleracea	Pieris marginalis	Laboratory	?	Y	Y	Y	Y
-Trichoplusia ni	Pseudoplusia includens	Laboratory	N	N	N	N	N
+Trichoplusia ni	Chrysodeixis includens	Laboratory	N	N	N	N	N
 Plutella xylostella	Plutella australiana	Laboratory	N	Y	Y	Y	N
 Heliconius cydno	Heliconius pachinus	Field	Y	Y	Y	Y	Y
 Danaus erippus	Danaus plexippus	Laboratory	N	Y	Y	N	N
@@ -55,8 +55,6 @@ Heliconius erato	Heliconius himera	Field	Y	Y	Y	Y	Y
 Ostrinia furnacalis	Ostrinia nubilalis	Field	Y	Y	Y	Y	Y
 Ostrinia furnacalis	Ostrinia scapulalis	Laboratory	Y	Y	Y	Y	Y
 Ostrinia nubilalis	Ostrinia scapulalis	Field	Y	Y	Y	Y	Y
-Melinaea satevis	Melinaea phasiana	Laboratory	N	?	?	?	?
-Melinaea satevis	Melinaea rileyi	Laboratory	N	?	?	?	?
 Spodoptera exigua	Spodoptera litura	Field	N	?	?	?	?
 Heliconius elevatus	Heliconius pardalinus	Field	N	Y	Y	Y	N
 Colias eurytheme	Colias philodice	Field	Y	Y	Y	Y	Y

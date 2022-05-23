@@ -3,32 +3,31 @@ S3	Aeshna 	cyanea	Cordulegaster	boltonii			x
 S3	Aeshna 	cyanea	Sympetrum	striolatum			x				
 S3	Anax 	imperator	Cordulegaster	boltonii				x			
 S3	Argia	tibialis	Lestes	dryas			x				
-S3	Brachytrom	pratense	Libellula	quadrimaculata			x				
+S3	Brachytron	pratense	Libellula	quadrimaculata			x				
 S3	Calopteryx	splendens	Platycnemis	pennipes			x				
-S3	Calopteryx	virgo	Pyrrhosoma	nynphula							
+S3	Calopteryx	virgo	Pyrrhosoma	nymphula							
 S3	Coenagrion 	ornatum	Platycnemis	pennipes			x				
 S3	Copera	marginipes	Ceriagrion	cerinorubellum				x			
 S3	Cordulegaster 	boltonii	Somatochlora 	metallica			x				
 S3	Deielia	phaon	Orthetrum 	Albistylum				x			
-S3	Elattoneura 	glauca	allocnemis	leucosticta			x				
+S3	Elattoneura 	glauca	Allocnemis	leucosticta			x				
 S3	Enallagma	cyathigerum	Lestes 	Dryas			x				
 S3	Enallagma	cyathigerum	Chalcolestes	viridis			x				
-S3	Haeterina	americana	Lestes	Sp.	x						
-S3	Haeterina	americana	Cenagrionidae	Sp.	x						
+S3	Hetaerina	americana	Lestes	Sp.	x						
 S3	Hetaerina	americana	Argia	plana			x				
-S3	Indolestes 	peregrinus	cercion 	hieroglyhicum	x						
+S3	Indolestes 	peregrinus	Cercion 	hieroglyhicum	x						
 S3	Ischnura	elegans 	Calopteryx	splendens				x			
 S3	Ischnura	elegans 	Lestes	viridis			x				
 S3	Ischnura	elegans 	Lestes	sponsa			x				
 S3	Ischnura	elegans 	Sympecma	fusca				x			
 S3	Ischnura	erratica	Lestes	disjunctus			x				
-S3	Lestes 	australi 	Enallagma	cyathigerum			x				
+S3	Lestes 	australis 	Enallagma	cyathigerum			x				
 S3	Lestes 	disjunctus	Enallagma	cyathigerum			x				
 S3	Lestes 	sponsa	Ceriagrion	tenellum			x				
-S3	Lestes 	sponsa	Erythorma	najas			x				
+S3	Lestes 	sponsa	Erythromma 	najas			x				
 S3	Lestes 	sponsa	Enallagma	cyathigerum			x				
-S3	Lestes 	viridis	Erythromma	viridulum			x				
-S3	Leucorrihinia	dubia orientalis	Sympetrum	danae			x				
+S3	Chalcolestes	viridis	Erythromma	viridulum			x				
+S3	Leucorrhinia	dubia orientalis	Sympetrum	danae			x				
 S3	Orthetrum	brunneum	Onychogomphus	forcipatus		x					
 S3	Platycnemis	pennipes	Coenagrion	puella		x					
 S3	Pyrrhosoma	nymphula	Lestes	barbarus		x					
@@ -41,3 +40,4 @@ S3	Sympetrum	depressiusculum	Libellula	fulva			x
 S3	Sympetrum	depressiusculum	Onychogomphus	uncatus			x				
 S3	Sympetrum	depressiusculum	Oxygastra 	curtisii			x				
 S3	Sympetrum	sanguineum	Crocothemis	erythraea			x				
+											

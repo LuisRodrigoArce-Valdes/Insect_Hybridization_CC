@@ -1,34 +1,34 @@
 Table	Genera	Species (male)	Species (female)	Sexual interaction	Attempt to tandem	Tandem	Mating	Oviposition	Hybrid-field	Hybrid-lab
-S1	Aehsna	affinis	cyanea			x				
-S1	Aehsna	canadiensis	subartica			x				
-S1	Aehsna	subarctica	canadiensis			x				
-S1	Aehsna	confusa 	diffinis						x	
-S1	Aehsna	cyanea	juncea				x			
-S1	Aehsna	grandis	viridis			x				
-S1	Aehsna	interrupta	canadiensis				x			
-S1	Aehsna	juncea	mixta			x				
-S1	Aehsna	subarctica	juncea	x	x	x				
-S1	Aehsna	subarctica	mixta	x						
-S1	Agrion  	puella 	pulchellum 						x	
+S1	Aeshna	affinis	cyanea			x				
+S1	Aeshna	canadensis	subarctica			x				
+S1	Aeshna	subarctica	canadensis			x				
+S1	Aeshna	confusa 	diffinis						x	
+S1	Aeshna	cyanea	juncea				x			
+S1	Aeshna	grandis	viridis			x				
+S1	Aeshna	interrupta	canadensis				x			
+S1	Aeshna	juncea	mixta			x				
+S1	Aeshna	subarctica	juncea	x	x	x				
+S1	Aeshna	subarctica	mixta	x						
+S1	Coenagrion  	puella 	pulchellum 						x	
 S1	Anax 	imperator 	parthenope						x	
 S1	Anax 	junius	strenuus			x				
 S1	Anax 	junius	walsinghami				x			
-S1	Anax 	nigrofasciatus 	julious	 					x	
-S1	Anax 	nigrofasciatus nigrofasciatus	julios	 					x	
+S1	Anax 	nigrofasciatus 	parthenope	 					x	
+S1	Anax 	nigrofasciatus nigrofasciatus	parthenope	 					x	
 S1	Anax 	parthenope	nigrofasciatus						x	
 S1	Argia	emma	vivida		x					
 S1	Argia	plana	moesta					x		
 S1	Argia	tibialis	moesta			x				
-S1	Boyeria	grafiama	vinosa			x				
+S1	Boyeria	grafiana	vinosa			x				
 S1	Calopteryx	aequabilis	maculata					x		
 S1	Calopteryx	dimidiata	maculata				x			
 S1	Calopteryx	haemorrhoidalis	splendens				x			
 S1	Calopteryx	orientalis	samarcandica						x	
-S1	Calopteryx	splendens	pulchellum						x	
+S1	Coenagrion  	splendens	pulchellum						x	
 S1	Calopteryx	splendens	virgo			x			x	
 S1	Calopteryx	virgo	splendens							
-S1	Calopteryx	viridis	parvidens						x	
-S1	Cercion	sexlineatum	plagiosum			x				
+S1	Coenagrion	viridis	parvidens						x	
+S1	Paracercion	melanotum	plagiosum			x				
 S1	Coenagrion	puella	pulchellum	x					x	
 S1	Coenagrion	pulchellum 	puella						x	
 S1	Cordulegaster	bilineata	diastatops						x	
@@ -46,23 +46,20 @@ S1	Enallagma	cyathigerum 	boreale			x
 S1	Enallagma	carunculatum	civile						x	
 S1	Enallagma	civile 	carunculatum			x			x	
 S1	Enallagma	carunculatum	basidens			x				
-S1	Enallagma	cyathigerum 	praevare		x					
+S1	Enallagma	cyathigerum 	praevarum		x					
 S1	Enallagma	cyathigerum 	vernale						x	
-S1	Enallagma	cynosura	spinosa						x	
+S1	Epitheca	cynosura	spinosa						x	
 S1	Enallagma	ebrium	hageni						x	
 S1	Enallagma	ebrium	boreale			x				
 S1	Enallagma	pollutum	dubium			x				
 S1	Enallagma	pollutum	signatum			x				
-S1	Enallagma	sygnatum	pollutum			x				
+S1	Enallagma	signatum	pollutum			x				
 S1	Enallagma	praevarum	cyathigerum			x				
 S1	Epitheca	spinigera	cynosura			x				
 S1	Gomphurus	externus	fraternus						x	
-S1	Gomphurus	graslinellus	lividus						x	
+S1	Phanogomphus	graslinellus	lividus						x	
 S1	Gomphus	 fraternus 	externus						x	
-S1	Gomphus	 graslinellus 	 sordidus 						x	
-S1	Gomphus	crassus	vastus			x				
-S1	Gomphus	exilis	spicatus			x				
-S1	Gomphus	moiwanus	chichibui				x			
+S1	Phanogomphus	exilis	spicatus			x				
 S1	Gomphus	simillimus	vulgatissimus				x			
 S1	Ischnura	barberi	ramburii				x			
 S1	Ischnura	capreolus	cyane 							
@@ -91,11 +88,9 @@ S1	Lestes	disjunctus	viridis			x
 S1	Lestes	disjunctus	vigilax			x				
 S1	Lestes	dryas	sponsa				x			
 S1	Lestes	inaequalis	disjunctus 			x				
-S1	Lestes	parvidens	viridis		x					
+S1	Chalcolestes	parvidens	viridis		x					
 S1	Lestes	rectangularis	congener			x				
 S1	Lestes	rectangularis	unguiculatus			x				
-S1	Lestes	sponsa	viridis			x		x		
-S1	Lestes	viridis	sponsa			x				
 S1	Lestes	sponsa	temporalis			x				
 S1	Lestes	sponsa	virens			x				
 S1	Lestes	unguiculatus	dryas			x				
@@ -106,7 +101,6 @@ S1	Lestes	viridis	dryas			x
 S1	Leucorrhinia	glacialis 	intacta						x	
 S1	Leucorrhinia	dubia	rubicunda		x	x				
 S1	Leucorrhinia	rubicunda	dubia		x	x				
-S1	Leucorrhinia	dubia orientalis	frequens				x			
 S1	Leucorrhinia	glacialis	intacta			x				
 S1	Leucorrhinia	hudsonica	proxima				x			
 S1	Libellula	 pulchella 	luctuosa				x		x	
@@ -116,17 +110,17 @@ S1	Libellula	auripennis	cyanea			x
 S1	Libellula	auripennis	semifasciata			x				
 S1	Libellula	flavida	cyanea				x			
 S1	Libellula	fulva	quadrimaculata 				x			
-S1	Melagrion	eudytum	vagabundum						x	
-S1	Melagrion	mauka	paludicola						x	
-S1	Melagrion	nesiotes	oahuense						x	
-S1	Melagrion	orobates	oresitrophum						x	
-S1	Melagrion	Xanthomelas	pacificum						x	
+S1	Megalagrion	eudytum	vagabundum						x	
+S1	Megalagrion	mauka	paludicola						x	
+S1	Megalagrion	nesiotes	oahuense						x	
+S1	Megalagrion	orobates	oresitrophum						x	
+S1	Megalagrion	Xanthomelas	pacificum						x	
 S1	Mnais	costalis	pruinosa						x	
 S1	Nehalennia 	gracilis	irene		x					
 S1	Nehalennia 	irene	gracilis	x	x					
-S1	Onychogommphus	forcipatus unguiculatus	uncatus			x				
+S1	Onychogomphus	forcipatus unguiculatus	uncatus			x				
 S1	Ophiogomphus	rupinsulensis	carolus						x	
-S1	Ophiogomphus	severus	occidentalis				x			
+S1	Ophiogomphus	severus	occidentis				x			
 S1	Orthetrum	albistylum speciosum	triangulare malania			x				
 S1	Orthetrum	albistylum speciosum	poecilops miyajiamaense			x				
 S1	Orthetrum	cancellatum	albistylum		x					
@@ -136,10 +130,10 @@ S1	Somatochlora	albicincta	hudsonica			x
 S1	Somatochlora	sahlbergi	albicinta						x	
 S1	Somatochlora	sahlbergi	hudsonica						x	
 S1	Sympecma	fusca	paedisca			x				
-S1	Sympetrum	croceolum	unifiorme						x	
+S1	Sympetrum	croceolum	uniforme						x	
 S1	Sympetrum	danae	sanguineum			x				
 S1	Sympetrum	darwinianum	maculatum						x	
-S1	Sympetrum	depressiusculum	fonscolombei			x				
+S1	Sympetrum	depressiusculum	fonscolombii			x				
 S1	Sympetrum	depressiusculum	frequens						x	
 S1	Sympetrum	eroticum eroticum	parvulum						x	
 S1	Sympetrum	eroticum eroticum	pedemontanum						x	
@@ -164,3 +158,4 @@ S1	Sympetrum	vulgatum	striolatum			x		x
 S1	Sympetrum	vulgatum	danae					x		
 S1	Sympetrum 	kunckeli	eroticum eroticum							x
 S1	Trigomphus	interruptus	ogumai			x				
+										

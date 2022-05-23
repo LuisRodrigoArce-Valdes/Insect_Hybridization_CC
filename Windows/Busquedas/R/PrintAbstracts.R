@@ -2,23 +2,20 @@
 rm(list = ls())
 
 # Select Web  of Science table to analyse
-file <- paste0("../Barriers/Diptera/Diptera.txt")
+file <- paste0("../Barriers/Odonata2/Odonata.txt")
 
 # Output file name
 output <- gsub(".txt","", file)
 
 # Add search information
 engine <- "Web of Science"
-string <- '(AB=("reproductive barriers" OR "reproductive isolation") OR AK=("reproductive barriers" OR "reproductive isolation") OR TI=("reproductive barriers" OR "reproductive isolation")) AND (ALL=(Diptera))'
-date <- "27/04/2022"
+string <- '(AB=("reproductive barriers" OR "reproductive isolation") OR AK=("reproductive barriers" OR "reproductive isolation") OR TI=("reproductive barriers" OR "reproductive isolation")) AND (ALL=(Odonata))'
+date <- "23/05/2022"
 
 
 # Reading file (coding for this tab delimited text files is VERY strange)
 head <- read.table(file, header = F, nrows = 1, sep = "\t")
 file <- read.table(file, header = F, sep = "\t", skip = 1, fill = T, quote = "")
-
-# Articles records have an extra tab at the end
-file <- file[,-ncol(file)]
 
 # Editing header
 head <- as.character(head[1,])
