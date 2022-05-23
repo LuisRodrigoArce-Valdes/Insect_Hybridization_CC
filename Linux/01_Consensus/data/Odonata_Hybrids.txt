@@ -1,38 +1,38 @@
 Suborder	Family	Sp1	Sp2	Condition	MainTopic	Authors	Year	Article
-Zygoptera	Coenagrionidae	Ischnura pumilio	Ischnura elegans	Sympatric	Yes	"(Miller & Fincke, 2004)"	NA	NA
-Zygoptera	Coenagrionidae	Ischnura barberi	Ischnura ramburii	Sympatric	Yes	"(Deviche, 2010)"	NA	NA
-Zygoptera	Coenagrionidae	Ischnura pumilio	Ischnura graellsii	Sympatric	Yes	"(Cordero, 1989)"	NA	NA
-Zygoptera	Coenagrionidae	Ischnura damula	Ischnura demorsa	Sympatric	Yes	"(Johnson, 1975)"	NA	NA
-Zygoptera	Coenagrionidae	Ischnura demorsa	Ischnura damula	Sympatric	Yes	"(Johnson, 1975)"	NA	NA
-Zygoptera	Coenagrionidae	Ischnura graellsii	Ischnura elegans	Sympatric	Yes	"(Sánchez-Guillén et al., 2012)"	NA	NA
-Zygoptera	Coenagrionidae	Ischnura elegans	Ischnura graellsii	Sympatric	Yes	"(Sánchez-Guillén et al., 2012)"	NA	NA
-Zygoptera	Coenagrionidae	Ischnura elegans	Ischnura genei	Sympatric	Yes	(Sánchez-Guillén unpublished data)	NA	NA
-Zygoptera	Coenagrionidae	Ischnura genei	Ischnura elegans	Sympatric	Yes	(Sánchez-Guillén unpublished data)	NA	NA
-Zygoptera	Coenagrionidae	Ischnura graellsii	Ischnura saharensis	Sympatric	Yes	(Sánchez-Guillér unpublished data)	NA	NA
-Zygoptera	Coenagrionidae	Ischnura saharensis	Ischnura graellsii	Sympatric	Yes	(Sánchez-Guillén unpublished data)	NA	NA
-Zygoptera	Coenagrionidae	Ischnura graellsii	Ischnura genei	Allopatric	Yes	(Sánchez-Guillén unpublished data)	NA	NA
-Zygoptera	Coenagrionidae	Ischnura genei	Ischnura graellsii	Allopatric	Yes	(Sánchez-Guillén unpublished data)	NA	NA
-Zygoptera	Coenagrionidae	Ischnura elegans ebneri	Ischnura fountaineae	Sympatric	Yes	"(Corbet, 1980)"	NA	NA
-Zygoptera	Coenagrionidae	Ischnura gemina	Ischnura denticollis	Sympatric	Yes	"(Tierney, 1996)"	NA	NA
-Zygoptera	Coenagrionidae	Ischnura denticollis	Ischnura gemina	Sympatric	Yes	"(Tierney, 1996)"	NA	NA
-Zygoptera	Coenagrionidae	Enallagma carunculatum	Ischnura cervula	Sympatric	Yes	"(Miller & Fincke, 2004)"	NA	NA
-Zygoptera	Coenagrionidae	Ischnura pumilio	Platycnemis pennipes	Sympatric	Yes	"(Kunz, 2005)"	NA	NA
-Zygoptera	Coenagrionidae	Enallagma cyathigerum	Ischnura denticollis	Sympatric	Yes	"(Miller & Fincke, 2004)"	NA	NA
-Zygoptera	Coenagrionidae	Ischnura elegans	Coenagrion pulchellum	Sympatric	Yes	"(Bick & Bick, 1981)"	NA	NA
-Zygoptera	Coenagrionidae	Ischnura elegans	Erythromma lindenii	Sympatric	Yes	"(Miller & Fincke, 2004)"	NA	NA
-Zygoptera	Coenagrionidae	Ischnura elegans	Erythromma najas	Sympatric	Yes	"(Miller & Fincke, 2004)"	NA	NA
-Zygoptera	Coenagrionidae	Ischnura perparva	Enallagma anna	Sympatric	Yes	"(Bick & Bick, 1981)"	NA	NA
-Zygoptera	Coenagrionidae	Pyrrhosoma nymphula	Ischnura elegans	Sympatric	Yes	"(Miller & Fincke, 2004)"	NA	NA
-Zygoptera	Coenagrionidae	Enallagma carunculatum	Ischnura perparva	Sympatric	Yes	"(Miller & Fincke, 2004)"	NA	NA
-Zygoptera	Coenagrionidae	Ischnura elegans	Coenagrion puella	Sympatric	Yes	"(Utzeri & Belfiore, 1990)"	NA	NA
-Zygoptera	Coenagrionidae	Ischnura elegans	Enallagma cyathigerum	Sympatric	Yes	"(Bick & Bick, 1981)"	NA	NA
-Zygoptera	Coenagrionidae	Ischnura elegans	Pyrrhosoma nymphula	Sympatric	Yes	"(Miller & Fincke, 2004)"	NA	NA
-Zygoptera	Coenagrionidae	Ischnura pumilio	Coenagrion puella	Sympatric	Yes	"(Miller & Fincke, 2004)"	NA	NA
-Zygoptera	Coenagrionidae	Ischnura pumilio	Enallagma cyathigerum	Sympatric	Yes	"(Miller & Fincke, 2004)"	NA	NA
-Zygoptera	Coenagrionidae	Pyrrhosoma nymphula	Ischnura pumilio	Sympatric	Yes	"(Garner, 2003)"	NA	NA
-Zygoptera	Coenagrionidae	Enallagma hageni	Ischnura cervula	Sympatric	Yes	"(Bick & Bick, 1981)"	NA	NA
-Zygoptera	Coenagrionidae	Ischnura elegans	Lestes sponsa	Sympatric	Yes	"(Miller & Fincke, 2004)"	NA	NA
-Zygoptera	Coenagrionidae	Ischnura elegans	Lestes viridis	Sympatric	Yes	"(Miller & Fincke, 2004)"	NA	NA
-Zygoptera	Coenagrionidae	Ischnura erratica	Lestes disjunctus	Sympatric	Yes	"(Miller & Fincke, 2004)"	NA	NA
-Zygoptera	Coenagrionidae	Ischnura elegans	Calopteryx splendens	Sympatric	Yes	"(Seggewise, 2008)"	NA	NA
-Zygoptera	Coenagrionidae	Ischnura elegans	Sympecma fusca	Sympatric	Yes	"(Seggewise, 2008)"	NA	NA
+Zygoptera	Coenagrionidae	Ischnura pumilio 	Ischnura elegans 	Sympatric 	Yes	"(Miller & Fincke, 2004) "	NA	NA
+Zygoptera	Coenagrionidae	Ischnura barberi 	Ischnura ramburii 	Sympatric 	Yes	"(Deviche, 2010) "	NA	NA
+Zygoptera	Coenagrionidae	Ischnura pumilio 	Ischnura graellsii 	Sympatric 	Yes	"(Cordero, 1989) "	NA	NA
+Zygoptera	Coenagrionidae	Ischnura damula 	Ischnura demorsa 	Sympatric 	Yes	"(Johnson, 1975) "	NA	NA
+Zygoptera	Coenagrionidae	Ischnura demorsa 	Ischnura damula 	Sympatric 	Yes	"(Johnson, 1975) "	NA	NA
+Zygoptera	Coenagrionidae	Ischnura graellsii 	Ischnura elegans 	Sympatric 	Yes	"(Sánchez-Guillén et al., 2012) "	NA	NA
+Zygoptera	Coenagrionidae	Ischnura elegans 	Ischnura graellsii 	Sympatric 	Yes	"(Sánchez-Guillén et al., 2012) "	NA	NA
+Zygoptera	Coenagrionidae	Ischnura elegans 	Ischnura genei 	Sympatric 	Yes	(Sánchez-Guillén unpublished data) 	NA	NA
+Zygoptera	Coenagrionidae	Ischnura genei 	Ischnura elegans 	Sympatric 	Yes	(Sánchez-Guillén unpublished data) 	NA	NA
+Zygoptera	Coenagrionidae	Ischnura graellsii 	Ischnura saharensis 	Sympatric 	Yes	(Sánchez-Guillér unpublished data) 	NA	NA
+Zygoptera	Coenagrionidae	Ischnura saharensis 	Ischnura graellsii 	Sympatric 	Yes	(Sánchez-Guillén unpublished data) 	NA	NA
+Zygoptera	Coenagrionidae	Ischnura graellsii 	Ischnura genei 	Allopatric 	Yes	(Sánchez-Guillén unpublished data) 	NA	NA
+Zygoptera	Coenagrionidae	Ischnura genei 	Ischnura graellsii 	Allopatric 	Yes	(Sánchez-Guillén unpublished data) 	NA	NA
+Zygoptera	Coenagrionidae	Ischnura elegans	Ischnura fountaineae 	Sympatric 	Yes	"(Corbet, 1980) "	NA	NA
+Zygoptera	Coenagrionidae	Ischnura gemina 	Ischnura denticollis 	Sympatric 	Yes	"(Tierney, 1996) "	NA	NA
+Zygoptera	Coenagrionidae	Ischnura denticollis 	Ischnura gemina 	Sympatric 	Yes	"(Tierney, 1996) "	NA	NA
+Zygoptera	Coenagrionidae	Enallagma carunculatum 	Ischnura cervula 	Sympatric 	Yes	"(Miller & Fincke, 2004) "	NA	NA
+Zygoptera	Coenagrionidae	Ischnura pumilio 	Platycnemis pennipes 	Sympatric 	Yes	"(Kunz, 2005) "	NA	NA
+Zygoptera	Coenagrionidae	Enallagma cyathigerum 	Ischnura denticollis 	Sympatric 	Yes	"(Miller & Fincke, 2004) "	NA	NA
+Zygoptera	Coenagrionidae	Ischnura elegans 	Coenagrion pulchellum 	Sympatric 	Yes	"(Bick & Bick, 1981) "	NA	NA
+Zygoptera	Coenagrionidae	Ischnura elegans 	Erythromma lindenii 	Sympatric 	Yes	"(Miller & Fincke, 2004) "	NA	NA
+Zygoptera	Coenagrionidae	Ischnura elegans 	Erythromma najas 	Sympatric 	Yes	"(Miller & Fincke, 2004) "	NA	NA
+Zygoptera	Coenagrionidae	Ischnura perparva 	Enallagma anna 	Sympatric 	Yes	"(Bick & Bick, 1981) "	NA	NA
+Zygoptera	Coenagrionidae	Pyrrhosoma nymphula 	Ischnura elegans 	Sympatric 	Yes	"(Miller & Fincke, 2004) "	NA	NA
+Zygoptera	Coenagrionidae	Enallagma carunculatum 	Ischnura perparva 	Sympatric 	Yes	"(Miller & Fincke, 2004) "	NA	NA
+Zygoptera	Coenagrionidae	Ischnura elegans 	Coenagrion puella 	Sympatric 	Yes	"(Utzeri & Belfiore, 1990) "	NA	NA
+Zygoptera	Coenagrionidae	Ischnura elegans 	Enallagma cyathigerum 	Sympatric 	Yes	"(Bick & Bick, 1981) "	NA	NA
+Zygoptera	Coenagrionidae	Ischnura elegans 	Pyrrhosoma nymphula 	Sympatric 	Yes	"(Miller & Fincke, 2004) "	NA	NA
+Zygoptera	Coenagrionidae	Ischnura pumilio 	Coenagrion puella 	Sympatric 	Yes	"(Miller & Fincke, 2004) "	NA	NA
+Zygoptera	Coenagrionidae	Ischnura pumilio 	Enallagma cyathigerum 	Sympatric 	Yes	"(Miller & Fincke, 2004) "	NA	NA
+Zygoptera	Coenagrionidae	Pyrrhosoma nymphula 	Ischnura pumilio 	Sympatric 	Yes	"(Garner, 2003) "	NA	NA
+Zygoptera	Coenagrionidae	Enallagma hageni 	Ischnura cervula 	Sympatric 	Yes	"(Bick & Bick, 1981) "	NA	NA
+Zygoptera	Coenagrionidae	Ischnura elegans 	Lestes sponsa 	Sympatric 	Yes	"(Miller & Fincke, 2004) "	NA	NA
+Zygoptera	Coenagrionidae	Ischnura elegans 	Chalcolestes viridis	Sympatric 	Yes	"(Miller & Fincke, 2004) "	NA	NA
+Zygoptera	Coenagrionidae	Ischnura erratica 	Lestes disjunctus 	Sympatric 	Yes	"(Miller & Fincke, 2004) "	NA	NA
+Zygoptera	Coenagrionidae	Ischnura elegans 	Calopteryx splendens 	Sympatric 	Yes	"(Seggewise, 2008) "	NA	NA
+Zygoptera	Coenagrionidae	Ischnura elegans 	Sympecma fusca 	Sympatric 	Yes	"(Seggewise, 2008) "	NA	NA
