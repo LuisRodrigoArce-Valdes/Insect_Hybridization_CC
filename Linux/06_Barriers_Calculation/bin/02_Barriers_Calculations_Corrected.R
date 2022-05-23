@@ -6,6 +6,7 @@ rm(list = ls())
 # Calling libraries
 library(dplyr)
 library(ggplot2)
+library(tidyr)
 
 
 # Four original orders ####
@@ -107,6 +108,103 @@ identical(isolation$Cross, COI$Cross)
 isolation <- cbind(isolation, Gen=COI$Distance)
 rm(COI)
 
+# Phylogenetic correction
+# First we will remove repeated comparisons
+isolation <- separate(isolation, col=Cross, into=c("Sp1","Sp2"), sep = "_X_")
+
+sp.order <- data.frame()
+# Sorting species
+for (i in 1:nrow(isolation)) {
+  sp.order[i,c(1,2)] <- sort(as.character(isolation[i,c(2,3)]))
+}
+
+# Adding columns to isolation
+isolation[,c(2,3)] <- sp.order[,c(1,2)]
+
+# Removing duplicates
+isolation <- unique(isolation)
+
+# Ordering per species
+isolation <- isolation[order(isolation$Sp1, isolation$Sp2),]
+
+# Averaging repeated species
+RI <- vector()
+Gen <- vector()
+sp2 <- vector()
+order <- vector()
+
+# For looping
+for (i in unique(isolation$Sp1)) {
+  ri <- mean(as.numeric(isolation[isolation$Sp1==i,"RI"]))
+  gen <- mean(as.numeric(isolation[isolation$Sp1==i,"Gen"]))
+  if (length(isolation[isolation$Sp1==i,4])==1) {
+    s <- isolation[isolation$Sp1==i,3]
+  }
+  else {
+    s <- paste0("AAA",i,"_average")
+  }
+  RI <- append(RI, ri)
+  order <- append(order, isolation[isolation$Sp1==i,1][1])
+  Gen <- append(Gen, gen)
+  sp2 <- append(sp2, s)
+}
+
+# Dataframing
+isolation <- data.frame(Order=order,
+                             Sp1=unique(isolation$Sp1),
+                             Sp2=sp2,
+                             RI=RI,
+                             Gen=Gen)
+rm(gen, Gen, i, n, order, pos, ri, RI, s, sp2)
+
+# Sorting by second species
+isolation <- isolation[order(isolation$Sp2, isolation$Sp1),c(1,3,2,4,5)]
+
+# And repeating averages
+sp.order <- data.frame()
+for (i in 1:nrow(isolation)) {
+  sp.order[i,c(1,2)] <- sort(as.character(isolation[i,c(2,3)]))
+}
+
+# Adding columns to isolation
+isolation[,c(3,2)] <- sp.order[,c(1,2)]
+
+# Ordering per species
+isolation <- isolation[order(isolation$Sp2, isolation$Sp1),]
+
+# Averaging repeated species
+RI <- vector()
+Gen <- vector()
+sp2 <- vector()
+order <- vector()
+
+# For looping
+for (i in unique(isolation$Sp2)) {
+  ri <- mean(as.numeric(isolation[isolation$Sp2==i,"RI"]))
+  gen <- mean(as.numeric(isolation[isolation$Sp2==i,"Gen"]))
+  if (length(isolation[isolation$Sp2==i,4])==1) {
+    s <- isolation[isolation$Sp2==i,3]
+  }
+  else {
+    s <- "Average"
+  }
+  RI <- append(RI, ri)
+  order <- append(order, isolation[isolation$Sp2==i,1][1])
+  Gen <- append(Gen, gen)
+  sp2 <- append(sp2, s)
+}
+
+# Dataframing
+isolation <- data.frame(Order=order,
+                        Sp1=unique(isolation$Sp2),
+                        Sp2=sp2,
+                        RI=RI,
+                        Gen=Gen)
+rm(gen, Gen, i, order, ri, RI, s, sp2)
+
+# Gsubing
+isolation$Sp2 <- sub("^AAA.*","Average", isolation$Sp2)
+
 # Function to get p value from linnear regressions
 lmp <- function (modelobject) {
   if (class(modelobject) != "lm") stop("Not an object of class 'lm' ")
@@ -133,8 +231,8 @@ rm(i,x,p,r2)
 regs$label <- paste0("r2 = ", round(regs$r2, 3), "; p = ", round(regs$p, 3))
 
 # Plotting
-dir.create("../figures", showWarnings = F)
-png("../figures/01_Scatterplot.png", width = 18, height = 10, units = "cm", res = 300)
+dir.create("../figures_corrected", showWarnings = F)
+png("../figures_corrected/01_Scatterplot.png", width = 18, height = 10, units = "cm", res = 300)
 ggplot(isolation) +
   facet_wrap(. ~ Order, ncol = 2) +
   geom_smooth(aes(x=Gen, y=RI), formula = y~x, method = "lm", se = F) +
@@ -147,6 +245,12 @@ ggplot(isolation) +
 dev.off()
 
 # Now transforming into categorical variables
+# For non hymenopterans we will round to its closest 0.20
+isolation[isolation$Order!="Hymenoptera","RI"] <- (2*round(isolation[isolation$Order!="Hymenoptera","RI"]*10/2))/10
+
+# Now for hymenopterans we will round to the closest 0.25
+isolation[isolation$Order=="Hymenoptera","RI"] <- (2.5*round(isolation[isolation$Order=="Hymenoptera","RI"]*10/2.5))/10
+
 # First we will unify for hymenopterans
 isolation[isolation==0.25] <- 0.40
 isolation[isolation==0.50] <- 0.60
@@ -158,7 +262,7 @@ isolation$RI <- factor(isolation$RI, levels = unique(isolation$RI),
                        labels = c("Choice_Mating", "Oviposition", "Hybrid_Survival",
                                   "Hybrid_Fertility","Haldanes_Rule","Complete_Gene_Flow"))
 # Plotting
-png("../figures/02_Barriers.png", width = 24, height = 12, units = "cm", res = 300)
+png("../figures_corrected/02_Barriers.png", width = 24, height = 12, units = "cm", res = 300)
 ggplot(isolation) +
   facet_wrap(. ~ Order, ncol = 2) +
   geom_boxplot(aes(x=RI, y=Gen, color=Order)) +
@@ -168,7 +272,7 @@ ggplot(isolation) +
 dev.off()
 
 # Statistical testing
-sink("../figures/02_Barriers_testing.txt", append = F, split = T)
+sink("../figures_corrected/02_Barriers_testing.txt", append = F, split = T)
 for(i in groups) {
   print("###########################")
   print(i)
@@ -210,12 +314,12 @@ identical(odonata.RI$Cross, COI.odonata$Cross)
 # Merging dataframes
 odonata.RI <- cbind(odonata.RI, Gen=COI.odonata$Distance)
 
-# Plotting
-png("../figures/03_Odonata_Scatterplot.png", width = 1800, height = 1000, units = "px", res = 300)
-ggplot(odonata.RI) +
-  geom_point(aes(x=Gen, y=RI)) +
-  theme_classic()
-dev.off()
+# # Plotting
+# png("../figures_corrected/03_Odonata_Scatterplot.png", width = 1800, height = 1000, units = "px", res = 300)
+# ggplot(odonata.RI) +
+#   geom_point(aes(x=Gen, y=RI)) +
+#   theme_classic()
+# dev.off()
 
 # Now transforming ri into a factor
 odonata.RI <- odonata.RI[order(odonata.RI$RI, decreasing = T),]
@@ -223,16 +327,16 @@ odonata.RI$RI <- factor(odonata.RI$RI, levels = unique(odonata.RI$RI),
                        labels = c("Sexual", "TandemAttempt", "Tandem",
                                       "Mating","Oviposition","Hybrid","CompleteGeneFlow"))
 
-# Plotting
-png("../figures/04_Odonata_Barriers.png", width = 2400, height = 1200, units = "px", res = 300)
-ggplot(odonata.RI) +
-  geom_boxplot(aes(x=RI, y=Gen)) +
-  geom_point(aes(x=RI, y=Gen)) +
-  geom_point(data = odonata.RI[odonata.RI$Cross=="Ischnura_elegans_X_Ischnura_graellsii" | odonata.RI$Cross=="Ischnura_graellsii_X_Ischnura_elegans",], aes(x=RI, y=Gen, color=Cross)) +
-  labs(caption = "Se retendrá la cruza recíproca que más anvance en la reproducción. Por ejemplo, Macho elegans con Hembra graellsii") +
-  theme_classic() +
-  theme(legend.position = "bottom")
-dev.off()
+# # Plotting
+# png("../figures_corrected/04_Odonata_Barriers.png", width = 2400, height = 1200, units = "px", res = 300)
+# ggplot(odonata.RI) +
+#   geom_boxplot(aes(x=RI, y=Gen)) +
+#   geom_point(aes(x=RI, y=Gen)) +
+#   geom_point(data = odonata.RI[odonata.RI$Cross=="Ischnura_elegans_X_Ischnura_graellsii" | odonata.RI$Cross=="Ischnura_graellsii_X_Ischnura_elegans",], aes(x=RI, y=Gen, color=Cross)) +
+#   labs(caption = "Se retendrá la cruza recíproca que más anvance en la reproducción. Por ejemplo, Macho elegans con Hembra graellsii") +
+#   theme_classic() +
+#   theme(legend.position = "bottom")
+# dev.off()
 
 
 # Removing reciprocal crosses in Odonata ####
@@ -259,12 +363,104 @@ identical(odonata.RI$Cross, COI.odonata$Cross)
 # Merging dataframes
 odonata.RI <- cbind(odonata.RI, Gen=COI.odonata$Distance)
 
+# Phylogenetic correction in odonata ####
+# First we will remove repeated comparisons
+odonata.RI <- separate(odonata.RI, col=Cross, into=c("Sp1","Sp2"), sep = "_X_")
+
+sp.order <- data.frame()
+# Sorting species
+for (i in 1:nrow(odonata.RI)) {
+  sp.order[i,c(1,2)] <- sort(as.character(odonata.RI[i,c(1,2)]))
+}
+
+# Adding columns to odonata.RI
+odonata.RI[,c(1,2)] <- sp.order[,c(1,2)]
+
+# Removing duplicates
+odonata.RI <- unique(odonata.RI)
+
+# Ordering per species
+odonata.RI <- odonata.RI[order(odonata.RI$Sp1, odonata.RI$Sp2),]
+
+# Averaging repeated species
+RI <- vector()
+Gen <- vector()
+sp2 <- vector()
+
+# For looping
+for (i in unique(odonata.RI$Sp1)) {
+  ri <- mean(as.numeric(odonata.RI[odonata.RI$Sp1==i,"RI"]))
+  gen <- mean(as.numeric(odonata.RI[odonata.RI$Sp1==i,"Gen"]))
+  if (length(odonata.RI[odonata.RI$Sp1==i,"RI"])==1) {
+    s <- odonata.RI[odonata.RI$Sp1==i,2]
+  }
+  else {
+    s <- paste0("AAA",i,"_average")
+  }
+  RI <- append(RI, ri)
+  Gen <- append(Gen, gen)
+  sp2 <- append(sp2, s)
+}
+
+# Dataframing
+odonata.RI <- data.frame(Sp1=unique(odonata.RI$Sp1),
+                        Sp2=sp2,
+                        RI=RI,
+                        Gen=Gen)
+rm(gen, Gen, i, ri, RI, s, sp2)
+
+# Sorting by second species
+odonata.RI <- odonata.RI[order(odonata.RI$Sp2, odonata.RI$Sp1),c(2,1,3,4)]
+
+# And repeating averages
+sp.order <- data.frame()
+for (i in 1:nrow(odonata.RI)) {
+  sp.order[i,c(1,2)] <- sort(as.character(odonata.RI[i,c(1,2)]))
+}
+
+# Adding columns to odonata.RI
+odonata.RI[,c(2,1)] <- sp.order[,c(1,2)]
+
+# Ordering per species
+odonata.RI <- odonata.RI[order(odonata.RI$Sp2, odonata.RI$Sp1),]
+
+# Averaging repeated species
+RI <- vector()
+Gen <- vector()
+sp2 <- vector()
+
+# For looping
+for (i in unique(odonata.RI$Sp2)) {
+  ri <- mean(as.numeric(odonata.RI[odonata.RI$Sp2==i,"RI"]))
+  gen <- mean(as.numeric(odonata.RI[odonata.RI$Sp2==i,"Gen"]))
+  if (length(odonata.RI[odonata.RI$Sp2==i,4])==1) {
+    s <- odonata.RI[odonata.RI$Sp2==i,2]
+  }
+  else {
+    s <- "Average"
+  }
+  RI <- append(RI, ri)
+  Gen <- append(Gen, gen)
+  sp2 <- append(sp2, s)
+}
+
+# Dataframing
+odonata.RI <- data.frame(Sp1=unique(odonata.RI$Sp2),
+                        Sp2=sp2,
+                        RI=RI,
+                        Gen=Gen)
+rm(gen, Gen, i, ri, RI, s, sp2)
+
+# Gsubing
+odonata.RI$Sp2 <- sub("^AAA.*","Average", odonata.RI$Sp2)
+
+
 # Creating regression results
 x <- lm(RI~Gen, odonata.RI)
 reg <- paste0("r2 = ", round(summary(x)$r.squared, 3), "; p = ", round(lmp(x), 3))
 
 # Plotting
-png("../figures/05_Odonata_Scatterplot_1D.png", width = 18, height = 10, units = "cm", res = 300)
+png("../figures_corrected/03_Odonata_Scatterplot_1D.png", width = 18, height = 10, units = "cm", res = 300)
 ggplot(odonata.RI) +
   geom_smooth(aes(x=Gen, y=RI), formula = y~x, method = "lm", se = F) +
   geom_point(aes(x=Gen, y=RI)) +
@@ -274,12 +470,24 @@ dev.off()
 
 # Now transforming ri into a factor
 odonata.RI <- odonata.RI[order(odonata.RI$RI, decreasing = T),]
-odonata.RI$RI <- factor(odonata.RI$RI, levels = unique(odonata.RI$RI),
-                        labels = c("TandemAttempt", "Tandem",
-                                       "Mating","Oviposition","Hybrid","CompleteGeneFlow"))
+
+# Rounding RI to its closest 0.20
+# For non hymenopterans we will round to its closest 0.20
+odonata.RI$RI <- (2*round(odonata.RI$RI*10/2))/10
+
+# Naming barriers
+odonata.RI[odonata.RI$RI==0,"RI"] <- "CompleteGeneFlow"
+odonata.RI[odonata.RI$RI=="0.2","RI"] <- "Hybrid"
+odonata.RI[odonata.RI$RI=="0.4","RI"] <- "Oviposition"
+odonata.RI[odonata.RI$RI=="0.6","RI"] <- "Mating"
+odonata.RI[odonata.RI$RI=="0.8","RI"] <- "Tandem"
+odonata.RI[odonata.RI$RI=="1","RI"] <- "TandemAttempt"
+
+# factoring
+odonata.RI$RI <- factor(odonata.RI$RI, levels = unique(odonata.RI$RI))
 
 # Plotting
-png("../figures/06_Odonata_Barriers_1D.png", width = 24, height = 12, units = "cm", res = 300)
+png("../figures_corrected/04_Odonata_Barriers_1D.png", width = 24, height = 12, units = "cm", res = 300)
 ggplot(odonata.RI) +
   geom_boxplot(aes(x=RI, y=Gen)) +
   geom_point(aes(x=RI, y=Gen)) +
@@ -289,7 +497,7 @@ ggplot(odonata.RI) +
 dev.off()
 
 # Statistical testing
-sink("../figures/06_Odonata_Barriers_1D_testing.txt", append = F, split = T)
+sink("../figures_corrected/06_Odonata_Barriers_1D_testing.txt", append = F, split = T)
 print("Odonata: ")
 print(kruskal.test(Gen ~ RI, data = odonata.RI))
   for(c in c("none","bonferroni","BY")) {
@@ -300,15 +508,15 @@ sink()
 
 # Merging Odonates and other insects ####
 odonata.RI$Order <- "Odonata"
-odonata.RI <- odonata.RI[,c(4,1,2,3)]
+odonata.RI <- odonata.RI[,c(5,1:4)]
 
 # Binding
-isolation <- rbind(isolation[,-3], odonata.RI)
+isolation <- rbind(isolation, odonata.RI)
 
 # Now unifing names of barriers
 barriers <- data.frame(Original=unique(isolation$RI), New=c("Mating","Oviposition","Hybrid",
                                                 "Complete_Gene_Flow","Complete_Gene_Flow","Complete_Gene_Flow",
-                                                "Mating","Mating","Mating",
+                                                "Mating","Mating",
                                                 "Hybrid","Complete_Gene_Flow"))
 
 # Viewing barriers
@@ -319,7 +527,7 @@ isolation$RI <- factor(isolation$RI, levels = barriers$Original, labels = barrie
 
 # Plotting
 # Plotting
-png("../figures/07_Barriers_Merged.png", width = 24, height = 12, units = "cm", res = 300)
+png("../figures_corrected/07_Barriers_Merged.png", width = 24, height = 12, units = "cm", res = 300)
 ggplot(isolation) +
   facet_wrap(. ~ Order, ncol = 2) +
   geom_boxplot(aes(x=RI, y=Gen, color=Order)) +
@@ -329,7 +537,7 @@ ggplot(isolation) +
 dev.off()
 
 # Statistical testing
-sink("../figures/07_Barriers_Merged_testing.txt", append = F, split = T)
+sink("../figures_corrected/07_Barriers_Merged_testing.txt", append = F, split = T)
 for(i in unique(isolation$Order)) {
   print("###########################")
   print(i)
@@ -362,7 +570,7 @@ rm(i,x,p,r2)
 regs$label <- paste0("r2 = ", round(regs$r2, 3), "; p = ", round(regs$p, 3))
 
 # Plotting
-png("../figures/08_Scatterplot_Merged.png", width = 24, height = 12, units = "cm", res = 300)
+png("../figures_corrected/08_Scatterplot_Merged.png", width = 24, height = 12, units = "cm", res = 300)
 ggplot(isolation) +
   facet_wrap(. ~ Order, ncol = 2) +
   geom_smooth(aes(x=Gen, y=RI), formula = y~x, method = "lm", se = F) +
@@ -391,7 +599,7 @@ isolation.table <- as.data.frame(prop.table(table(isolation$RI, isolation$Order)
 colnames(isolation.table)[1:2] <- c("Barrier","Order")
 
 # Plotting
-png("../figures/09_BarI.png", width = 24, height = 12, units = "cm", res = 300)
+png("../figures_corrected/09_BarI.png", width = 24, height = 12, units = "cm", res = 300)
 ggplot(isolation.table) +
   geom_col(aes(x=Order, y=Freq, fill=Barrier)) +
   theme_classic() +
@@ -406,7 +614,7 @@ isolation.table <- as.data.frame(prop.table(table(isolation.table$RI, isolation.
 colnames(isolation.table)[1:2] <- c("Barrier","Order")
 
 # Plotting
-png("../figures/10_BarII.png", width = 24, height = 12, units = "cm", res = 300)
+png("../figures_corrected/10_BarII.png", width = 24, height = 12, units = "cm", res = 300)
 ggplot(isolation.table) +
   geom_col(aes(x=Order, y=Freq, fill=Barrier)) +
   theme_classic() +
@@ -426,7 +634,7 @@ colnames(isolation.table)[1] <- c("Barrier")
 isolation.table$Order <- "Odonata"
 
 # Plotting
-png("../figures/11_BarIII.png", width = 24, height = 12, units = "cm", res = 300)
+png("../figures_corrected/11_BarIII.png", width = 24, height = 12, units = "cm", res = 300)
 ggplot(isolation.table) +
   geom_col(aes(x=Order, y=Freq, fill=Barrier)) +
   theme_classic() +
@@ -449,7 +657,7 @@ isolation.table <- as.data.frame(prop.table(table(isolation$RI, isolation$Order)
 colnames(isolation.table)[1:2] <- c("Barrier","Order")
 
 # Plotting
-png("../figures/12_BarIV.png", width = 24, height = 12, units = "cm", res = 300)
+png("../figures_corrected/12_BarIV.png", width = 24, height = 12, units = "cm", res = 300)
 ggplot(isolation.table) +
   geom_col(aes(x=Order, y=Freq, fill=Barrier)) +
   theme_classic() +
@@ -464,7 +672,7 @@ isolation.table <- as.data.frame(prop.table(table(isolation.table$RI, isolation.
 colnames(isolation.table)[1:2] <- c("Barrier","Order")
 
 # Plotting
-png("../figures/13_BarV.png", width = 24, height = 12, units = "cm", res = 300)
+png("../figures_corrected/13_BarV.png", width = 24, height = 12, units = "cm", res = 300)
 ggplot(isolation.table) +
   geom_col(aes(x=Order, y=Freq, fill=Barrier)) +
   theme_classic() +
