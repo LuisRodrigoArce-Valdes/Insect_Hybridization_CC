@@ -1,6 +1,6 @@
 Sp1	Sp2	Condition	Choice-Mating	Hybrid-Egg	Hybrid-Adult	One-Sex-Fertile-Hybrids	Fertile-Hybrids
-Spodoptera latitascia	Spodoptera descoinsi	Laboratory	N	Y	Y	Y	Y
-Yponomeuta padella	Yponomeuta cagnagella	Laboratory	N	Y	Y	Y	Y
+Spodoptera latitascia	Spodoptera descoinsi	Laboratory	?	Y	Y	Y	Y
+Yponomeuta padella	Yponomeuta cagnagella	Laboratory	?	Y	Y	Y	Y
 Busseola segeta	Busseola nairobica	Laboratory	N	Y	N	N	N
 Busseola segeta	Busseola fusca	Laboratory	N	N	N	N	N
 Busseola fusca	Busseola nairobica	Laboratory	N	N	N	N	N
