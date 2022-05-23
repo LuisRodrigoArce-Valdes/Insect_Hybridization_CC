@@ -8,7 +8,15 @@ Linux/*/results/*/03*
 Linux/*/results/*/04*
 Linux/*/results/*/05*
 Linux/*/results/*/06*
-Linux/05_Barriers_vs_Distance/data/
+
+# Barriers intermediary files
+Linux/05_Barriers_vs_Distance/data/*/01_BOLD/*.fasta
+Linux/05_Barriers_vs_Distance/data/*/02*
+Linux/05_Barriers_vs_Distance/data/*/03*
+Linux/05_Barriers_vs_Distance/data/*/04*
+Linux/05_Barriers_vs_Distance/data/*/05*
+Linux/05_Barriers_vs_Distance/data/*/06*
+
 
 # R
 .Rproj.user

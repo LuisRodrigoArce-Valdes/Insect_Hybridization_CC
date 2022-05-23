@@ -1,0 +1,19 @@
+Sp1	Sp2	Condition	Choice-Mating	Hybrid-Egg	Hybrid-Adult	One-Sex-Fertile-Hybrids	Fertile-Hybrids
+Trichogramma kaykai	Trichogramma deion	Laboratory	?	Y	Y	N	NA
+Lariophagus distinguendus DB	Lariophagus distinguendus GW	Laboratory	N	Y	Y	Y	NA
+Encarsia gennaroi	Encarsia suzannae	Laboratory	Y	Y	Y	Y	NA
+Nasonia giraulti	Nasonia vitripennis	Laboratory	Y	N	N	N	NA
+Nasonia longicornis	Nasonia vitripennis	Laboratory	Y	Y	Y	Y	NA
+Camponotus herculeanus	Camponotus ligniperda	Field	Y	Y	Y	?	NA
+Athalia rosae	Athalia infumata	Laboratory	Y	Y	?	?	NA
+Trissolcus plautiae	Trissolcus japonicus	Laboratory	?	N	N	N	NA
+Aphidius microlophii	Aphidius eadyi	Laboratory	N	Y	Y	?	NA
+Camponotus herculeanus	Camponotus ligniperda	Field	Y	Y	Y	?	NA
+Gonatocerus morrilli - CA	Gonatocerus morrilli - TX	Field	N	N	N	N	NA
+Neodiprion pinetum	Neodiprion lecontei	Laboratory	Y	Y	Y	Y	NA
+Encarsia inaron	Encarsia partenopea	Laboratory	N	N	N	N	NA
+Pogonomyrmex rugosus	Pogonomyrmex hybrid linages	Laboratory	Y	Y	N	N	NA
+Myrmica rubra host	Myrmica rubra inquiline	Laboratory	Y	Y	Y	Y	NA
+Polistes fuscatus	Polistes metricus	Laboratory	Y	?	?	?	NA
+Plutella xylostella	Plutella australiana	Laboratory	?	Y	Y	Y	NA
+Apis  cerana	Apis mellifera	Field	Y	Y	N	N	NA

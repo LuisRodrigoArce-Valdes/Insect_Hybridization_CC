@@ -1,0 +1,22 @@
+Sp1	Sp2	Condition	Choice-Mating	Hybrid-Egg	Hybrid-Adult	One-Sex-Fertile-Hybrids	Fertile-Hybrids
+Orchelimum nigripes	Orchelimum pulchellum	Laboratory	Y	Y	Y	?	?
+Chorthippus brunneus	Chorthippus jacobsi	Laboratory	Y	Y	Y	Y	Y
+Tetrix undulata	Tetrix subulata	Laboratory	Y	?	?	?	?
+Allonemobius fasciatus	Allonemobius socius	Laboratory	Y	Y	Y	Y	Y
+Cyphoderris buckelli	Cyphoderris monstrosa	Field	Y	N	N	N	N
+Chorthippus albomarginatus	Chorthippus oschei	Laboratory	Y	Y	Y	Y	Y
+Chorthippus biguttulus	Chorthippus brunneus	Laboratory	Y	Y	Y	Y	N
+Chorthippus albomarginatus	Chorthippus karelini	Laboratory	Y	Y	Y	Y	?
+Chorthippus oschei	Chorthippus karelini	Laboratory	Y	Y	Y	Y	?
+Dociostaurus curvicercus	Dociostaurus jagoi	Laboratory	N	Y	N	N	N
+Podisma tyatiensis	Podisma sapporensis	Laboratory	Y	Y	N	N	N
+Tetrix ceperoi	Tetrix subulata	Field	Y	?	?	?	?
+Chorthippus biguttulus	Chorthippus mollis	Laboratory	N	Y	Y	Y	N
+Gryllus staccato	Gryllus lineaticeps	Laboratory	Y	Y	Y	Y	Y
+Gryllus staccato	Gryllus personatus	Laboratory	Y	Y	Y	Y	Y
+Gryllus lineaticeps	Gryllus personatus	Laboratory	Y	Y	Y	Y	Y
+Gryllus bimaculatus	Gryllus campestris	Laboratory	Y	Y	Y	?	?
+Melanoplus sanguinipes	Melanoplus devastator	Laboratory	Y	Y	Y	?	?
+Gryllus firmus	Gryllus pennsylvanicus	Laboratory	Y	Y	Y	?	?
+Chorthippus parallelus	Chorthippus montanus	Laboratory	Y	Y	Y	Y	Y
+Stenobothrus rubicundus	Stenobothrus clavatus	Laboratory	Y	Y	Y	Y	Y
