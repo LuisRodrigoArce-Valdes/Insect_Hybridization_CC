@@ -9,6 +9,7 @@
 
 for i in Odonata Orthoptera Lepidoptera Hymenoptera Diptera
 do
+echo $i
 
 # 01. Creating output diretories
 mkdir -p ../results/$i
@@ -21,8 +22,8 @@ cut -f3 ../data/${i}_Hybrids.txt | tail -n +2 > tmp1
 # Fourth column (Second species):
 cut -f4 ../data/${i}_Hybrids.txt | tail -n +2 > tmp2
 
-# Concatenating both columns, sorting and removing duplicates
-cat tmp1 tmp2 | sort | uniq > ../results/$i/01_BOLD/${i}_species.txt
+# Concatenating both columns, sorting, removing duplicates and deleting white spaces at the end of each line
+cat tmp1 tmp2 | sort | uniq | sed 's/ *$//' > ../results/$i/01_BOLD/${i}_species.txt
 rm tmp1 tmp2
 
 # 03.- Searching COI sequences within the BOLD systems database

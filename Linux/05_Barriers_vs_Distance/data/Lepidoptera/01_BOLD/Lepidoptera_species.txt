@@ -1,9 +1,11 @@
 Busseola fusca
 Busseola nairobica
 Busseola segeta
+Chloridea virescens
 Choristoneura fumiferana
 Choristoneura occidentalis
 Choristoneura pinus
+Chrysodeixis includens
 Colias eurytheme
 Colias philodice
 Dahlica charlottae
@@ -17,7 +19,7 @@ Darna bradleyi
 Darna trima
 Earias insulana
 Earias vittella
-Etiella hobsoni 
+Etiella hobsoni
 Etiella zinckenella
 Heliconius cydno
 Heliconius elevatus
@@ -30,7 +32,6 @@ Heliconius timareta
 Helicoverpa armigera
 Helicoverpa assulta
 Heliothis subflexa
-Heliothis virescens 
 Leptidea juvernica
 Leptidea reali
 Leptidea sinapis
@@ -42,9 +43,6 @@ Lymantria fumida
 Lymantria monacha
 Malacosoma americanum
 Malacosoma disstria
-Melinaea phasiana
-Melinaea rileyi
-Melinaea satevis
 Melitaea acentria
 Melitaea didyma
 Ostrinia furnacalis
@@ -66,7 +64,6 @@ Platyptilia carduidactyla
 Platyptilia williamsii
 Plutella australiana
 Plutella xylostella
-Pseudoplusia includens
 Sesamia cretica
 Sesamia nonagrioides
 Setora nitens

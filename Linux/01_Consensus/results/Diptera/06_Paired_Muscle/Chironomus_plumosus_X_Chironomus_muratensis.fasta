@@ -7,10 +7,10 @@ AGTTCATTTGTGGAAAATGGTGCAGGAACAGGGTGAACAGTTTACCCCCCTCTTTCCGCAGCCATTGCCCATAGTGGGGC
 CTCTGTTGACTTAGCCATTTTCTCTTTACATTTAGCAGGAGTCTCCTCAATTCTTGGATCTGTAAATTTTATTACTACTG
 TTATTAATATACGTGCAAATGGTATTACTTTGGATCGAATACCTTTATTTGTATGATCAGTAGTTATTACAACTGTATTA
 TTACTCTTATCATTACCAGTCCTAGCCGGTGCCATTACTATACTCCTAACAGATCGAAATTTAAATACATCgTTCTTTGA
-CCCTGCTGGGgGGAGGGGAcCCAATTCTATAtCAACATTTAccctTTctgatttttTtgattttttggtcaccccaaaaa
-ttnngtcacccngaagtntatattttaattttacccggatttggaataatttctcatattattagtcaggaaagaggaaa
-aaaggaaactttcggaactttaggaataatttatgcaatgctcgccattggtcttttaggatttattgtttgagcccacc
-atatatttacagtaggaatagatgtagacacacgagcttattttacttctgnnnntc
+CCCTGCTGGGgGGAGGGGAcCCAATTCTATAtCAACATTTAccctTTctgatttttTtgattttttggtcacccaccnng
+aatnntatattttaattttacccggatttggaataatttctcatattattagtcaggaaagaggaaaaaaggaaactttc
+ggaactttaggaataatttatgcaatgctcgccattggtcttttaggatttattgtttgagcccaccatatatttacagt
+aggaatagatgtagacacacgagcttattttacttctgnnnntc
 >Chironomus_muratensis
 --------------------------------------------------------GGAATAGTAGGGACTTCTTTAAGT
 ATACTTATCCGAGCAGAATTAGGACGACCCGGAACTTTTATTGGTGACGACCAAATTTATAATGTAGTAGTTACAGCTCA
@@ -23,4 +23,4 @@ TTACTTCTATCATTACCAGTTCTAGCCGGAGCTATTACTATACTACTTACTGATCGAAATCTCAATACATCATTCTTTGA
 CCCTGCTGGA----------------------------------------------------------------------
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
----------------------------------------------------------
+--------------------------------------------

@@ -1,0 +1,45 @@
+
+	Kruskal-Wallis rank sum test
+
+data:  Distance by Order
+Kruskal-Wallis chi-squared = 20.61, df = 4, p-value = 0.0003783
+
+[1] "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+
+	Pairwise comparisons using Wilcoxon rank sum test with continuity correction 
+
+data:  COIs$Distance and COIs$Order 
+
+            Diptera Hymenoptera Lepidoptera Odonata
+Hymenoptera 0.01926 -           -           -      
+Lepidoptera 0.25502 0.03918     -           -      
+Odonata     0.00028 0.00611     0.00010     -      
+Orthoptera  0.33748 0.63862     0.56684     0.02256
+
+P value adjustment method: none 
+[1] "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+
+	Pairwise comparisons using Wilcoxon rank sum test with continuity correction 
+
+data:  COIs$Distance and COIs$Order 
+
+            Diptera Hymenoptera Lepidoptera Odonata
+Hymenoptera 0.1926  -           -           -      
+Lepidoptera 1.0000  0.3918      -           -      
+Odonata     0.0028  0.0611      0.0010      -      
+Orthoptera  1.0000  1.0000      1.0000      0.2256 
+
+P value adjustment method: bonferroni 
+[1] "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+
+	Pairwise comparisons using Wilcoxon rank sum test with continuity correction 
+
+data:  COIs$Distance and COIs$Order 
+
+            Diptera Hymenoptera Lepidoptera Odonata
+Hymenoptera 0.1321  -           -           -      
+Lepidoptera 1.0000  0.1913      -           -      
+Odonata     0.0041  0.0596      0.0029      -      
+Orthoptera  1.0000  1.0000      1.0000      0.1321 
+
+P value adjustment method: BY 

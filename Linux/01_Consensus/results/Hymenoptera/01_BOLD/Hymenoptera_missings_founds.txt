@@ -1,0 +1,17 @@
+# Manually added from the GeneBank; X = Missing; Y = Found!
+Andrena ellisiae - X
+Cotesia sesamie - X
+Encarsia gennaroi - Y
+Encarsia suzannae - Y
+Formica bruni - X
+Lasius jensi - Y
+Messor wasmanni - X
+Myrmecia banksi - X
+Nasonia oneida - X
+Temnothorax adlerzi - Y
+Temnothorax albipennis - X
+Temnothorax algeriana - Y
+Temnothorax bernardi - Y
+Temnothorax corsica - X
+Temnothorax kraussei - Y
+Trichogramma minutum - X

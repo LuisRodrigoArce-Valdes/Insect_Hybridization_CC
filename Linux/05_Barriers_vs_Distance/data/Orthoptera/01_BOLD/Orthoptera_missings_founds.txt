@@ -1,0 +1,9 @@
+# Manually added from the GeneBank; X = Missing; Y = Found!
+Allonemobius socius - X
+Dociostaurus curvicercus - X
+Gryllus lineaticeps - X
+Gryllus personatus - X
+Gryllus staccato - X
+Melanoplus devastator - X
+Orchelimum pulchellum - X
+Podisma sapporensis - Y

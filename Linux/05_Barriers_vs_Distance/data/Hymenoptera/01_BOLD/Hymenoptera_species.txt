@@ -1,6 +1,6 @@
 Aphidius eadyi
 Aphidius microlophii
-Apis  cerana
+Apis cerana
 Apis mellifera
 Athalia infumata
 Athalia rosae
@@ -10,12 +10,6 @@ Encarsia gennaroi
 Encarsia inaron
 Encarsia partenopea
 Encarsia suzannae
-Gonatocerus morrilli - CA
-Gonatocerus morrilli - TX
-Lariophagus distinguendus DB
-Lariophagus distinguendus GW
-Myrmica rubra host
-Myrmica rubra inquiline
 Nasonia giraulti
 Nasonia longicornis
 Nasonia vitripennis
@@ -23,8 +17,6 @@ Neodiprion lecontei
 Neodiprion pinetum
 Plutella australiana
 Plutella xylostella
-Pogonomyrmex hybrid linages
-Pogonomyrmex rugosus
 Polistes fuscatus
 Polistes metricus
 Trichogramma deion

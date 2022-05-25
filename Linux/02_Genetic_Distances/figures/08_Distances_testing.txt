@@ -1,0 +1,36 @@
+[1] "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+[1] "Diptera"
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  Distance by Suborder
+W = 204, p-value = 0.3724
+alternative hypothesis: true location shift is not equal to 0
+
+[1] "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+[1] "Hymenoptera"
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  Distance by Suborder
+W = 40, p-value = 0.4049
+alternative hypothesis: true location shift is not equal to 0
+
+[1] "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+[1] "Lepidoptera"
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  Distance by Suborder
+W = 1611.5, p-value = 0.4082
+alternative hypothesis: true location shift is not equal to 0
+
+[1] "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+[1] "Orthoptera"
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  Distance by Suborder
+W = 4, p-value = 0.004263
+alternative hypothesis: true location shift is not equal to 0
+

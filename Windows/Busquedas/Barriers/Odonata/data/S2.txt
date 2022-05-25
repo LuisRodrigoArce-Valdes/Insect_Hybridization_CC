@@ -54,3 +54,9 @@ S2	Gomphus	crassus	Gomphurus	vastus			x
 S2	Lestes	sponsa	Chalcolestes	viridis			x		x		
 S2	Chalcolestes	viridis	Lestes	sponsa			x				
 S2	Leucorrhinia	dubia orientalis	Sympetrum	frequens				x			
+S2	Lestes	barbarus	Chalcolestes	viridis			x		x		
+S2	Chalcolestes	viridis	Lestes	barbarus	x						
+S2	Lestes	disjunctus	Chalcolestes	viridis			x				
+S2	Lestes	virens	Chalcolestes	viridis	x						
+S2	Chalcolestes	viridis	Lestes	virens			x				
+S2	Chalcolestes	viridis	Lestes	dryas			x				

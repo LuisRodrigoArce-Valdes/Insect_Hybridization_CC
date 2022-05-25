@@ -79,12 +79,9 @@ S1	Ischnura	graellsii	saharensis							x
 S1	Ischnura	saharensis	graellsii							x
 S1	Ischnura	pumilio	elegans		x					
 S1	Ischnura	pumilio	graellsii				x			
-S1	Lestes	barbarus	viridis			x		x		
-S1	Lestes	viridis	barbarus	x						
 S1	Lestes	barbarus	sponsa			x				
 S1	Lestes	sponsa	barbarus			x				
 S1	Lestes	barbarus	dryas			x				
-S1	Lestes	disjunctus	viridis			x				
 S1	Lestes	disjunctus	vigilax			x				
 S1	Lestes	dryas	sponsa				x			
 S1	Lestes	inaequalis	disjunctus 			x				
@@ -95,9 +92,6 @@ S1	Lestes	sponsa	temporalis			x
 S1	Lestes	sponsa	virens			x				
 S1	Lestes	unguiculatus	dryas			x				
 S1	Lestes	virens	barbarus	x						
-S1	Lestes	virens	viridis	x						
-S1	Lestes	viridis	virens			x				
-S1	Lestes	viridis	dryas			x				
 S1	Leucorrhinia	glacialis 	intacta						x	
 S1	Leucorrhinia	dubia	rubicunda		x	x				
 S1	Leucorrhinia	rubicunda	dubia		x	x				
@@ -158,4 +152,3 @@ S1	Sympetrum	vulgatum	striolatum			x		x
 S1	Sympetrum	vulgatum	danae					x		
 S1	Sympetrum 	kunckeli	eroticum eroticum							x
 S1	Trigomphus	interruptus	ogumai			x				
-										

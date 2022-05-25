@@ -1,4 +1,5 @@
 Calopteryx splendens
+Chalcolestes viridis
 Coenagrion puella
 Coenagrion pulchellum
 Enallagma anna
@@ -13,7 +14,7 @@ Ischnura damula
 Ischnura demorsa
 Ischnura denticollis
 Ischnura elegans
-Ischnura elegans ebneri
+Ischnura elegans
 Ischnura erratica
 Ischnura fountaineae
 Ischnura gemina
@@ -25,7 +26,6 @@ Ischnura ramburii
 Ischnura saharensis
 Lestes disjunctus
 Lestes sponsa
-Lestes viridis
 Platycnemis pennipes
 Pyrrhosoma nymphula
 Sympecma fusca

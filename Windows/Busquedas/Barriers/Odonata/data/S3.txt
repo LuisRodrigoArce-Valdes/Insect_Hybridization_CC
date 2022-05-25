@@ -13,11 +13,10 @@ S3	Deielia	phaon	Orthetrum 	Albistylum				x
 S3	Elattoneura 	glauca	Allocnemis	leucosticta			x				
 S3	Enallagma	cyathigerum	Lestes 	Dryas			x				
 S3	Enallagma	cyathigerum	Chalcolestes	viridis			x				
-S3	Hetaerina	americana	Lestes	Sp.	x						
 S3	Hetaerina	americana	Argia	plana			x				
 S3	Indolestes 	peregrinus	Cercion 	hieroglyhicum	x						
 S3	Ischnura	elegans 	Calopteryx	splendens				x			
-S3	Ischnura	elegans 	Lestes	viridis			x				
+S3	Ischnura	elegans 	Chalcolestes	viridis			x				
 S3	Ischnura	elegans 	Lestes	sponsa			x				
 S3	Ischnura	elegans 	Sympecma	fusca				x			
 S3	Ischnura	erratica	Lestes	disjunctus			x				
@@ -40,4 +39,3 @@ S3	Sympetrum	depressiusculum	Libellula	fulva			x
 S3	Sympetrum	depressiusculum	Onychogomphus	uncatus			x				
 S3	Sympetrum	depressiusculum	Oxygastra 	curtisii			x				
 S3	Sympetrum	sanguineum	Crocothemis	erythraea			x				
-											

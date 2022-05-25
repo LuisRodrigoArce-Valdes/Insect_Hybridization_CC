@@ -1,0 +1,7 @@
+# Manually added from the GeneBank; X = Missing; Y = Found!
+Athalia infumata - X
+Encarsia gennaroi - Y
+Encarsia partenopea - X
+Encarsia suzannae - Y
+Trichogramma deion - X
+Trichogramma kaykai - X

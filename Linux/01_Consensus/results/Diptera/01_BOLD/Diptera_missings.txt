@@ -1,9 +1,5 @@
 Aedes ashworthi
 Aedes brelandi
-Anastrepha fraterculus sp. 1
-Anastrepha fraterculus sp. 2
-Anopheles annulipes sp. A
-Anopheles annulipes sp. G
 Anopheles willmori
 Chironomus behningi
 Chironomus vancouveri

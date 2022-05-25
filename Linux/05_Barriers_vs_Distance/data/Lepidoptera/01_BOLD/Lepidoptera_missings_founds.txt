@@ -1,0 +1,7 @@
+# Manually added from the GeneBank; X = Missing; Y = Found!
+Darna bradleyi - X
+Darna trima - X
+Lycaena feredayi - X
+Pieris macdunnoughii - Y
+Setora nitens - X
+Spodoptera latitascia - X

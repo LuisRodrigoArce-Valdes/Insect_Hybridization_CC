@@ -1,0 +1,7 @@
+# Manually added from the GeneBank; X = Missing; Y = Found!
+Aedes albopictu - X
+Drosophila denruoi - X
+Drosophila pallidosa - Y
+Rhagoletis brncici - X
+Telostylinus angusticollis - X
+Themira lohmanus - X

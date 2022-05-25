@@ -1,0 +1,437 @@
+Order	Family	Sp1	Sp2	Condition	Reference
+Diptera	Agromyzidae	Liriomyza sativae	Liriomyza trifolii	Laboratory	Tokumaru, S; Abe, Y, 2005
+Diptera	Calliphoridae	Chrysomya megacephala	Chrysomya saffranea	Field	Nelson, LA; Wallman, JF; Dowton, M, 2007
+Diptera	Calliphoridae	Lucilia sericata	Lucilia cuprina	Field	Williams, K; Villet, MH, 2013
+Diptera	Chironomidae	Chironomus plumosus	Chironomus balatonicus	Laboratory	MICHAILOVA, P, 1987
+Diptera	Chironomidae	Chironomus plumosus	Chironomus behningi	Field	Polukonova, NV; Beljanina, SI, 2002
+Diptera	Chironomidae	Chironomus plumosus	Chironomus muratensis	Field	Markiyanova, MF, 2016
+Diptera	Chironomidae	Chironomus plumosus	Chironomus vancouveri	Laboratory	MICHAILOVA, P, 1987
+Diptera	Chironomidae	Chironomus riparius	Chironomus piger	Field	Foucault, Q; Wieser, A; Heumann-Kiesler, C; Diogo, J; Cocchiararo, B; Nowak, C; Waldvogel, AM; Pfenninger, M, 2019
+Diptera	Chironomidae	Chironomus tentans	Chironomus pallidivittatus	Field	Martin, J; Guryev, V; Blinov, A, 2002
+Diptera	Chironomidae	Glyptotendipes glaucus	Glyptotendipes pallens	Field	Michailova, PV, 1996
+Diptera	Chironomidae	Glyptotendipes pallens	Glyptotendipes glaucus	Field	Michailova, P; Warchalowska-Sliwa, E; Kownacki, A, 2001
+Diptera	Chironomidae	Glyptotendipes salinus	Glyptotendipes barbipes	Laboratory	MICHAILOVA, P; BELCHEVA, R, 1989
+Diptera	Culicidae	Aedes ashworthi	Aedes australis	Laboratory	Brust, RA; Mahon, RJ, 1997
+Diptera	Culicidae	Aedes brelandi	Aedes zoosophus	Laboratory	TAYLOR, DB, 1990
+Diptera	Culicidae	Aedes hendersoni	Aedes zoosophus	Laboratory	TAYLOR, DB, 1990
+Diptera	Culicidae	Aedes triseriatus	Aedes zoosophus	Laboratory	TAYLOR, DB, 1990
+Diptera	Culicidae	Anopheles albitarsis	Anopheles deaneorum	Laboratory	Lima, JBP; Valle, D; Peixoto, AA, 2004
+Diptera	Culicidae	Anopheles beklemishevi	Anopheles atroparvus	Laboratory	Novikov, YM, 2016
+Diptera	Culicidae	Anopheles coluzzii	Anopheles arabiensis	Field	Zoure, AA; Noel, G; Sombie, A; Somda, Z; Badolo, A; Francis, F, 2020
+Diptera	Culicidae	Anopheles coluzzii	Anopheles quadriannulatus	Laboratory	Deitz, KC; Takken, W; Slotman, MA, 2018
+Diptera	Culicidae	Anopheles gambiae	Anopheles arabiensis	Field	Mawejje, HD; Wilding, CS; Rippon, EJ; Hughes, A; Weetman, D; Donnelly, MJ
+Diptera	Culicidae	Anopheles gambiae	Anopheles coluzzii	Field	Oduwole, OA; Oringanje, CM; Oduola, AO; Nwachuku, NS; Meremikwu, MM; Alaribe, AAA, 2020
+Diptera	Culicidae	Anopheles gambiae	Anopheles quadriannulatus	Laboratory	Pates, HV; Curtis, CF; Takken, W, 2014
+Diptera	Culicidae	Anopheles maculatus	Anopheles willmori	Laboratory	Somboon, P; Thongwat, D; Morgan, K; Walton, C, 2008
+Diptera	Culicidae	Anopheles melas	Anopheles arabiensis	Laboratory	OKEREKE, TA, 1980
+Diptera	Culicidae	Anopheles melas	Anopheles gambiae	Laboratory	OKEREKE, TA, 1980
+Diptera	Culicidae	Anopheles minimus	Anopheles aconitus	Laboratory	SUCHARIT, S; CHOOCHOTE, W, 1982
+Diptera	Culicidae	Anopheles sinensis	Anopheles kleini	Field	Choochote, W; Min, GS; Intapan, PM; Tantrawatpan, C; Saeung, A; Lulitanond, V, 2014
+Diptera	Culicidae	Culex pipiens	Culex quinquefasciatus	Field	ALMIRON, WR; HUMERES, SG; GARDENAL, CN, 1995
+Diptera	Culicidae	Ochlerotatus triseriatus	Ochlerotatus hendersoni	Laboratory	Anderson, JR; Schneider, JR; Grimstad, PR; Severson, DW, 2006
+Diptera	Culicidae	Psorophora columbiae	Psorophora toltecum	Field	Lanzaro, GC; Collier, TC; Lee, Y, 2015
+Diptera	Drosophilidae	Drosophila bipectinata	Drosophila malerkotliana	Laboratory	Mishra, PK; Singh, BN, 2006
+Diptera	Drosophilidae	Drosophila bipectinata	Drosophila parabipectinata	Laboratory	Mishra, PK; Singh, BN, 2006
+Diptera	Drosophilidae	Drosophila bipectinata	Drosophila pseudoananassae	Laboratory	Mishra, PK; Singh, BN, 2006
+Diptera	Drosophilidae	Drosophila buzzatii	Drosophila koepferae	Laboratory	Soto, EM; Soto, IM; Carreira, VP; Fanara, JJ; Hasson, E, 2008
+Diptera	Drosophilidae	Drosophila ezoana	Drosophila montana	Field	Andrianov, BV; Romanov, DA; Sorokina, SY; Gorelova, TV, 2019
+Diptera	Drosophilidae	Drosophila gouveai	Drosophila antonietae	Laboratory	Soto, IM; Carreira, VP; Corio, C; Soto, EM; Hasson, E, 2010
+Diptera	Drosophilidae	Drosophila koepferae	Drosophila antonietae	Laboratory	Colines, B; Soto, IM; de Panis, DN; Padro, J, 2018
+Diptera	Drosophilidae	Drosophila lutescens	Drosophila takahashii	Laboratory	Hori, Y; Kimura, MT, 1998
+Diptera	Drosophilidae	Drosophila malerkotliana	Drosophila pseudoananassae	Laboratory	Mishra, PK; Singh, BN, 2006
+Diptera	Drosophilidae	Drosophila melanogaster	Drosophila simulans	Laboratory	MORETEAU, B; PETAVY, G; GIBERT, P; MORIN, JP; MUNOZ, A; DAVID, JR, 1995
+Diptera	Drosophilidae	Drosophila montana	Drosophila lacicola	Field	Andrianov, BV; Romanov, DA; Sorokina, SY; Gorelova, TV, 2019
+Diptera	Drosophilidae	Drosophila orientacea	Drosophila testacea	Laboratory	GRIMALDI, D; JAMES, AC; JAENIKE, J, 1992
+Diptera	Drosophilidae	Drosophila parabipectinata	Drosophila malerkotliana	Laboratory	Mishra, PK; Singh, BN, 2006
+Diptera	Drosophilidae	Drosophila parabipectinata	Drosophila pseudoananassae	Laboratory	Mishra, PK; Singh, BN, 2006
+Diptera	Drosophilidae	Drosophila parapallidosa	Drosophila ananassae	Field	Hama, Y; Lee, CY; Matsuda, M; Kamimura, Y; Sawamura, K, 2020
+Diptera	Drosophilidae	Drosophila silvestris	Drosophila heteroneura	Laboratory	PRICE, DK; BOAKE, CRB, 1995
+Diptera	Drosophilidae	Zaprionus burlai	Zaprionus tuberculatus	Laboratory	Yassin, A, 2008
+Diptera	Glossinidae	Glossina swynnertoni	Glossina morsitans	Laboratory	Gooding, RH, 1997
+Diptera	Psychodidae	Lutzomyia longipalpis	Lutzomyia cruzi	Field	Santos, MFC; Ribolla, PEM; Alonso, DP; Andrade, JD; Casaril, AE; Ferreira, AMT; Fernandes, CES; Brazil, RP; Oliveira, AG, 2013
+Diptera	Psychodidae	Lutzomyia pseudolongipalpis	Lutzomyia longipalpis	Laboratory	Arrivillaga, J; Salerno, P; Rangel, Y, 2009
+Diptera	Psychodidae	Phlebotomus perniciosus	Phlebotomus longicuspis	Field	Pesson, B; Ready, JS; Benabdennbi, I; Martin-Sanchez, J; Esseghir, S; Cadi-Soussi, M; Morillas-Marquez, F; Ready, PD, 2004
+Diptera	Sepsidae	Sepsis cynipsea	Sepsis neocynipsea	Laboratory	Giesen, A; Schafer, MA; Blanckenhorn, WU, 2019
+Diptera	Simuliidae	Prosimulium multidentatum	Prosimulium magnum	Field	ROTHFELS, K; NAMBIAR, R, 1981
+Diptera	Simuliidae	Simulium arcticum	Simulium saxosum	Field	Conflitti, IM; Shields, GF; Murphy, RW; Currie, DC
+Diptera	Simuliidae	Simulium damnosum	Simulium sirbanum	Field	Boakye, DA; Back, C; Brakefield, PM, 2000
+Diptera	Simuliidae	Simulium flexibranchium	Simulium petricolum	Field	Adler, PH; Seitz, G, 2020
+Diptera	Simuliidae	Simulium sanctipauli	Simulium squamosum	Field	POST, RJ, 1984
+Diptera	Simuliidae	Simulium sanctipauli	Simulium yahense	Field	POST, RJ, 1984
+Diptera	Tephritidae	Anastrepha fraterculus	Anastrepha obliqua	Field	Rull, J; Tadeo, E; Lasa, R; Rodriguez, CL; Altuzar-Molina, A; Aluja, M, 2018
+Diptera	Tephritidae	Anastrepha fraterculus	Anastrepha sororcula	Laboratory	dos Santos, P; Uramoto, K; Matioli, SR, 2001
+Diptera	Tephritidae	Anastrepha obliqua	Anastrepha sororcula	Laboratory	dos Santos, P; Uramoto, K; Matioli, SR, 2001
+Diptera	Tephritidae	Bactrocera dorsalis	Bactrocera carambolae	Laboratory	McInnis, DO; Rendon, P; Jang, E; Van Sauers-Muller, A; Sugayama, R; Malavasi, A, 1999
+Diptera	Tephritidae	Bactrocera invadens	Bactrocera dorsalis	Laboratory	Bo, W; Ahmad, S; Dammalage, T; Tomas, US; Wornoayporn, V; Ul Haq, I; Caceres, C; Vreysen, MJB; Hendrichs, J; Schutze, MK, 2014
+Diptera	Tephritidae	Bactrocera occipitalis	Bactrocera philippinensis	Laboratory	Iwahashi, O, 1999
+Diptera	Tephritidae	Bactrocera tryoni	Bactrocera jarvisi	Laboratory	Cruickshank, L; Jessup, AJ; Cruickshank, DJ, 2001
+Diptera	Tephritidae	Bactrocera tryoni	Bactrocera neohumeralis	Field	Pike, N; Wang, WYS; Meats, A, 2003
+Diptera	Tephritidae	Ceratitis rosa	Ceratitis fasciventris	Laboratory	Erbout, N; De Meyer, M; Lens, L, 2008
+Diptera	Tephritidae	Rhagoletis cerasi	Rhagoletis cingulata	Field	Johannesen, J; Keyghobadi, N; Schuler, H; Stauffer, C; Vogt, H, 2013
+Diptera	Tephritidae	Rhagoletis mendax	Rhagoletis zephyria	Field	Schwarz, D; McPheron, BA, 2007
+Diptera	Tephritidae	Rhagoletis pomonella	Rhagoletis zephyria	Field	Yee, WL; Chapman, PS; Sheets, HD, 2013
+Diptera	Tephritidae	Rhagoletis zoqui	Rhagoletis ramosae	Laboratory	Tadeo, E; Aluja, M; Rull, J, 2018
+Diptera	Tephritidae	Tomoplagia reticulata	Tomoplagia pallens	Field	Abreu, AG; Solferini, VN
+Hymenoptera	Andrenidae	Andrena scurra	Andrena ellisiae	Field	LANHAM, UN, 1984
+Hymenoptera	Aphelinidae	Encarsia suzannae	Encarsia gennaroi	Laboratory	Gebiola, M; Kelly, SE; Hammerstein, P; Giorgini, M; Hunter, MS, 2016
+Hymenoptera	Apidae	Apis cerana	Apis mellifera	Laboratory	Gloag, R; Tan, K; Wang, Y; Song, W; Luo, W; Buchman, G; Beekman, M; Oldroyd, BP, 2017
+Hymenoptera	Apidae	Tetragonula carbonaria	Tetragonula hockingsi	Field	Brito, RM; Francisco, FO; Ho, SYW; Oldroyd, BP, 2014
+Hymenoptera	Braconidae	Aphidius ervi	Aphidius microlophii	Laboratory	PENNACCHIO, F; DIGILIO, MC; TREMBLAY, E; TRANFAGLIA, A, 1994
+Hymenoptera	Braconidae	Cotesia chilonis	Cotesia sesamiae	Laboratory	KIMANI, SW; OVERHOLT, WA, 1995
+Hymenoptera	Braconidae	Cotesia flavipes	Cotesia chilonis	Laboratory	KIMANI, SW; OVERHOLT, WA, 1995
+Hymenoptera	Braconidae	Cotesia flavipes	Cotesia sesamie	Laboratory	KIMANI, SW; OVERHOLT, WA, 1995
+Hymenoptera	Formicidae	Camponotus herculeanus	Camponotus ligniperda	Field	Seifert, B, 2019
+Hymenoptera	Formicidae	Formica aquilonia 	Formica lugubris	Field	Seifert, B, 2021
+Hymenoptera	Formicidae	Formica aquilonia 	Formica paralugubris	Field	Seifert, B, 2021
+Hymenoptera	Formicidae	Formica aquilonia 	Formica polyctena	Field	Beresford, J; Elias, M; Pluckrose, L; Sundstrom, L; Butlin, RK; Pamilo, P; Kulmuni, J, 2017
+Hymenoptera	Formicidae	Formica bruni	Formica pressilabris	Field	Seifert, B, 1999
+Hymenoptera	Formicidae	Formica lugubris	Formica pratensis	Field	Seifert, B, 2021
+Hymenoptera	Formicidae	Formica lugubris	Formica rufa	Field	Seifert, B, 2021
+Hymenoptera	Formicidae	Formica polyctena	Formica rufa	Field	Seifert, B; Kulmuni, J; Pamilo, P, 2010
+Hymenoptera	Formicidae	Formica rufa	Formica polyctena	Field	Seifert, B, 1999
+Hymenoptera	Formicidae	Lasius claviger	Lasius latipes	Field	Umphrey, GJ, 2006
+Hymenoptera	Formicidae	Lasius emarginatus	Lasius platythorax	Field	Seifert, B, 1999
+Hymenoptera	Formicidae	Lasius niger	Lasius psammophilus 	Field	van der Have, TM; Pedersen, JS; Boomsma, JJ., 2011
+Hymenoptera	Formicidae	Lasius umbratus	Lasius jensi	Field	Seifert, B, 1999
+Hymenoptera	Formicidae	Lasius umbratus	Lasius meridionalis	Field	Seifert, B, 1999
+Hymenoptera	Formicidae	Messor minor	Messor wasmanni	Field	Steiner, FM; Seifert, B; Grasso, DA; Le Moli, F; Arthofer, W; Stauffer, C; Crozier, RH; Schlick-Steiner, BC, 2011
+Hymenoptera	Formicidae	Myrmecia banksi	Myrmecia pilosula	Field	Taylor, RW, 2015
+Hymenoptera	Formicidae	Myrmica scabrinodis 	Myrmica vandeli	Field	Yazdi, AB; Munch, W; Seifert, B, 2012
+Hymenoptera	Formicidae	Pogonomyrmex occidentalis	Pogonomyrmex maricopa 	Field	Anderson, KE; Novak, SJ; Smith, JF., 2008
+Hymenoptera	Formicidae	Pogonomyrmex rugosus	Pogonomyrmex barbatus	Field	Yamauchi, A; Yamamura, N, 2006
+Hymenoptera	Formicidae	Solenopsis geminata	Solenopsis xyloni	Field	Sanchez-Pena, SR; Chacon-Cardosa, MC; Resendez-Perez, D, 2009
+Hymenoptera	Formicidae	Solenopsis invicta	Solenopsis richteri	Field	Diffie, S; Bass, MH; Bondari, K, 1997
+Hymenoptera	Formicidae	Temnothorax adlerzi	Temnothorax algeriana	Laboratory	JESSEN, K; KLINKICHT, M, 1990
+Hymenoptera	Formicidae	Temnothorax adlerzi	Temnothorax kraussei	Laboratory	JESSEN, K; KLINKICHT, M, 1990
+Hymenoptera	Formicidae	Temnothorax albipennis	Temnothorax nigriceps	Field	Seifert, B, 1999
+Hymenoptera	Formicidae	Temnothorax albipennis	Temnothorax tuberum	Field	Seifert, B, 1999
+Hymenoptera	Formicidae	Temnothorax albipennis	Temnothorax unifasciatus	Field	Seifert, B, 1999
+Hymenoptera	Formicidae	Temnothorax corsica	Temnothorax adlerzi	Laboratory	JESSEN, K; KLINKICHT, M, 1990
+Hymenoptera	Formicidae	Temnothorax corsica	Temnothorax algeriana	Laboratory	JESSEN, K; KLINKICHT, M, 1990
+Hymenoptera	Formicidae	Temnothorax corsica	Temnothorax kraussei	Laboratory	JESSEN, K; KLINKICHT, M, 1990
+Hymenoptera	Formicidae	Temnothorax crassispinus	Temnothorax crasecundus	Field	Seifert, B; Csosz, S., 2015
+Hymenoptera	Formicidae	Temnothorax kraussei	Temnothorax algeriana	Laboratory	JESSEN, K; KLINKICHT, M, 1990
+Hymenoptera	Formicidae	Temnothorax kraussei	Temnothorax bernardi	Laboratory	JESSEN, K; KLINKICHT, M, 1990
+Hymenoptera	Formicidae	Temnothorax nigriceps	Temnothorax unifasciatus	Field	Seifert, B, 1999
+Hymenoptera	Formicidae	Temnothorax nylanderi	Temnothorax crassispinus	Field	Seifert, B, 1999
+Hymenoptera	Formicidae	Temnothorax tuberum	Temnothorax nigriceps	Field	Seifert, B, 1999
+Hymenoptera	Formicidae	Tetramorium immigrans	Tetramorium caespitum	Field	Cordonnier, M; Escarguel, G; Dumet, A; Kaufmann, B, 2020
+Hymenoptera	Ichneumonidae	Diadegma semiclausum	Diadegma fenestrale 	Laboratory	Davies, AP; Takashino, K; Watanabe, M; Miura, K., 2009
+Hymenoptera	Pteromalidae	Nasonia longicornis	Nasonia giraulti	Laboratory	Pietsch, C; Rutten, K; Gadau, J, 2004
+Hymenoptera	Pteromalidae	Nasonia oneida	Nasonia giraulti	Laboratory	Raychoudhury, R; Desjardins, CA; Buellesbach, J; Loehlin, DW; Grillenberger, BK; Beukeboom, L; Schmitt, T; Werren, JH, 2010
+Hymenoptera	Pteromalidae	Nasonia oneida	Nasonia longicornis	Laboratory	Raychoudhury, R; Desjardins, CA; Buellesbach, J; Loehlin, DW; Grillenberger, BK; Beukeboom, L; Schmitt, T; Werren, JH, 2010
+Hymenoptera	Pteromalidae	Nasonia oneida	Nasonia vitripennis	Laboratory	Raychoudhury, R; Desjardins, CA; Buellesbach, J; Loehlin, DW; Grillenberger, BK; Beukeboom, L; Schmitt, T; Werren, JH, 2010
+Hymenoptera	Pteromalidae	Nasonia vitripennis	Nasonia giraulti	Laboratory	Gadau, J; Page, RE; Werren, JH, 2002
+Hymenoptera	Pteromalidae	Nasonia vitripennis	Nasonia longicornis	Laboratory	Beukeboom, LW; van den Assem, J, 2001
+Hymenoptera	Torymidae	Torymus sinensis	Torymus beneficus	FIeld	Yara, K; Yano, E; Sasawaki, T; Shiga, M., 2000
+Hymenoptera	Trichogrammatidae	Trichogramma minutum	Trichogramma platneri	Laboratory	Pinto, JD; Platner, GR; Stouthamer, R, 2003
+Lepidoptera	Crambidae	Ostrinia furnacalis	Ostrinia nubilalis	Field	Wang, YZ; Kim, KS; Guo, WC; Li, QY; Zhang, YY; Wang, ZY; Coates, BS, 2017
+Lepidoptera	Crambidae	Ostrinia furnacalis	Ostrinia scapulalis	Field	Bourguet, D; Ponsard, S; Streiff, R; Meusnier, S; Audiot, P; Li, J; Wang, ZY, 2014
+Lepidoptera	Crambidae	Ostrinia zaguliaevi	Ostrinia zealis	Laboratory	Tabata, J; Ishikawa, Y, 2011
+Lepidoptera	Crambidae	Udea alpinalis	Udea uliginosalis	Field	Mally, R; Huemer, P; Nuss, M, 2018
+Lepidoptera	Drepanidae	Drepana curvatula	Drepana falcataria	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Erebidae	Orgyia antiqua	Orgyia thyellina	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Geometridae	Epirrita autumnata	Epirrita dilutata	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Geometridae	Epirrita autumnata	Epirrita filigrammaria	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Geometridae	Epirrita dilutata	Epirrita filigrammaria	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Geometridae	Lycia hirtaria	Lycia lapponaria	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Geometridae	Lycia hirtaria	Nyssia graecaria	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Geometridae	Lycia hirtaria 	Lycia isabellae	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Geometridae	Lycia hirtaria 	Lycia pomonaria	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Geometridae	Lycia hirtaria 	Lycia zonaria	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Geometridae	Lycia isabellae	Lycia lapponaria	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Geometridae	Lycia isabellae	Lycia pomonaria	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Geometridae	Lycia lapponaria	Lycia pomonaria	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Geometridae	Lycia zonaria	Lycia isabellae	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Geometridae	Lycia zonaria	Lycia lapponaria	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Geometridae	Lycia zonaria	Lycia pomonaria	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Geometridae	Lycia zonaria	Poecilopsis rachelae	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Geometridae	Operophtera bruceata	Operophtera brumata	Field	TROUBRIDGE, JT; FITZPATRICK, SM, 1993
+Lepidoptera	Geometridae	Selenia bilunaria	Selenia tetralunaria	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Geometridae	Thera obeliscata	Thera variata	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Geometridae	Timandra comae	Timandra griseata	Field	Ounap, E; Viidalepp, J; Saarma, U, 2005
+Lepidoptera	Hesperiidae	Pelopidas agna	Pelopidas mathias	Field	Goonesekera, K; Lee, PLM; Van der Poorten, G; Ranawaka, G, 2021
+Lepidoptera	Hesperiidae	Pyrgus malvae	Pyrgus malvoides	Field	Hernandez-Roldan, JL; Bofill, R; Dapporto, L; Munguira, ML; Vila, R, 2014
+Lepidoptera	Lasiocampidae	Malacosoma castrensis	Malacosoma neustria	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Lasiocampidae	Malacosoma franconica	Malacosoma neustria	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Lasiocampidae	Phyllodesma ilicifolia	Phyllodesma tremulifolia	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Lycaenidae	Ahlbergia frivaldszkyi	Callophrys rubi	Field	Shapoval; Yakovlev, RV; Kuftina, GN; Lukhtanov, VA; Knyazev, SA; Romanovich, AE; Krupitsky, AV. 2021, 2021
+Lepidoptera	Lycaenidae	Aricia agestis	Aricia artaxerxes	Field	Aagaard, K; Hindar, K; Pullin, AS; James, CH; Hammarstedt, O; Balstad, T; Hanssen, O, 2002
+Lepidoptera	Lycaenidae	Aricia agestis	Polyommatus artaxerxes	Field	Mallet, J; Wynne, IR; Thomas, CD, 2011
+Lepidoptera	Lycaenidae	Plebejus idas	Plebejus melissa	Field	Gompert, Z; Lucas, LK; Fordyce, JA; Forister, ML; Nice, CC, 2010
+Lepidoptera	Lycaenidae	Pseudophilotes baton	Pseudophilotes vicrama	Field	Bartonova, AS; Konvicka, M; Maresova, J; Wiemers, M; Ignatev, N; Wahlberg, N; Schmitt, T; Fric, ZF, 2021
+Lepidoptera	Lycaenidae	Zizina emelina	Zizina otis	Laboratory	Sakamoto, Y; Yago, M, 2017
+Lepidoptera	Lycaenidae	Zizina labradus	Zizina oxleyi	Field	Gillespie, M; Wratten, SD; Cruickshank, R; Wiseman, BH; Gibbs, GW, 2013
+Lepidoptera	Noctuidae	Agrotis ipsilon	Agrotis segetum	Laboratory	Gadenne, C; Picimbon, JF; Becard, JM; LalanneCassou, B; Renou, M, 1997
+Lepidoptera	Noctuidae	Chloridea subflexa	Chloridea virescens	Laboratory	GOODPASTURE, C; LACHANCE, LE; RICHARD, RD, 1980
+Lepidoptera	Noctuidae	Euxoa declarata	Euxoa rockburnei	Laboratory	TEAL, PEA, 1985
+Lepidoptera	Noctuidae	Helicoverpa armigera	Helicoverpa assulta	Laboratory	Wang, CZ; Dong, JF, 2001
+Lepidoptera	Noctuidae	Helicoverpa armigera	Helicoverpa zea	Laboratory	LASTER, ML; SHENG, CF, 1995
+Lepidoptera	Noctuidae	Hydraecia immanis	Hydraecia micacea	Field	SCRIBER, JM; BOSSART, JL; SNIDER, D, 1992
+Lepidoptera	Noctuidae	Spodoptera descoinsi	Spodoptera latifascia	Laboratory	Monti, L; Genermont, J; Malosse, C; LalanneCassou, B, 1997
+Lepidoptera	Noctuidae	Spodoptera littoralis	Spodoptera litura	Laboratory	Saveer, AM; Becher, PG; Birgersson, G; Hansson, BS; Witzgall, P; Bengtsson, M, 2014
+Lepidoptera	Notodontidae	Cerura erminea	Cerura vinula	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Notodontidae	Clostera anachoreta	Clostera curtula	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Notodontidae	Clostera anachoreta	Clostera pigra	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Notodontidae	Clostera apicalis	Clostera pigra	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Notodontidae	Clostera curtula	Clostera pigra	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Notodontidae	Thaumetopoea pityocampa	Thaumetopoea wilkinsoni	Field	Ipekdal, K; Burban, C; Saune, L; Battisti, A; Kerdelhue, C, 2020
+Lepidoptera	Nymphalidae	Anartia amathea	Anartia fatima	Field	Dasmahapatra, KK; Blum, MJ; Aiello, A; Hackwell, S; Davies, N; Bermingham, EP; Mallett, T, 2002
+Lepidoptera	Nymphalidae	Coenonympha arcania	Coenonympha gardetta	Field	Capblancq, T; Despres, L; Rioux, D; Mavarez, J, 2015
+Lepidoptera	Nymphalidae	Danaus erippus	Danaus plexippus	Laboratory	Hay-Roe, MM; Lamas, G; Nation, JL, 2007
+Lepidoptera	Nymphalidae	Erebia calcarius	Erebia cassioides	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Nymphalidae	Erebia calcarius	Erebia tyndarus	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Nymphalidae	Erebia cassioides	Erebia nivalis	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Nymphalidae	Erebia cassioides	Erebia tyndarus	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Nymphalidae	Erebia epiphron	Erebia pronoe	Field	Michel, F; Meglecz, E; Martin, JF; Descimon, H, 2013
+Lepidoptera	Nymphalidae	Heliconius charithonia	Heliconius peruvianus	Field	Jiggins, CD; Davies, N, 1998
+Lepidoptera	Nymphalidae	Heliconius cydno	Heliconius heurippa	Laboratory	Merot, C; Salazar, C; Merrill, RM; Jiggins, CD; Joron, M, 2017
+Lepidoptera	Nymphalidae	Heliconius cydno	Heliconius ismenius	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Nymphalidae	Heliconius cydno	Heliconius melpomene	Field	BROWN, KS; EMMEL, TC; ELIAZAR, PJ; SUOMALAINEN, E, 1992
+Lepidoptera	Nymphalidae	Heliconius cydno	Heliconius melpomene	Field	Presgraves, DC, 2002
+Lepidoptera	Nymphalidae	Heliconius cydno	Heliconius pachinus	Field	Kronforst, MR; Young, LG; Blume, LM; Gilbert, LE, 2006
+Lepidoptera	Nymphalidae	Heliconius erato	Heliconius himera	Field	Jiggins, CD; McMillan, WO; Neukirchen, W; Mallet, J, 1996
+Lepidoptera	Nymphalidae	Heliconius heurippa	Heliconius melpomene	Laboratory	Merot, C; Salazar, C; Merrill, RM; Jiggins, CD; Joron, M, 2017
+Lepidoptera	Nymphalidae	Heliconius heurippa	Heliconius tristero	Field	Brower, AVZ, 1996
+Lepidoptera	Nymphalidae	Heliconius melpomene	Heliconius pachinus	Field	Kronforst, MR; Young, LG; Blume, LM; Gilbert, LE, 2006
+Lepidoptera	Nymphalidae	Heliconius melpomene	Heliconius timareta	Field	Merot, C; Mavarez, J; Evin, A; Dasmahapatra, KK; Mallet, J; Lamas, G; Joron, M, 2013
+Lepidoptera	Nymphalidae	Junonia coenia	Junonia zonalis	Field	Lalonde, MML; Marcus, JM, 2020
+Lepidoptera	Nymphalidae	Limenitis archippus	Limenitis arthemis	Field	PLATT, AP; HARRISON, SJ, 1994
+Lepidoptera	Nymphalidae	Limenitis archippus	Limenitis lorquini	Field	Presgraves, DC, 2002
+Lepidoptera	Nymphalidae	Limenitis archippus	Limenitis weidemeyerii	Field	Presgraves, DC, 2002
+Lepidoptera	Nymphalidae	Maniola chia	Maniola nurag	Field	Grill, A; de Vos, R; van Arkel, J, 2004
+Lepidoptera	Nymphalidae	Maniola jurtina	Maniola nurag	Field	Grill, A; Gkiokia, E; Alvarez, N, 2006
+Lepidoptera	Nymphalidae	Melitaea acentria	Melitaea acentria	Field	Pazhenkova, EA; Lukhtanov, VA, 2021
+Lepidoptera	Nymphalidae	Melitaea ornata	Melitaea phoebe	Field	Russell, P; Bartolozzi, L, 2019
+Lepidoptera	Nymphalidae	Phyciodes batesii	Phyciodes tharos	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Nymphalidae	Phyciodes campestris	Phyciodes tharos	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Nymphalidae	Phyciodes cocyta	Phyciodes tharos	Laboratory	OLIVER, CG, 1980
+Lepidoptera	Papilionidae	Iphiclides feisthamelii	Iphiclides podalirius	Field	Gaunet, A; Dinca, V; Dapporto, L; Montagud, S; Voda, R; Schar, S; Badiane, A; Font, E; Vila, R, 2019
+Lepidoptera	Papilionidae	Papilio aegeus	Papilio helenus	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio aegeus	Papilio maackii	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio aegeus	Papilio machaon	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio aegeus	Papilio macilentus	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio aegeus	Papilio polytes	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio aegeus	Papilio xuthus	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio alexiares	Papilio glaucus	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio alphenor	Papilio polytes	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio arcturus	Papilio bianor	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio ascalaphus	Papilio memnon	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio bianor	Papilio maackii	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio bianor	Papilio machaon	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio bianor	Papilio paris	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio bianor	Papilio polyctor	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio bianor	Papilio xuthus	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio brevicauda	Papilio machaon	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio brevicauda	Papilio polyxenes	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio canadensis	Papilio glaucus	Field	Scriber, JM; Hagen, RH; Lederhouse, RC, 1996
+Lepidoptera	Papilionidae	Papilio constantinus	Papilio dardanus	Laboratory	CLARKE, CA; GORDON, IJ; SMITH, CR; VANEWRIGHT, RI, 1991
+Lepidoptera	Papilionidae	Papilio constantinus	Papilio phorcas	Laboratory	CLARKE, CA; GORDON, IJ; SMITH, CR; VANEWRIGHT, RI, 1991
+Lepidoptera	Papilionidae	Papilio dardanus	Papilio phorcas	Field	VANEWRIGHT, RI; SMITH, CR, 1992
+Lepidoptera	Papilionidae	Papilio demoleus	Papilio maackii	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio demoleus	Papilio machaon	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio demoleus	Papilio xuthus	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio eurymedon	Papilio glaucus	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio eurymedon	Papilio multicaudatus	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio eurymedon	Papilio rutulus	Field	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio fuscus	Papilio macilentus	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio fuscus	Papilio polytes	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio glaucus	Papilio multicaudatus	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio glaucus	Papilio rutulus	Field	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio glaucus	Papilio scamander	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio glaucus	Papilio xuthus	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio helenus	Papilio hystaspes	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio helenus	Papilio memnon	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio helenus	Papilio nephelus	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio helenus	Papilio polytes	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio helenus	Papilio protenor	Field	SPERLING, FAH, 1990
+Lepidoptera	Papilionidae	Papilio helenus	Papilio xuthus	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio hipponous	Papilio polytes	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio hospiton	Papilio machaon	Field	Aubert, J; Barascud, B; Descimon, H; Michel, F, 1997
+Lepidoptera	Papilionidae	Papilio maackii	Papilio polyctor	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio maackii	Papilio xuthus	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio machaon	Papilio maackii	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio machaon	Papilio macilentus	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio machaon	Papilio polytes	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio machaon	Papilio polyxenes	Field	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio machaon	Papilio protenor	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio machaon	Papilio xuthus	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio machaon	Papilio zelicaon	Field	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio macilentus	Papilio memnon	Field	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio macilentus	Papilio xuthus	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio memnon	Papilio polymnestor	Field	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio memnon	Papilio polytes	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio memnon	Papilio rumanzovia	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio memnon	Papilio xuthus	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio multicaudatus	Papilio rutulus	Field	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio nephelus	Papilio polytes	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio palamedes	Papilio scamander	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio paris	Papilio xuthus	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio polymnestor	Papilio rumanzovia	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio polytes	Papilio polytes	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio polytes	Papilio protenor	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio polyxenes	Papilio machaon	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio polyxenes	Papilio xuthus	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio polyxenes	Papilio zelicaon	Laboratory	Scriber, JM, 2007
+Lepidoptera	Papilionidae	Papilio protenor	Papilio xuthus	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Papilio zelicaon	Papilio polyxenes	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Papilionidae	Parnassius apollo	Parnassius phoebus	Field	DESCIMON, H; GEIGER, H, 1988
+Lepidoptera	Papilionidae	Parnassius bremeri	Parnassius nomion	Field	Zakharov, EV, 2001
+Lepidoptera	Pieridae	Anthocharis cardamines	Anthocharis euphenoides	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Pieridae	Anthocharis cardamines	Euchloe ausonia	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Pieridae	Anthocharis cardamines	Euchloe simplonia	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Pieridae	Colias alexandra	Colias eurytheme	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Pieridae	Colias alfacariensis	Colias hyale	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Pieridae	Colias crocea	Colias erate	Field	Milovanov, AE; Simchuk, AP; Ivashov, AV, 2004
+Lepidoptera	Pieridae	Colias crocea	Colias hyale	Field	Presgraves, DC, 2002
+Lepidoptera	Pieridae	Colias erate	Colias eurytheme	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Pieridae	Colias eurytheme	Colias interior	Field	Presgraves, DC, 2002
+Lepidoptera	Pieridae	Colias eurytheme	Colias philodice	Field	Presgraves, DC, 2002
+Lepidoptera	Pieridae	Colias interior	Colias philodice	Laboratory	KAROWE, DN, 1994
+Lepidoptera	Pieridae	Enantia albania	Enantia jethys	Field	Jasso-Martinez, JM; Machkour-M'Rabet, S; Vila, R; Rodriguez-Arnaiz, R; Castaneda-Sortibran, AN, 2018
+Lepidoptera	Pieridae	Enantia albania	Enantia mazai	Field	Jasso-Martinez, JM; Machkour-M'Rabet, S; Vila, R; Rodriguez-Arnaiz, R; Castaneda-Sortibran, AN, 2018
+Lepidoptera	Pieridae	Leptidea reali	Leptidea sinapis	Field	Verovnik, R; Glogovcan, P, 2007
+Lepidoptera	Pieridae	Pieris bryoniae	Pieris napi	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Pieridae	Pieris callidice	Pieris occidentalis	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Pieridae	Pieris dulcinea	Pieris napi	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Pieridae	Pieris ergane	Pieris napi	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Pieridae	Pieris macdunnoughii	Pieris napi	Laboratory	Chew, FS; Watt, WB, 2006
+Lepidoptera	Pieridae	Pieris mannii	Pieris napi	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Pieridae	Pieris mannii	Pieris rapae	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Pieridae	Pieris marginalis	Pieris napi	Laboratory	Chew, FS; Watt, WB, 2006
+Lepidoptera	Pieridae	Pieris marginalis	Pieris oleracea	Laboratory	Chew, FS; Watt, WB, 2006
+Lepidoptera	Pieridae	Pieris melete	Pieris napi	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Pieridae	Pieris microstriata	Pieris napi	Laboratory	Chew, FS; Watt, WB, 2006
+Lepidoptera	Pieridae	Pieris napi	Pieris bryoniae	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Pieridae	Pieris napi	Pieris nesis	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Pieridae	Pieris napi	Pieris oleracea	Laboratory	Chew, FS; Watt, WB, 2006
+Lepidoptera	Pieridae	Pieris napi	Pieris rapae	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Pieridae	Pieris napi	Pieris virginiensis	Laboratory	Chew, FS; Watt, WB, 2006
+Lepidoptera	Pieridae	Pieris rapae	Pontia daplidice	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Pieridae	Pontia daplidice	Pontia edusa	Field	Porter, AH; Wenger, R; Geiger, H; Scholl, A; Shapiro, AM, 1997
+Lepidoptera	Pieridae	Pontia protodice	Pontia daplidice	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Pieridae	Tatochila mercedis	Tatochila sterodice	Field	PORTER, AH; SHAPIRO, AM, 1990
+Lepidoptera	Pieridae	Tatochila mercedis	Tatochila vanvolxemii	Field	PORTER, AH; SHAPIRO, AM, 1990
+Lepidoptera	Saturniidae	Antheraea pernyi	Antheraea roylei	Field	Yang, J; Zhang, RS; Chen, DB; Chen, MM; Li, YP; Liu, YQ, 2019
+Lepidoptera	Saturniidae	Antheraea pernyi	Antheraea yamamai	Laboratory	SHIMADA, T; YAMAUCHI, H; KOBAYASHI, M, 1988
+Lepidoptera	Saturniidae	Callosamia angulifera	Callosamia promethea	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Saturniidae	Callosamia angulifera	Callosamia securifera	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Saturniidae	Callosamia angulifera	Hyalophora cecropia	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Saturniidae	Callosamia promethea	Callosamia securifera	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Saturniidae	Citheronia regalis	Citheronia splendens	Laboratory	Adamski, D; Marques, D; Mayo, KG; Mayo, R, 2019
+Lepidoptera	Saturniidae	Hyalophora cecropia	Hyalophora columbia	Field	FERGE, LA, 1983
+Lepidoptera	Saturniidae	Hyalophora cecropia	Hyalophora euryalus	Field	Presgraves, DC, 2002
+Lepidoptera	Saturniidae	Hyalophora cecropia	Hyalophora gloveri	Field	Presgraves, DC, 2002
+Lepidoptera	Saturniidae	Hyalophora columbia	Hyalophora euryalus	Field	Collins, MM, 1997
+Lepidoptera	Saturniidae	Hyalophora euryalus	Hyalophora gloveri	Field	Presgraves, DC, 2002
+Lepidoptera	Saturniidae	Saturnia mendocino	Saturnia walterorum	Field	Presgraves, DC, 2002
+Lepidoptera	Saturniidae	Saturnia pavonia	Saturnia pyri	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Saturniidae	Saturnia pavonia	Saturnia spini	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Sphingidae	Deilephila elpenor	Deilephila porcellus	Field	Presgraves, DC, 2002
+Lepidoptera	Sphingidae	Gnathothlibus eras	Philodila astyanor	Field	Rougerie, R; Haxaire, J; Kitching, IJ; Hebert, PDN, 2012
+Lepidoptera	Sphingidae	Hyles chamyla	Hyles hippophaes	Field	Patzold, F; Marabuto, E; Daneck, H; O'Neill, MA; Kitching, IJ; Hundsdoerfer, AK, 2021
+Lepidoptera	Sphingidae	Hyles dahlii	Hyles gallii	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Sphingidae	Hyles euphorbiae	Deilephila elpenor	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Sphingidae	Hyles euphorbiae	Deilephila porcellus	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Sphingidae	Hyles euphorbiae	Hyles gallii	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Sphingidae	Hyles euphorbiae	Hyles hippophaes	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Sphingidae	Hyles euphorbiae	Hyles lineata	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Sphingidae	Hyles euphorbiae	Hyles tithymali	Field	Hundsdoerfer, AK; Mende, MB; Harbich, H; Pittaway, AR; Kitching, IJ, 2011
+Lepidoptera	Sphingidae	Hyles euphorbiae	Hyles vespertilio	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Sphingidae	Hyles gallii	Deilephila elpenor	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Sphingidae	Hyles gallii	Deilephila porcellus	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Sphingidae	Hyles gallii	Hyles hippophaes	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Sphingidae	Hyles gallii	Hyles lineata	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Sphingidae	Hyles gallii	Hyles livornica	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Sphingidae	Hyles gallii	Hyles vespertilio	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Sphingidae	Hyles hippophaes	Deilephila elpenor	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Sphingidae	Hyles hippophaes	Hyles lineata	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Sphingidae	Hyles hippophaes	Hyles vespertilio	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Sphingidae	Hyles lineata	Deilephelia elpenor	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Sphingidae	Hyles vespertilio	Deilephila elpenor	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Sphingidae	Laothoe austauti	Smerinthus atlanticus	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Sphingidae	Laothoe austauti	Smerinthus ocellata	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Sphingidae	Laothoe populi	Smerinthus atlanticus	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Sphingidae	Laothoe populi	Smerinthus ocellata	Field	Presgraves, DC, 2002
+Lepidoptera	Sphingidae	Mimas tiliae	Smerinthus ocellata	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Tortricidae	Choristoneura biennis	Choristoneura fumiferana	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Tortricidae	Choristoneura biennis	Choristoneura occidentalis	Laboratory	Nealis, VG, 2005
+Lepidoptera	Tortricidae	Choristoneura fumiferana	Choristoneura occidentalis	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Tortricidae	Choristoneura fumiferana	Choristoneura pinus	Field	Deverno, LL; Smith, GA; Harrison, KJ, 1998
+Lepidoptera	Tortricidae	Choristoneura fumiferana	Choristoneura retiniana	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Tortricidae	Choristoneura occidentalis	Choristoneura pinus	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Tortricidae	Choristoneura occidentalis	Choristoneura retiniana	Laboratory	VOLNEY, WJA; LIEBHOLD, AM, 1985
+Lepidoptera	Tortricidae	Choristoneura pinus	Choristoneura retiniana	Laboratory	Presgraves, DC, 2002
+Lepidoptera	Yponomeutidae	Yponomeuta cagnagella	Yponomeuta malinellus	Laboratory	Hora, KH; Roessingh, P; Menken, SBJ, 2005
+Lepidoptera	Yponomeutidae	Yponomeuta cagnagella	Yponomeuta padella	Laboratory	Hora, KH; Roessingh, P; Menken, SBJ, 2005
+Lepidoptera	Yponomeutidae	Yponomeuta malinellus	Yponomeuta padella	Field	Presgraves, DC, 2002
+Lepidoptera	Zygaenidae	Adscita alpina	Adscita italica	Field	Efetov, KA; Kucherenko, EE; Tarmann, GM, 2020
+Odonata	Coenagrionidae	Enallagma carunculatum 	Ischnura cervula 	Sympatric 	Miller & Fincke, 2004
+Odonata	Coenagrionidae	Enallagma carunculatum 	Ischnura perparva 	Sympatric 	Miller & Fincke, 2004
+Odonata	Coenagrionidae	Enallagma cyathigerum 	Ischnura denticollis 	Sympatric 	Miller & Fincke, 2004
+Odonata	Coenagrionidae	Enallagma hageni 	Ischnura cervula 	Sympatric 	Bick & Bick, 1981
+Odonata	Coenagrionidae	Ischnura barberi 	Ischnura ramburii 	Sympatric 	Deviche, 2010
+Odonata	Coenagrionidae	Ischnura damula 	Ischnura demorsa 	Sympatric 	Johnson, 1975
+Odonata	Coenagrionidae	Ischnura demorsa 	Ischnura damula 	Sympatric 	Johnson, 1975
+Odonata	Coenagrionidae	Ischnura denticollis 	Ischnura gemina 	Sympatric 	Tierney, 1996
+Odonata	Coenagrionidae	Ischnura elegans	Ischnura fountaineae 	Sympatric 	Corbet, 1980
+Odonata	Coenagrionidae	Ischnura elegans 	Calopteryx splendens 	Sympatric 	Seggewise, 2008
+Odonata	Coenagrionidae	Ischnura elegans 	Chalcolestes viridis	Sympatric 	Miller & Fincke, 2004
+Odonata	Coenagrionidae	Ischnura elegans 	Coenagrion puella 	Sympatric 	Utzeri & Belfiore, 1990
+Odonata	Coenagrionidae	Ischnura elegans 	Coenagrion pulchellum 	Sympatric 	Bick & Bick, 1981
+Odonata	Coenagrionidae	Ischnura elegans 	Enallagma cyathigerum 	Sympatric 	Bick & Bick, 1981
+Odonata	Coenagrionidae	Ischnura elegans 	Erythromma lindenii 	Sympatric 	Miller & Fincke, 2004
+Odonata	Coenagrionidae	Ischnura elegans 	Erythromma najas 	Sympatric 	Miller & Fincke, 2004
+Odonata	Coenagrionidae	Ischnura elegans 	Ischnura genei 	Sympatric 	Sánchez-Guillén unpublished data
+Odonata	Coenagrionidae	Ischnura elegans 	Ischnura graellsii 	Sympatric 	Sánchez-Guillén et al., 2012
+Odonata	Coenagrionidae	Ischnura elegans 	Lestes sponsa 	Sympatric 	Miller & Fincke, 2004
+Odonata	Coenagrionidae	Ischnura elegans 	Pyrrhosoma nymphula 	Sympatric 	Miller & Fincke, 2004
+Odonata	Coenagrionidae	Ischnura elegans 	Sympecma fusca 	Sympatric 	Seggewise, 2008
+Odonata	Coenagrionidae	Ischnura erratica 	Lestes disjunctus 	Sympatric 	Miller & Fincke, 2004
+Odonata	Coenagrionidae	Ischnura gemina 	Ischnura denticollis 	Sympatric 	Tierney, 1996
+Odonata	Coenagrionidae	Ischnura genei 	Ischnura elegans 	Sympatric 	Sánchez-Guillén unpublished data
+Odonata	Coenagrionidae	Ischnura genei 	Ischnura graellsii 	Allopatric 	Sánchez-Guillén unpublished data
+Odonata	Coenagrionidae	Ischnura graellsii 	Ischnura elegans 	Sympatric 	Sánchez-Guillén et al., 2012
+Odonata	Coenagrionidae	Ischnura graellsii 	Ischnura genei 	Allopatric 	Sánchez-Guillén unpublished data
+Odonata	Coenagrionidae	Ischnura graellsii 	Ischnura saharensis 	Sympatric 	Sánchez-Guillén unpublished data
+Odonata	Coenagrionidae	Ischnura perparva 	Enallagma anna 	Sympatric 	Bick & Bick, 1981
+Odonata	Coenagrionidae	Ischnura pumilio 	Coenagrion puella 	Sympatric 	Miller & Fincke, 2004
+Odonata	Coenagrionidae	Ischnura pumilio 	Enallagma cyathigerum 	Sympatric 	Miller & Fincke, 2004
+Odonata	Coenagrionidae	Ischnura pumilio 	Ischnura elegans 	Sympatric 	Miller & Fincke, 2004
+Odonata	Coenagrionidae	Ischnura pumilio 	Ischnura graellsii 	Sympatric 	Cordero, 1989
+Odonata	Coenagrionidae	Ischnura pumilio 	Platycnemis pennipes 	Sympatric 	Kunz, 2005
+Odonata	Coenagrionidae	Ischnura saharensis 	Ischnura graellsii 	Sympatric 	Sánchez-Guillén unpublished data
+Odonata	Coenagrionidae	Pyrrhosoma nymphula 	Ischnura elegans 	Sympatric 	Miller & Fincke, 2004
+Odonata	Coenagrionidae	Pyrrhosoma nymphula 	Ischnura pumilio 	Sympatric 	Garner, 2003
+Orthoptera	Acrididae	Chorthippus albomarginatus	Chorthippus karelini	Field	Vedenina, VY, 2015
+Orthoptera	Acrididae	Chorthippus albomarginatus	Chorthippus oschei	Field	Vedenina, V; Holusa, J; Kocarek, P, 2009
+Orthoptera	Acrididae	Chorthippus biguttulus	Chorthippus brunneus	Field	Gottsberger, B; Mayer, F, 2007
+Orthoptera	Acrididae	Chorthippus biguttulus	Chorthippus mollis	Laboratory	Finck, J; Ronacher, B, 2017
+Orthoptera	Acrididae	Chorthippus brunneus	Chorthippus jacobsi	Field	Saldamando, CI; Tatsuta, H; Butlin, RK, 2005
+Orthoptera	Acrididae	Chorthippus karelini	Chorthippus oschei	Field	Vedenina, VY, 2015
+Orthoptera	Acrididae	Chorthippus mollis	Chorthippus biguttulus	Field	Gottsberger, B; Mayer, F, 2019
+Orthoptera	Acrididae	Chorthippus mollis	Chorthippus biguttulus	Field	RAGGE, DR, 1984
+Orthoptera	Acrididae	Chorthippus montanus	Chorthippus parallelus	Field	Rohde, K; Hau, Y; Weyer, J; Hochkirch, A, 2015
+Orthoptera	Acrididae	Chorthippus parallelus	Chorthippus montanus	Laboratory	Hochkirch, A; Lemke, I, 2011
+Orthoptera	Acrididae	Euchorthippus pulvinatus	Euchorthippus chopardi	Laboratory	SANTOS, JL; ARANA, P; HENRIQUESGIL, N, 1991
+Orthoptera	Acrididae	Melanoplus sanguinipes	Melanoplus devastator	Field	Orr, MR, 1996
+Orthoptera	Acrididae	Phaulacridium marginale	Phaulacridium otagoense	Field	Sivyer, L; Morgan-Richards, M; Koot, E; Trewick, SA, 2018
+Orthoptera	Acrididae	Stenobothrus clavatus	Stenobothrus rubicundus	Field	Vedenina, V; Fahsing, S; Sradnick, J; Klopfel, A; Elsner, N, 2013
+Orthoptera	Acrididae	Trimerotropis agrestis	Trimerotropis maritima	Field	Brust, ML; Hoback, WW; Wright, RJ, 2009
+Orthoptera	Acrididae	Trimerotropis suffusa	Trimerotropis cyaneipennis	Field	JOHN, B; LIGHTFOOT, DC; WEISSMAN, DB, 1983
+Orthoptera	Anostostomatidae	Hemideina ricta	Hemideina femorata	Field	MorganRichards, M; Townsend, JA, 1995
+Orthoptera	Anostostomatidae	Hemideina thoracica	Hemideina crassidens	Field	Mckean, NE; Trewick, SA; Morgan-Richards, M, 2016
+Orthoptera	Anostostomatidae	Hemideina thoracica	Hemideina trewicki	Field	Mckean, NE; Trewick, SA; Morgan-Richards, M, 2016
+Orthoptera	Gryllidae	Allonemobius fasciatus	Allonemobius socius	Field	GREGORY, PG; HOWARD, DJ, 1993
+Orthoptera	Gryllidae	Allonemobius shalontaki	Allonemobius socius	Laboratory	Birge, LM; Braswell, WE; Howard, DJ, 2007
+Orthoptera	Gryllidae	Gryllus assimilis	Gryllus multipulsator	Laboratory	Weissman, DB; Walker, TJ; Gray, DA, 2009
+Orthoptera	Gryllidae	Gryllus bimaculatus	Gryllus campestris	Field	Veen, T; Faulks, J; Tyler, F; Lloyd, J; Tregenza, T, 2013
+Orthoptera	Gryllidae	Gryllus firmus	Gryllus pennsylvanicus	Field	DOHERTY, JA; STORZ, MM, 1992
+Orthoptera	Gryllidae	Gryllus fultoni	Gryllus cayensis	Laboratory	Walker, TJ, 2001
+Orthoptera	Gryllidae	Gryllus rubens	Gryllus texensis	Field	Walker, TJ, 2000
+Orthoptera	Gryllidae	Teleogryllus oceanicus	Teleogryllus commodus	Laboratory	Bailey, NW; Moran, PA; Hennig, RM, 2017
+Orthoptera	Prophalangopsidae	Cyphoderris buckelli	Cyphoderris monstrosa	Laboratory	Dupuis, JR; Judge, KA; Brunet, BMT; Chan, SO; Sperling, FAH, 2020
+Orthoptera	Tettigoniidae	Hexacentrus japonicus	Hexacentrus unicolor	Field	INAGAKI, H; SUGIMOTO, T, 1994
+Orthoptera	Tettigoniidae	Orchelimum nigripes	Orchelimum pulchellum	Field	Shapiro, LH, 1998
+Orthoptera	Tettigoniidae	Saga campbelli	Saga hellenica	Laboratory	Lemonnier-Darcemont, M; Dutrillaux, AM; Dutrillaux, B; Darcemont, C, 2011
+Orthoptera	Tettigoniidae	Saga pedo	Saga rammei	Laboratory	Lemonnier-Darcemont, M; Darcemont, C, 2007
