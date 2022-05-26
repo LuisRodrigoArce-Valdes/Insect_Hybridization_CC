@@ -1,0 +1,290 @@
+Order	Sp1	Sp2	Assortative_Mating	Oviposition	Hybrid_Inviability	Haldanes_Rule	Fertile_F1_Hybrids	RI	Barrier
+Diptera	Aedes aegypti	Aedes albopictu	N	Y	N	N	N	1	Assortative Mating
+Diptera	Anastrepha bistrigata	Anastrepha striata	?	N	N	N	N	0.8	Oviposition
+Diptera	Anopheles gambiae	Anopheles coluzzii	Y	Y	Y	Y	Y	0	Fertile F1 Hybrids
+Diptera	Anopheles merus	Anopheles coluzzii	?	Y	Y	Y	N	0.2	Haldanes Rule
+Diptera	Anopheles merus	Anopheles gambiae	?	Y	Y	Y	N	0.2	Haldanes Rule
+Diptera	Anopheles sinensis	Anopheles pullus	?	Y	Y	N	N	0.4	Hybrid Sterility
+Diptera	Bactrocera tryoni	Bactrocera neohumeralis	Y	Y	Y	Y	Y	0	Fertile F1 Hybrids
+Diptera	Chironomus riparius	Chironomus piger	Y	Y	Y	Y	Y	0	Fertile F1 Hybrids
+Diptera	Drosophila denruoi	Drosophila tsigana	?	Y	N	N	N	0.6	Hybrid Inviability
+Diptera	Drosophila lini	Drosophila ogumai	Y	Y	Y	Y	N	0.2	Haldanes Rule
+Diptera	Drosophila lini	Drosophila ogumai	Y	Y	Y	Y	N	0.2	Haldanes Rule
+Diptera	Drosophila mojavensis	Drosophila arizonae	?	N	N	N	N	0.8	Oviposition
+Diptera	Drosophila neotestacea	Drosophila orientacea	Y	Y	N	N	N	0.6	Hybrid Inviability
+Diptera	Drosophila nepalensis	Drosophila trilutea	?	Y	Y	Y	N	0.2	Haldanes Rule
+Diptera	Drosophila ogumai	Drosophila ohnishii	Y	Y	Y	Y	N	0.2	Haldanes Rule
+Diptera	Drosophila silvestris	Drosophila heteroneura	Y	Y	Y	Y	Y	0	Fertile F1 Hybrids
+Diptera	Drosophila testacea	Drosophila neotestacea	Y	Y	N	N	N	0.6	Hybrid Inviability
+Diptera	Drosophila testacea	Drosophila orientacea	Y	Y	Y	Y	Y	0	Fertile F1 Hybrids
+Diptera	Liriomyza trifolii	Liriomyza sativae	?	Y	Y	N	N	0.4	Hybrid Sterility
+Diptera	Phlebotomus papatasi	Phlebotomus bergeroti	?	Y	Y	Y	N	0.2	Haldanes Rule
+Diptera	Phlebotomus papatasi	Phlebotomus duboscqi	?	Y	Y	N	N	0.4	Hybrid Sterility
+Diptera	Rhagoletis berberis	Rhagoletis suavis	N	?	?	?	?	1	Assortative Mating
+Diptera	Rhagoletis completa	Rhagoletis zoqui	Y	Y	Y	Y	Y	0	Fertile F1 Hybrids
+Diptera	Rhagoletis conversa	Rhagoletis brncici	N	N	N	N	N	1	Assortative Mating
+Diptera	Rhagoletis indifferens	Rhagoletis basiola	N	?	?	?	?	1	Assortative Mating
+Diptera	Rhagoletis indifferens	Rhagoletis pomonella	N	?	?	?	?	1	Assortative Mating
+Diptera	Rhagoletis indifferens	Rhagoletis suavis	N	?	?	?	?	1	Assortative Mating
+Diptera	Rhagoletis mendax	Rhagoletis zephyria	Y	Y	Y	Y	Y	0	Fertile F1 Hybrids
+Diptera	Rhagoletis pomonella	Rhagoletis basiola	N	?	?	?	?	1	Assortative Mating
+Diptera	Rhagoletis pomonella	Rhagoletis suavis	N	?	?	?	?	1	Assortative Mating
+Diptera	Sepsis neocynipsea	Sepsis cynipsea	Y	Y	Y	Y	N	0.2	Haldanes Rule
+Diptera	Sepsis pyrrhosoma	Sepsis flavimana	N	Y	Y	N	N	1	Assortative Mating
+Diptera	Telostylinus lineolatus	Telostylinus angusticollis	Y	Y	N	N	N	0.6	Hybrid Inviability
+Diptera	Themira lohmanus	Themira biloba	Y	Y	N	N	N	0.6	Hybrid Inviability
+Diptera	Urophora affinis	Urophora quadrifasciata	N	N	N	N	N	1	Assortative Mating
+Diptera	Zonosemata electa	Rhagoletis pomonella	N	?	?	?	?	1	Assortative Mating
+Hymenoptera	Aphidius microlophii	Aphidius eadyi	N	Y	Y	NA	?	1	Assortative Mating
+Hymenoptera	Apis cerana	Apis mellifera	Y	Y	N	NA	N	0.6	Hybrid Inviability
+Hymenoptera	Encarsia gennaroi	Encarsia suzannae	Y	Y	Y	NA	Y	0	Fertile F1 Hybrids
+Hymenoptera	Encarsia inaron	Encarsia partenopea	N	N	N	NA	N	1	Assortative Mating
+Hymenoptera	Nasonia giraulti	Nasonia vitripennis	Y	N	N	NA	N	0.8	Oviposition
+Hymenoptera	Nasonia longicornis	Nasonia vitripennis	Y	N	N	NA	N	0.8	Oviposition
+Hymenoptera	Neodiprion pinetum	Neodiprion lecontei	Y	Y	Y	NA	Y	0	Fertile F1 Hybrids
+Hymenoptera	Trichogramma kaykai	Trichogramma deion	?	Y	Y	NA	N	0.2	Haldanes Rule
+Hymenoptera	Trissolcus plautiae	Trissolcus japonicus	?	N	N	NA	N	0.8	Oviposition
+Lepidoptera	Busseola fusca	Busseola nairobica	N	N	N	N	N	1	Assortative Mating
+Lepidoptera	Busseola segeta	Busseola nairobica	N	Y	N	N	N	1	Assortative Mating
+Lepidoptera	Colias eurytheme	Colias philodice	Y	Y	Y	Y	Y	0	Fertile F1 Hybrids
+Lepidoptera	Danaus erippus	Danaus plexippus	N	Y	Y	N	N	1	Assortative Mating
+Lepidoptera	Earias vittella	Earias insulana	Y	N	N	N	N	0.8	Oviposition
+Lepidoptera	Heliconius elevatus	Heliconius pardalinus	N	Y	Y	Y	N	1	Assortative Mating
+Lepidoptera	Heliconius erato	Heliconius himera	Y	Y	Y	Y	Y	0	Fertile F1 Hybrids
+Lepidoptera	Malacosoma americanum	Malacosoma disstria	?	?	N	?	?	0.6	Hybrid Inviability
+Lepidoptera	Ostrinia furnacalis	Ostrinia nubilalis	Y	Y	Y	Y	Y	0	Fertile F1 Hybrids
+Lepidoptera	Ostrinia furnacalis	Ostrinia scapulalis	Y	Y	Y	Y	Y	0	Fertile F1 Hybrids
+Lepidoptera	Ostrinia nubilalis	Ostrinia scapulalis	Y	Y	Y	Y	Y	0	Fertile F1 Hybrids
+Lepidoptera	Spodoptera exigua	Spodoptera litura	N	?	?	?	?	1	Assortative Mating
+Odonata	Aeshna affinis	Aeshna cyanea	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Aeshna canadensis	Aeshna subarctica	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Aeshna confusa	Aeshna diffinis	Y	Y	Y	NA	NA	0	Fertile F1 Hybrids
+Odonata	Aeshna cyanea	Aeshna juncea	Y	N	N	NA	NA	0.8	Oviposition
+Odonata	Aeshna cyanea	Cordulegaster boltonii	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Aeshna cyanea	Sympetrum striolatum	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Aeshna grandis	Aeshna viridis	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Aeshna interrupta	Aeshna canadensis	Y	N	N	NA	NA	0.8	Oviposition
+Odonata	Aeshna juncea	Aeshna mixta	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Aeshna subarctica	Aeshna juncea	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Aeshna subarctica	Aeshna mixta	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Anax imperator	Aeshna juncea	Y	N	N	NA	NA	0.8	Oviposition
+Odonata	Anax imperator	Anax parthenope	Y	Y	Y	NA	NA	0	Fertile F1 Hybrids
+Odonata	Anax imperator	Cordulegaster boltonii	Y	N	N	NA	NA	0.8	Oviposition
+Odonata	Anax junius	Anax strenuus	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Anax junius	Anax walsinghami	Y	N	N	NA	NA	0.8	Oviposition
+Odonata	Anax nigrofasciatus	Anax parthenope	Y	Y	Y	NA	NA	0	Fertile F1 Hybrids
+Odonata	Argia emma	Argia vivida	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Argia emma	Enallagma carunculatum	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Argia plana	Argia moesta	Y	Y	N	NA	NA	0.6	Hybrid Inviability
+Odonata	Argia sedula	Enallagma basidens	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Argia tibialis	Argia moesta	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Argia tibialis	Lestes dryas	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Boyeria grafiana	Boyeria vinosa	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Brachytron pratense	Libellula quadrimaculata	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Calopteryx aequabilis	Calopteryx maculata	Y	Y	N	NA	NA	0.6	Hybrid Inviability
+Odonata	Calopteryx dimidiata	Calopteryx maculata	Y	N	N	NA	NA	0.8	Oviposition
+Odonata	Calopteryx haemorrhoidalis	Calopteryx splendens	Y	N	N	NA	NA	0.8	Oviposition
+Odonata	Calopteryx orientalis	Calopteryx samarcandica	Y	Y	Y	NA	NA	0	Fertile F1 Hybrids
+Odonata	Calopteryx splendens	Calopteryx virgo	Y	Y	Y	NA	NA	0	Fertile F1 Hybrids
+Odonata	Calopteryx splendens	Platycnemis pennipes	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Calopteryx virgo	Pyrrhosoma nymphula	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Chalcolestes parvidens	Chalcolestes viridis	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Chalcolestes viridis	Erythromma viridulum	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Chalcolestes viridis	Lestes dryas	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Chalcolestes viridis	Lestes virens	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Chalcolestes viridis	Sympecma fusca	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Coenagrion ornatum	Platycnemis pennipes	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Coenagrion puella	Coenagrion pulchellum	Y	Y	Y	NA	NA	0	Fertile F1 Hybrids
+Odonata	Coenagrion puella	Enallagma cyathigerum	Y	N	N	NA	NA	0.8	Oviposition
+Odonata	Coenagrion splendens	Coenagrion pulchellum	Y	Y	Y	NA	NA	0	Fertile F1 Hybrids
+Odonata	Coenagrion viridis	Coenagrion parvidens	Y	Y	Y	NA	NA	0	Fertile F1 Hybrids
+Odonata	Copera marginipes	Ceriagrion cerinorubellum	Y	N	N	NA	NA	0.8	Oviposition
+Odonata	Cordulegaster bilineata	Cordulegaster diastatops	Y	Y	Y	NA	NA	0	Fertile F1 Hybrids
+Odonata	Cordulegaster boltonii	Somatochlora metallica	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Cordulia aenea	Epitheca bimaculata	Y	N	N	NA	NA	0.8	Oviposition
+Odonata	Cordulia aenea	Somatochlora flavomaculata	Y	N	N	NA	NA	0.8	Oviposition
+Odonata	Cordulia shurtleffii	Leucorrhinia glaciallis	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Crocothemis erythraea	Trithemis annulata	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Davidius moiwanus	Gomphus chichibui	Y	N	N	NA	NA	0.8	Oviposition
+Odonata	Deielia phaon	Orthetrum albistylum	Y	N	N	NA	NA	0.8	Oviposition
+Odonata	Diplacodes lefebvrii	Trithemis arteriosa	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Dorocordulia libera	Epitheca canis	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Dromogomphus spinosus	Stylurus plagiatus	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Dythemis multipunctata	Dythemis sterilis	Y	Y	Y	NA	NA	0	Fertile F1 Hybrids
+Odonata	Elattoneura glauca	Allocnemis leucosticta	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Enallagma anna	Enallagma carunculatum	Y	Y	Y	NA	NA	0	Fertile F1 Hybrids
+Odonata	Enallagma anna	Enallagma civile	Y	Y	Y	NA	NA	0	Fertile F1 Hybrids
+Odonata	Enallagma aspersum	Enallagma civile	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Enallagma aspersum	Enallagma geminatum	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Enallagma basidens	Argia apicalis	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Enallagma boreale	Enallagma carunculatum	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Enallagma boreale	Enallagma cyathigerum	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Enallagma carunculatum	Enallagma basidens	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Enallagma carunculatum	Enallagma civile	Y	Y	Y	NA	NA	0	Fertile F1 Hybrids
+Odonata	Enallagma carunculatum	Ischnura cervula	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Enallagma carunculatum	Ischnura perparva	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Enallagma civile	Argia moesta	Y	N	N	NA	NA	0.8	Oviposition
+Odonata	Enallagma civile	Argia vivida	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Enallagma cyathigerum	Chalcolestes viridis	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Enallagma cyathigerum	Enallagma vernale	Y	Y	Y	NA	NA	0	Fertile F1 Hybrids
+Odonata	Enallagma cyathigerum	Ischnura denticolis	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Enallagma cyathigerum	Lestes dryas	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Enallagma cyathigerum	Telebasis salva	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Enallagma ebrium	Enallagma boreale	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Enallagma ebrium	Enallagma hageni	Y	Y	Y	NA	NA	0	Fertile F1 Hybrids
+Odonata	Enallagma hageni	Ischnura cervula	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Enallagma pollutum	Enallagma dubium	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Enallagma pollutum	Enallagma signatum	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Enallagma praevarum	Enallagma cyathigerum	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Epitheca cynosura	Epitheca spinosa	Y	Y	Y	NA	NA	0	Fertile F1 Hybrids
+Odonata	Epitheca spinigera	Epitheca cynosura	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Gomphurus externus	Gomphurus fraternus	Y	Y	Y	NA	NA	0	Fertile F1 Hybrids
+Odonata	Gomphus crassus	Gomphurus vastus	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Gomphus crassus	Ophiogomphus rupinsulensis	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Gomphus fraternus	Gomphus externus	Y	Y	Y	NA	NA	0	Fertile F1 Hybrids
+Odonata	Gomphus simillimus	Gomphus vulgatissimus	Y	N	N	NA	NA	0.8	Oviposition
+Odonata	Hetaerina americana	Argia plana	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Hetaerina americana	Calopteryx maculata	Y	N	N	NA	NA	0.8	Oviposition
+Odonata	Indolestes peregrinus	Cercion hieroglyhicum	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Ischnura aurora	Xanthocnemis zealandica	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Ischnura barberi	Ischnura ramburii	Y	N	N	NA	NA	0.8	Oviposition
+Odonata	Ischnura capreolus	Ischnura cyane	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Ischnura demorsa	Ischnura damula	Y	Y	Y	NA	NA	0	Fertile F1 Hybrids
+Odonata	Ischnura denticollis	Ischnura gemina	Y	Y	Y	NA	NA	0	Fertile F1 Hybrids
+Odonata	Ischnura elegans	Calopteryx splendens	Y	N	N	NA	NA	0.8	Oviposition
+Odonata	Ischnura elegans	Chalcolestes viridis	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Ischnura elegans	Coenagrion puella	Y	N	N	NA	NA	0.8	Oviposition
+Odonata	Ischnura elegans	Coenagrion pulchellum	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Ischnura elegans	Enallagma cyathigerum	Y	N	N	NA	NA	0.8	Oviposition
+Odonata	Ischnura elegans	Erythromma lindenii	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Ischnura elegans	Erythromma najas	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Ischnura elegans	Ischnura fountaineae	Y	Y	Y	NA	NA	0	Fertile F1 Hybrids
+Odonata	Ischnura elegans	Ischnura graellsii	Y	Y	Y	NA	NA	0	Fertile F1 Hybrids
+Odonata	Ischnura elegans	Ischnura saharensis	Y	Y	Y	NA	NA	0	Fertile F1 Hybrids
+Odonata	Ischnura elegans	Lestes sponsa	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Ischnura elegans	Pyrrhosoma nymphula	Y	N	N	NA	NA	0.8	Oviposition
+Odonata	Ischnura elegans	Sympecma fusca	Y	N	N	NA	NA	0.8	Oviposition
+Odonata	Ischnura erratica	Lestes disjunctus	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Ischnura genei	Ischnura elegans	Y	Y	Y	NA	NA	0	Fertile F1 Hybrids
+Odonata	Ischnura genei	Ischnura graellsii	Y	Y	Y	NA	NA	0	Fertile F1 Hybrids
+Odonata	Ischnura genei	Ischnura saharensis	Y	Y	Y	NA	NA	0	Fertile F1 Hybrids
+Odonata	Ischnura graellsii	Ischnura saharensis	Y	Y	Y	NA	NA	0	Fertile F1 Hybrids
+Odonata	Ischnura perparva	Enallagma anna	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Ischnura pumilio	Coenagrion puella	Y	N	N	NA	NA	0.8	Oviposition
+Odonata	Ischnura pumilio	Enallagma cyathigerum	Y	N	N	NA	NA	0.8	Oviposition
+Odonata	Ischnura pumilio	Ischnura elegans	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Ischnura pumilio	Ischnura graellsii	Y	N	N	NA	NA	0.8	Oviposition
+Odonata	Lestes australis	Enallagma cyathigerum	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Lestes barbarus	Chalcolestes viridis	Y	Y	N	NA	NA	0.6	Hybrid Inviability
+Odonata	Lestes barbarus	Lestes dryas	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Lestes barbarus	Lestes sponsa	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Lestes disjunctus	Chalcolestes viridis	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Lestes disjunctus	Enallagma cyathigerum	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Lestes disjunctus	Lestes vigilax	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Lestes dryas	Lestes sponsa	Y	N	N	NA	NA	0.8	Oviposition
+Odonata	Lestes inaequalis	Lestes disjunctus	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Lestes rectangularis	Lestes congener	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Lestes rectangularis	Lestes unguiculatus	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Lestes sponsa	Ceriagrion tenellum	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Lestes sponsa	Chalcolestes viridis	Y	Y	N	NA	NA	0.6	Hybrid Inviability
+Odonata	Lestes sponsa	Enallagma cyathigerum	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Lestes sponsa	Erythromma najas	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Lestes sponsa	Lestes temporalis	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Lestes sponsa	Lestes virens	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Lestes sponsa	Sympecma paedisca	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Lestes unguiculatus	Lestes dryas	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Lestes virens	Lestes barbarus	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Leucorrhinia dubia	Leucorrhinia rubicunda	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Leucorrhinia dubia	Sympetrum danae	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Leucorrhinia dubia	Sympetrum frequens	Y	N	N	NA	NA	0.8	Oviposition
+Odonata	Leucorrhinia glacialis	Leucorrhinia intacta	Y	Y	Y	NA	NA	0	Fertile F1 Hybrids
+Odonata	Leucorrhinia hudsonica	Leucorrhinia proxima	Y	N	N	NA	NA	0.8	Oviposition
+Odonata	Leucorrhinia proxima	Sympetrum pallipes	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Libellula angelina	Libellula quadrimaculata	Y	Y	Y	NA	NA	0	Fertile F1 Hybrids
+Odonata	Libellula auripennis	Libellula cyanea	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Libellula auripennis	Libellula semifasciata	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Libellula flavida	Libellula cyanea	Y	N	N	NA	NA	0.8	Oviposition
+Odonata	Libellula fulva	Libellula quadrimaculata	Y	N	N	NA	NA	0.8	Oviposition
+Odonata	Libellula luctuosa	Tramea carolina	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Libellula pulchella	Libellula luctuosa	Y	Y	Y	NA	NA	0	Fertile F1 Hybrids
+Odonata	Libellula semifasciata	Celithemis eponina	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Megalagrion eudytum	Megalagrion vagabundum	Y	Y	Y	NA	NA	0	Fertile F1 Hybrids
+Odonata	Megalagrion mauka	Megalagrion paludicola	Y	Y	Y	NA	NA	0	Fertile F1 Hybrids
+Odonata	Megalagrion nesiotes	Megalagrion oahuense	Y	Y	Y	NA	NA	0	Fertile F1 Hybrids
+Odonata	Megalagrion orobates	Megalagrion oresitrophum	Y	Y	Y	NA	NA	0	Fertile F1 Hybrids
+Odonata	Megalagrion xanthomelas	Megalagrion pacificum	Y	Y	Y	NA	NA	0	Fertile F1 Hybrids
+Odonata	Mnais costalis	Mnais pruinosa	Y	Y	Y	NA	NA	0	Fertile F1 Hybrids
+Odonata	Nehalennia gracilis	Nehalennia irene	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Onychogomphus forcipatus	Onychogomphus uncatus	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Ophiogomphus carolus	Phanogomphus lividus	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Ophiogomphus rupinsulensis	Ophiogomphus carolus	Y	Y	Y	NA	NA	0	Fertile F1 Hybrids
+Odonata	Ophiogomphus severus	Ophiogomphus occidentis	Y	N	N	NA	NA	0.8	Oviposition
+Odonata	Orthetrum albistylum	Orthetrum poecilops	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Orthetrum albistylum	Orthetrum triangulare	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Orthetrum brunneum	Onychogomphus forcipatus	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Orthetrum cancellatum	Orthetrum albistylum	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Paracercion melanotum	Paracercion plagiosum	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Phanogomphus exilis	Phanogomphus spicatus	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Phanogomphus graslinellus	Gomphus lividus	Y	Y	Y	NA	NA	0	Fertile F1 Hybrids
+Odonata	Phanogomphus graslinellus	Phanogomphus lividus	Y	Y	Y	NA	NA	0	Fertile F1 Hybrids
+Odonata	Platycnemis pennipes	Coenagrion puella	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Platycnemis pennipes	Platycnemis acutipennis	Y	Y	N	NA	NA	0.6	Hybrid Inviability
+Odonata	Pseudagrion rubriceps	Pseudagrion microcephalum	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Pyrrhosoma nymphula	Coenagrion lunulatum	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Pyrrhosoma nymphula	Coenagrion mercuriale	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Pyrrhosoma nymphula	Coenagrion puella	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Pyrrhosoma nymphula	Ischnura pumilio	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Pyrrhosoma nymphula	Lestes barbarus	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Pyrrhosoma nymphula	Sympecma fusca	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Somatochlora albicincta	Somatochlora hudsonica	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Somatochlora sahlbergi	Somatochlora albicinta	Y	Y	Y	NA	NA	0	Fertile F1 Hybrids
+Odonata	Somatochlora sahlbergi	Somatochlora hudsonica	Y	Y	Y	NA	NA	0	Fertile F1 Hybrids
+Odonata	Stylurus plagiatus	Dromogomphus armatus	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Sympecma fusca	Sympecma paedisca	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Sympetrum croceolum	Sympetrum uniforme	Y	Y	Y	NA	NA	0	Fertile F1 Hybrids
+Odonata	Sympetrum danae	Sympetrum sanguineum	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Sympetrum darwinianum	Sympetrum maculatum	Y	Y	Y	NA	NA	0	Fertile F1 Hybrids
+Odonata	Sympetrum depressiusculum	Crocothemis erythraea	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Sympetrum depressiusculum	Libellula fulva	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Sympetrum depressiusculum	Onychogomphus uncatus	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Sympetrum depressiusculum	Orthetrum albistylum	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Sympetrum depressiusculum	Orthetrum cancellatum	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Sympetrum depressiusculum	Oxygastra curtisii	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Sympetrum depressiusculum	Sympetrum fonscolombii	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Sympetrum depressiusculum	Sympetrum frequens	Y	Y	Y	NA	NA	0	Fertile F1 Hybrids
+Odonata	Sympetrum eroticum	Sympetrum baccha	Y	Y	Y	NA	NA	0	Fertile F1 Hybrids
+Odonata	Sympetrum eroticum	Sympetrum darwinianum	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Sympetrum eroticum	Sympetrum parvulum	Y	Y	Y	NA	NA	0	Fertile F1 Hybrids
+Odonata	Sympetrum eroticum	Sympetrum pedemontanum	Y	Y	Y	NA	NA	0	Fertile F1 Hybrids
+Odonata	Sympetrum frequens	Pantala flavescens	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Sympetrum frequens	Sympetrum infuscatum	Y	N	N	NA	NA	0.8	Oviposition
+Odonata	Sympetrum infuscatum	Sympetrum maculatum	Y	N	N	NA	NA	0.8	Oviposition
+Odonata	Sympetrum internum	Sympetrum rubicundulum	Y	N	N	NA	NA	0.8	Oviposition
+Odonata	Sympetrum kunckeli	Sympetrum darwinianum	Y	N	N	NA	NA	0.8	Oviposition
+Odonata	Sympetrum kunckeli	Sympetrum eroticum	Y	Y	Y	NA	NA	0	Fertile F1 Hybrids
+Odonata	Sympetrum meridionale	Sympetrum striolatum	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Sympetrum obtrusum	Sympetrum danae	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Sympetrum risi	Sympetrum eroticum	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Sympetrum risi	Sympetrum infuscatum	Y	N	N	NA	NA	0.8	Oviposition
+Odonata	Sympetrum rubicundulum	Sympetrum obtrusum	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Sympetrum sanguineum	Crocothemis erythraea	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Sympetrum sanguineum	Sympetrum flaveolum	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Sympetrum sanguineum	Sympetrum meridionale	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Sympetrum sanguineum	Sympetrum striolatum	Y	N	N	NA	NA	0.8	Oviposition
+Odonata	Sympetrum sanguineum	Sympetrum vulgatum	N	N	N	NA	NA	1	Assortative Mating
+Odonata	Sympetrum vulgatum	Sympetrum danae	Y	Y	N	NA	NA	0.6	Hybrid Inviability
+Odonata	Sympetrum vulgatum	Sympetrum striolatum	Y	Y	N	NA	NA	0.6	Hybrid Inviability
+Odonata	Trigomphus interruptus	Trigomphus ogumai	N	N	N	NA	NA	1	Assortative Mating
+Orthoptera	Allonemobius fasciatus	Allonemobius socius	Y	Y	Y	Y	Y	0	Fertile F1 Hybrids
+Orthoptera	Chorthippus albomarginatus	Chorthippus oschei	Y	Y	Y	Y	Y	0	Fertile F1 Hybrids
+Orthoptera	Chorthippus biguttulus	Chorthippus brunneus	Y	Y	Y	Y	N	0.2	Haldanes Rule
+Orthoptera	Chorthippus biguttulus	Chorthippus mollis	Y	Y	Y	Y	N	0.2	Haldanes Rule
+Orthoptera	Chorthippus brunneus	Chorthippus jacobsi	Y	Y	Y	Y	Y	0	Fertile F1 Hybrids
+Orthoptera	Chorthippus parallelus	Chorthippus montanus	Y	Y	Y	Y	Y	0	Fertile F1 Hybrids
+Orthoptera	Cyphoderris buckelli	Cyphoderris monstrosa	Y	N	N	N	N	0.8	Oviposition
+Orthoptera	Dociostaurus curvicercus	Dociostaurus jagoi	N	Y	N	N	N	1	Assortative Mating
+Orthoptera	Gryllus lineaticeps	Gryllus personatus	Y	Y	Y	Y	Y	0	Fertile F1 Hybrids
+Orthoptera	Gryllus staccato	Gryllus lineaticeps	Y	Y	Y	Y	Y	0	Fertile F1 Hybrids
+Orthoptera	Gryllus staccato	Gryllus personatus	Y	Y	Y	Y	Y	0	Fertile F1 Hybrids
+Orthoptera	Podisma tyatiensis	Podisma sapporensis	Y	Y	N	N	N	0.6	Hybrid Inviability
+Orthoptera	Stenobothrus rubicundulus	Stenobothrus clavatus	Y	Y	Y	Y	Y	0	Fertile F1 Hybrids

@@ -1,0 +1,366 @@
+Order	Sp1	Sp2	Assortative_Mating	Oviposition	Hybrid_Inviability	Haldanes_Rule	Fertile_F1_Hybrids	Reference
+Diptera	Aedes aegypti	Aedes albopictu	N	Y	N	N	N	HARPER, JP; PAULSON, SL, 1994
+Diptera	Anastrepha bistrigata	Anastrepha striata	?	N	N	N	N	Selivon, D; Morgante, J, 1997
+Diptera	Anastrepha fraterculus	Anastrepha obliqua	Y	Y	Y	?	?	Rull, J; Tadeo, E; Lasa, R; Rodriguez, CL; Altuzar-Molina, A; Aluja, M, 2018
+Diptera	Anopheles albitarsis	Anopheles deaneorum	?	Y	Y	Y	Y	Lima, JBP; Valle, D; Peixoto, AA, 2004
+Diptera	Anopheles gambiae	Anopheles coluzzii	Y	Y	Y	Y	Y	Caputo, B; Tondossoma, N; Virgillito, C; Pichler, V; Serini, P; Calzetta, M; Manica, M; Coulibaly, ZI; Dia, I; Akr, M; Offianan, A; della Torre, A, 2022
+Diptera	Anopheles merus	Anopheles coluzzii	?	Y	Y	Y	N	Liang, JT; Hodge, JM; Sharakhov, IV, 2021
+Diptera	Anopheles merus	Anopheles gambiae	?	Y	Y	Y	N	Liang, JT; Hodge, JM; Sharakhov, IV, 2021
+Diptera	Anopheles sinensis	Anopheles pullus	?	Y	Y	N	N	Kim, SJ; Choochote, W; Jitpakdi, A; Junkum, A; Ahn, DA; Baek, JA; Park, MH; Kim, MS; Chung, KW; Min, GS, 2005
+Diptera	Bactrocera tryoni	Bactrocera neohumeralis	Y	Y	Y	Y	Y	Pike, N; Meats, A, 2002
+Diptera	Chironomus riparius	Chironomus piger	Y	Y	Y	Y	Y	Foucault, Q; Wieser, A; Heumann-Kiesler, C; Diogo, J; Cocchiararo, B; Nowak, C; Waldvogel, AM; Pfenninger, M, 2019
+Diptera	Drosophila ananassae	Drosophila pallidosa	?	Y	Y	Y	Y	Matsuda, M; Ng, CS; Doi, M; Kopp, A; Tobari, YN, 2009
+Diptera	Drosophila denruoi	Drosophila tsigana	?	Y	N	N	N	Suwito, A; Toda, MJ; Takamori, H; Harada, K; Watabe, H, 2014
+Diptera	Drosophila lini	Drosophila ogumai	Y	Y	Y	Y	N	Zannat, MT; Toda, MJ, 2002
+Diptera	Drosophila lini	Drosophila ogumai	Y	Y	Y	Y	N	Zannat, MT; Toda, MJ, 2002
+Diptera	Drosophila mojavensis	Drosophila arizonae	?	N	N	N	N	Richmond, MP, 2014
+Diptera	Drosophila neotestacea	Drosophila orientacea	Y	Y	N	N	N	GRIMALDI, D; JAMES, AC; JAENIKE, J, 1992
+Diptera	Drosophila nepalensis	Drosophila trilutea	?	Y	Y	Y	N	Mo, WZ; Li, ZM; Deng, XM; Chen, AL; Ritchie, MG; Yang, DJ; He, ZB; Toda, MJ; Wen, SY, 2021
+Diptera	Drosophila novamexicana	Drosophila americana	?	Y	?	?	?	Nickel, D; Civetta, A, 2009
+Diptera	Drosophila ogumai	Drosophila ohnishii	Y	Y	Y	Y	N	Zannat, MT; Toda, MJ, 2002
+Diptera	Drosophila parapallidosa	Drosophila ananassae	?	Y	Y	Y	Y	Matsuda, M; Ng, CS; Doi, M; Kopp, A; Tobari, YN, 2009
+Diptera	Drosophila parapallidosa	Drosophila pallidosa	?	Y	Y	Y	Y	Matsuda, M; Ng, CS; Doi, M; Kopp, A; Tobari, YN, 2009
+Diptera	Drosophila silvestris	Drosophila heteroneura	Y	Y	Y	Y	Y	PRICE, DK; BOAKE, CRB, 1995
+Diptera	Drosophila testacea	Drosophila neotestacea	Y	Y	N	N	N	GRIMALDI, D; JAMES, AC; JAENIKE, J, 1992
+Diptera	Drosophila testacea	Drosophila orientacea	Y	Y	Y	Y	Y	GRIMALDI, D; JAMES, AC; JAENIKE, J, 1992
+Diptera	Drosophila virilis	Drosophila americana	?	Y	Y	Y	?	Nickel, D; Civetta, A, 2009
+Diptera	Drosophila virilis	Drosophila novamexicana	?	Y	Y	Y	?	Nickel, D; Civetta, A, 2009
+Diptera	Evandromyia carmelinoi	Evandromyia lenti	?	Y	Y	Y	Y	dos Reis, YV; Alevi, KCC, 2020
+Diptera	Liriomyza trifolii	Liriomyza sativae	?	Y	Y	N	N	Sakamaki, Y; Miura, K; Chi, YC, 2005
+Diptera	Lutzomyia pseudolongipalpis	Lutzomyia longipalpis	?	Y	Y	?	?	Arrivillaga, J; Salerno, P; Rangel, Y, 2009
+Diptera	Phlebotomus papatasi	Phlebotomus bergeroti	?	Y	Y	Y	N	dos Reis, YV; Alevi, KCC, 2020
+Diptera	Phlebotomus papatasi	Phlebotomus duboscqi	?	Y	Y	N	N	dos Reis, YV; Alevi, KCC, 2020
+Diptera	Rhagoletis berberis	Rhagoletis suavis	N	?	?	?	?	Hood, GR; Egan, SP; Feder, JL, 2012
+Diptera	Rhagoletis cingulata	Rhagoletis indifferens	?	Y	?	?	?	Doellman, MM; Schuler, H; Saint, GJ; Hood, GR; Egan, SP; Powell, THQ; Glover, MM; Bruzzese, DJ; Smith, JJ; Yee, WL; Goughnour, RB; Rull, J; Aluja, M; Feder, JL, 2019
+Diptera	Rhagoletis completa	Rhagoletis zoqui	Y	Y	Y	Y	Y	Rull, J; Tadeo, E; Aluja, M; Guillen, L; Egan, SP; Feder, JL, 2012
+Diptera	Rhagoletis conversa	Rhagoletis brncici	N	N	N	N	N	Frias-Lasserre, D, 2015
+Diptera	Rhagoletis indifferens	Rhagoletis basiola	N	?	?	?	?	Hood, GR; Egan, SP; Feder, JL, 2012
+Diptera	Rhagoletis indifferens	Rhagoletis cingulata	Y	?	?	?	?	Hood, GR; Egan, SP; Feder, JL, 2012
+Diptera	Rhagoletis indifferens	Rhagoletis pomonella	N	?	?	?	?	Hood, GR; Egan, SP; Feder, JL, 2012
+Diptera	Rhagoletis indifferens	Rhagoletis suavis	N	?	?	?	?	Hood, GR; Egan, SP; Feder, JL, 2012
+Diptera	Rhagoletis mendax	Rhagoletis zephyria	Y	Y	Y	Y	Y	Virgilio, M; Delatte, H; Quilici, S; Backeljau, T; De Meyer, M, 2007
+Diptera	Rhagoletis pomonella	Rhagoletis basiola	N	?	?	?	?	Hood, GR; Egan, SP; Feder, JL, 2012
+Diptera	Rhagoletis pomonella	Rhagoletis suavis	N	?	?	?	?	Hood, GR; Egan, SP; Feder, JL, 2012
+Diptera	Sepsis neocynipsea	Sepsis cynipsea	Y	Y	Y	Y	N	Giesen, A; Blanckenhorn, WU; Schafer, MA, 2017
+Diptera	Sepsis pyrrhosoma	Sepsis flavimana	N	Y	Y	N	N	Tan, DSH; Ang, Y; Lim, GS; Bin Ismail, MR; Meier, R, 2010
+Diptera	Telostylinus lineolatus	Telostylinus angusticollis	Y	Y	N	N	N	Bath, E; Tatarnic, N; Bonduriansky, R, 2012
+Diptera	Themira lohmanus	Themira biloba	Y	Y	N	N	N	Ang, YC; Rajaratnam, G; Su, KFY; Meier, R, 2017
+Diptera	Urophora affinis	Urophora quadrifasciata	N	N	N	N	N	BERUBE, DE; MYERS, JH, 1983
+Diptera	Zonosemata electa	Rhagoletis pomonella	N	?	?	?	?	Hood, GR; Egan, SP; Feder, JL, 2012
+Hymenoptera	Aphidius microlophii	Aphidius eadyi	N	Y	Y	NA	?	Atanassova, P; Brookes, CP; Loxdale, HD; Powell, W, 1998
+Hymenoptera	Apis cerana	Apis mellifera	Y	Y	N	NA	N	Remnant, EJ; Koetz, A; Tan, K; Hinson, E; Beekman, M; Oldroyd, BP, 2014
+Hymenoptera	Athalia rosae	Athalia infumata	Y	Y	?	NA	?	SAWA, M, 1991
+Hymenoptera	Camponotus herculeanus	Camponotus ligniperda	Y	Y	Y	NA	?	Seifert, B, 2019
+Hymenoptera	Camponotus herculeanus	Camponotus ligniperda	Y	Y	Y	NA	?	Seifert, B, 2019
+Hymenoptera	Encarsia gennaroi	Encarsia suzannae	Y	Y	Y	NA	Y	Gebiola, M; Kelly, SE; Hammerstein, P; Giorgini, M; Hunter, MS, 2016
+Hymenoptera	Encarsia inaron	Encarsia partenopea	N	N	N	NA	N	Gebiola, M; White, JA; Cass, BN; Kozuch, A; Harris, LR; Kelly, SE; Karimi, J; Giorgini, M; Perlman, SJ; Hunter, MS, 2016
+Hymenoptera	Nasonia giraulti	Nasonia vitripennis	Y	N	N	NA	N	Mair, MM; Kmezic, V; Huber, S; Pannebakker, BA; Ruther, J, 2017
+Hymenoptera	Nasonia longicornis	Nasonia vitripennis	Y	N	N	NA	N	Beukeboom, LW; van den Assem, J, 2001
+Hymenoptera	Neodiprion pinetum	Neodiprion lecontei	Y	Y	Y	NA	Y	Bendall, EE; Vertacnik, KL; Linnen, CR, 2017
+Hymenoptera	Plutella xylostella	Plutella australiana	?	Y	Y	NA	Y	Perry, KD; Baker, GJ; Powis, KJ; Kent, JK; Ward, CM; Baxter, SW, 2018
+Hymenoptera	Polistes fuscatus	Polistes metricus	Y	?	?	NA	?	Miller, SE; Legan, AW; Flores, ZA; Ng, HY; Sheehan, MJ, 2019
+Hymenoptera	Trichogramma kaykai	Trichogramma deion	?	Y	Y	NA	N	Jeong, G; Stouthamer, R, 2006
+Hymenoptera	Trissolcus plautiae	Trissolcus japonicus	?	N	N	NA	N	Matsuo, K; Hirose, Y; Johnson, NF, 2014
+Lepidoptera	Busseola fusca	Busseola nairobica	N	N	N	N	N	Felix, AE; Calatayud, PA; Le Ru, B; Capdevielle-Dulac, C; Ongamo, G; Silvain, JF; Frerot, B.	2014
+Dahlica charlottae	Dahlica lazuri	Laboratory	Y	Y	N	N	N	Elzinga, JA; Mappes, J; Kaila, L.	2014
+Dahlica charlottae	Dahlica lichenella	Laboratory	Y	Y	N	N	N	Elzinga, JA; Mappes, J; Kaila, L.	2014
+Dahlica charlottae	Siederia listerella	Laboratory	Y	N	N	N	N	Elzinga, JA; Mappes, J; Kaila, L.	2014
+Dahlica charlottae	Siederia rupicolella	Laboratory	Y	N	N	N	N	Elzinga, JA; Mappes, J; Kaila, L.	2014
+Dahlica lazuri	Dahlica lichenella	Laboratory	Y	Y	N	N	N	Elzinga, JA; Mappes, J; Kaila, L.	2014
+Dahlica lazuri	Siederia listerella	Laboratory	Y	Y	N	N	N	Elzinga, JA; Mappes, J; Kaila, L.	2014
+Dahlica lazuri	Siederia rupicolella	Laboratory	Y	Y	N	N	N	Elzinga, JA; Mappes, J; Kaila, L.	2014
+Dahlica lichenella	Siederia listerella	Laboratory	Y	N	N	N	N	Elzinga, JA; Mappes, J; Kaila, L.	2014
+Dahlica lichenella	Siederia rupicolella	Laboratory	Y	Y	N	N	N	Elzinga, JA; Mappes, J; Kaila, L.	2014
+Siederia listerella	Siederia rupicolella	Laboratory	Y	N	N	N	N	Elzinga, JA; Mappes, J; Kaila, L.	2014
+Sesamia cretica	Sesamia nonagrioides	Field	N	?	?	?	?	Avand-Faghih, A; Frerot, B.	2008
+Heliconius cydno	Heliconius melpomene	Field	Y	Y	Y	Y	N	Byers, KJRP; Darragh, K; Garza, SF; Almeida, DA; Warren, IA; Rastas, PMA; Merrill, RM; Schulz, S; McMillan, WO; Jiggins, CD.	2021
+Heliconius timareta	Heliconius melpomene	Field	Y	Y	Y	Y	Y	Merot, C; Frerot, B; Leppik, E; Joron, M.	2015
+Papilio canadensis	Papilio glaucus	Field	Y	Y	Y	Y	Y	Scriber, JM; Ording, GJ.	2005
+Etiella zinckenella	Etiella hobsoni	Laboratory	N	?	?	?	?	Edmonds, RP; Borden, JH; Angerilli, NPD; Rauf, A.	2000
+Helicoverpa armigera	Helicoverpa assulta	Laboratory	N	Y	Y	Y	Y	Teng, ZQ; He, Q; Li, HT; Zhang, QW.	2009
+Lymantria monacha	Lymantria fumida	Field	N	?	?	?	?	Rowland, E; Schaefer, PW; Belton, P; Gries, G.	2011
+Platyptilia carduidactyla	Platyptilia williamsii	Field	N	N	N	N	N	HAYNES, KF; BIRCH, MC.	1986
+Spodoptera littoralis	Spodoptera litura	Laboratory	Y	Y	N	N	N	Saveer, AM; Becher, PG; Birgersson, G; Hansson, BS; Witzgall, P; Bengtsson, M.	2014
+Chloridea virescens	Heliothis subflexa	Laboratory	Y	Y	Y	Y	N	Hillier, NK; Vickers, NJ. 	2011
+Danaus chrysippus	Danaus genutia	Field	Y	N	N	N	N	Baidya, S; Basu, DN; Roy, S; Roy, AB.	2018
+Lycaeides idas	Lycaeides melissa	Field	Y	Y	Y	Y	Y	Gompert, Z; Lucas, LK; Fordyce, JA; Forister, ML; Nice, CC.	2010
+Leptidea sinapis	Leptidea reali	Field	N	N	N	N	N	Friberg, M; Vongvanich, N; Borg-Karlson, AK; Kemp, DJ; Merilaita, S; Wiklund, C.	2008
+Leptidea sinapis	Leptidea juvernica	Laboratory	N	N	N	N	N	Dinca, V; Wiklund, C; Lukhtanov, VA; Kodandaramaiah, U; Noren, K; Dapporto, L; Wahlberg, N; Vila, R; Friberg, M.	2013
+Leptidea reali	Leptidea juvernica	Laboratory	N	N	N	N	N	Dinca, V; Wiklund, C; Lukhtanov, VA; Kodandaramaiah, U; Noren, K; Dapporto, L; Wahlberg, N; Vila, R; Friberg, M.	2013
+Choristoneura fumiferana	Choristoneura pinus	Field	Y	Y	Y	Y	?	Deverno, LL; Smith, GA; Harrison, KJ.	1998
+Darna bradleyi	Darna trima	Field	N	?	?	?	?	Sasaerila, Y; Gries, G; Gries, R; Boo, TC.	2000
+Darna bradleyi	Setothosea asigna	Field	N	?	?	?	?	Sasaerila, Y; Gries, G; Gries, R; Boo, TC.	2000
+Darna bradleyi	Setora nitens	Field	N	?	?	?	?	Sasaerila, Y; Gries, G; Gries, R; Boo, TC.	2000
+Darna trima	Setothosea asigna	Field	N	?	?	?	?	Sasaerila, Y; Gries, G; Gries, R; Boo, TC.	2000
+Darna trima	Setora nitens	Field	N	?	?	?	?	Sasaerila, Y; Gries, G; Gries, R; Boo, TC.	2000
+Setothosea asigna	Setora nitens	Field	N	?	?	?	?	Sasaerila, Y; Gries, G; Gries, R; Boo, TC.	2000
+Melitaea acentria	Melitaea didyma	Field	Y	Y	Y	Y	?	Pazhenkova, EA; Lukhtanov, VA.	2021
+Pieris napi	Pieris macdunnoughii	Laboratory	?	Y	Y	Y	Y	Chew, FS; Watt, WB.	2006
+Pieris napi	Pieris virginiensis	Laboratory	?	Y	Y	N	N	Chew, FS; Watt, WB.	2006
+Pieris napi	Pieris marginalis	Laboratory	?	Y	Y	Y	Y	Chew, FS; Watt, WB.	2006
+Pieris napi	Pieris oleracea	Laboratory	?	Y	Y	Y	Y	Chew, FS; Watt, WB.	2006
+Pieris napi	Pieris microstriata	Laboratory	?	Y	Y	Y	N	Chew, FS; Watt, WB.	2006
+Pieris oleracea	Pieris virginiensis	Laboratory	Y	N	N	N	N	Chew, FS; Watt, WB.	2006
+Pieris oleracea	Pieris marginalis	Laboratory	?	Y	Y	Y	Y	Chew, FS; Watt, WB.	2006
+Trichoplusia ni	Chrysodeixis includens	Laboratory	N	N	N	N	N	LANDOLT, PJ; HEATH, RR.	1987
+Plutella xylostella	Plutella australiana	Laboratory	N	Y	Y	Y	N	Perry, KD; Baker, GJ; Powis, KJ; Kent, JK; Ward, CM; Baxter, SW.	2018
+Heliconius cydno	Heliconius pachinus	Field	Y	Y	Y	Y	Y	Kronforst, MR; Young, LG; Kapan, DD; McNeely, C; ONeill, RJ; Gilbert, LE, 2006
+Lepidoptera	Busseola segeta	Busseola nairobica	N	Y	N	N	N	Felix, AE; Calatayud, PA; Le Ru, B; Capdevielle-Dulac, C; Ongamo, G; Silvain, JF; Frerot, B.	2014
+Busseola segeta	Busseola fusca	Laboratory	N	N	N	N	N	Felix, AE; Calatayud, PA; Le Ru, B; Capdevielle-Dulac, C; Ongamo, G; Silvain, JF; Frerot, B, 2014
+Lepidoptera	Choristoneura fumiferana	Choristoneura occidentalis	Y	Y	Y	?	?	Nelson, TD; MacDonald, ZG; Sperling, FAH, 2022
+Lepidoptera	Colias eurytheme	Colias philodice	Y	Y	Y	Y	Y	MEYERROCHOW, VB, 1991
+Lepidoptera	Danaus erippus	Danaus plexippus	N	Y	Y	N	N	Hay-Roe, MM; Lamas, G; Nation, JL, 2007
+Lepidoptera	Earias vittella	Earias insulana	Y	N	N	N	N	TAMHANKAR, AJ, 1992
+Lepidoptera	Heliconius elevatus	Heliconius pardalinus	N	Y	Y	Y	N	Rosser, N; Queste, LM; Cama, B; Edelman, NB; Mann, F; Pezo, RM; Morris, J; Segami, C; Velado, P; Schulz, S; Mallet, JLB; Dasmahapatra, KK, 2019
+Lepidoptera	Heliconius erato	Heliconius himera	Y	Y	Y	Y	Y	Mallet, J; McMillan, WO; Jiggins, CD, 1998
+Lepidoptera	Lycaena salustius	Lycaena feredayi	Y	Y	Y	?	?	MEYERROCHOW, VB, 1991
+Lepidoptera	Malacosoma americanum	Malacosoma disstria	?	?	N	?	?	SAMPLE, BE, 1992
+Lepidoptera	Ostrinia furnacalis	Ostrinia nubilalis	Y	Y	Y	Y	Y	Wang, YZ; Kim, KS; Guo, WC; Li, QY; Zhang, YY; Wang, ZY; Coates, BS, 2017
+Lepidoptera	Ostrinia furnacalis	Ostrinia scapulalis	Y	Y	Y	Y	Y	Bourguet, D; Ponsard, S; Streiff, R; Meusnier, S; Audiot, P; Li, J; Wang, ZY, 2014
+Lepidoptera	Ostrinia nubilalis	Ostrinia scapulalis	Y	Y	Y	Y	Y	Bourguet, D; Ponsard, S; Streiff, R; Meusnier, S; Audiot, P; Li, J; Wang, ZY, 2014
+Lepidoptera	Ostrinia orientalis	Ostrinia nubilalis	?	Y	Y	Y	Y	Fu, X; Tabata, J; Huang, Y; Takanashi, T; Ohno, S; Honda, H; Tatsuki, S; Ishikawa, Y, 2004
+Lepidoptera	Ostrinia scapulalis	Ostrinia zealis	?	Y	Y	Y	Y	Tabata, F; Ishikawa, Y, 2005
+Lepidoptera	Papilio machaon	Papilio hospiton	Y	Y	Y	Y	?	Cianchi, R; Ungaro, A; Marini, M; Bullini, L, 2003
+Lepidoptera	Spodoptera exigua	Spodoptera litura	N	?	?	?	?	Yan, Q; Liu, XL; Wang, YL; Tang, XQ; Shen, ZJ; Dong, SL; Den, JY, 2019
+Lepidoptera	Spodoptera latitascia	Spodoptera descoinsi	?	Y	Y	Y	Y	Monti, L; Genermont, J; Malosse, C; LalanneCassou, B, 1997
+Lepidoptera	Yponomeuta padella	Yponomeuta cagnagella	?	Y	Y	Y	Y	Hora, KH; Marec, F; Roessingh, P; Menken, SBJ.  2019
+Odonata	Aeshna affinis	Aeshna cyanea	N	N	N	NA	NA	NA
+Odonata	Aeshna canadensis	Aeshna subarctica	N	N	N	NA	NA	NA
+Odonata	Aeshna confusa	Aeshna diffinis	Y	Y	Y	NA	NA	NA
+Odonata	Aeshna cyanea	Aeshna juncea	Y	N	N	NA	NA	NA
+Odonata	Aeshna cyanea	Cordulegaster boltonii	N	N	N	NA	NA	NA
+Odonata	Aeshna cyanea	Sympetrum striolatum	N	N	N	NA	NA	NA
+Odonata	Aeshna grandis	Aeshna viridis	N	N	N	NA	NA	NA
+Odonata	Aeshna interrupta	Aeshna canadensis	Y	N	N	NA	NA	NA
+Odonata	Aeshna juncea	Aeshna mixta	N	N	N	NA	NA	NA
+Odonata	Aeshna subarctica	Aeshna juncea	N	N	N	NA	NA	NA
+Odonata	Aeshna subarctica	Aeshna mixta	N	N	N	NA	NA	NA
+Odonata	Anax imperator	Aeshna juncea	Y	N	N	NA	NA	NA
+Odonata	Anax imperator	Anax parthenope	Y	Y	Y	NA	NA	NA
+Odonata	Anax imperator	Cordulegaster boltonii	Y	N	N	NA	NA	NA
+Odonata	Anax junius	Anax strenuus	N	N	N	NA	NA	NA
+Odonata	Anax junius	Anax walsinghami	Y	N	N	NA	NA	NA
+Odonata	Anax nigrofasciatus	Anax parthenope	Y	Y	Y	NA	NA	NA
+Odonata	Argia emma	Argia vivida	N	N	N	NA	NA	NA
+Odonata	Argia emma	Enallagma carunculatum	N	N	N	NA	NA	NA
+Odonata	Argia plana	Argia moesta	Y	Y	N	NA	NA	NA
+Odonata	Argia sedula	Enallagma basidens	N	N	N	NA	NA	NA
+Odonata	Argia tibialis	Argia moesta	N	N	N	NA	NA	NA
+Odonata	Argia tibialis	Lestes dryas	N	N	N	NA	NA	NA
+Odonata	Boyeria grafiana	Boyeria vinosa	N	N	N	NA	NA	NA
+Odonata	Brachytron pratense	Libellula quadrimaculata	N	N	N	NA	NA	NA
+Odonata	Calopteryx aequabilis	Calopteryx maculata	Y	Y	N	NA	NA	NA
+Odonata	Calopteryx dimidiata	Calopteryx maculata	Y	N	N	NA	NA	NA
+Odonata	Calopteryx haemorrhoidalis	Calopteryx splendens	Y	N	N	NA	NA	NA
+Odonata	Calopteryx orientalis	Calopteryx samarcandica	Y	Y	Y	NA	NA	NA
+Odonata	Calopteryx splendens	Calopteryx virgo	Y	Y	Y	NA	NA	NA
+Odonata	Calopteryx splendens	Platycnemis pennipes	N	N	N	NA	NA	NA
+Odonata	Calopteryx virgo	Pyrrhosoma nymphula	N	N	N	NA	NA	NA
+Odonata	Chalcolestes parvidens	Chalcolestes viridis	N	N	N	NA	NA	NA
+Odonata	Chalcolestes viridis	Erythromma viridulum	N	N	N	NA	NA	NA
+Odonata	Chalcolestes viridis	Lestes dryas	N	N	N	NA	NA	NA
+Odonata	Chalcolestes viridis	Lestes virens	N	N	N	NA	NA	NA
+Odonata	Chalcolestes viridis	Sympecma fusca	N	N	N	NA	NA	NA
+Odonata	Coenagrion ornatum	Platycnemis pennipes	N	N	N	NA	NA	NA
+Odonata	Coenagrion puella	Coenagrion pulchellum	Y	Y	Y	NA	NA	NA
+Odonata	Coenagrion puella	Enallagma cyathigerum	Y	N	N	NA	NA	NA
+Odonata	Coenagrion splendens	Coenagrion pulchellum	Y	Y	Y	NA	NA	NA
+Odonata	Coenagrion viridis	Coenagrion parvidens	Y	Y	Y	NA	NA	NA
+Odonata	Copera marginipes	Ceriagrion cerinorubellum	Y	N	N	NA	NA	NA
+Odonata	Cordulegaster bilineata	Cordulegaster diastatops	Y	Y	Y	NA	NA	NA
+Odonata	Cordulegaster boltonii	Somatochlora metallica	N	N	N	NA	NA	NA
+Odonata	Cordulia aenea	Epitheca bimaculata	Y	N	N	NA	NA	NA
+Odonata	Cordulia aenea	Somatochlora flavomaculata	Y	N	N	NA	NA	NA
+Odonata	Cordulia shurtleffii	Leucorrhinia glaciallis	N	N	N	NA	NA	NA
+Odonata	Crocothemis erythraea	Trithemis annulata	N	N	N	NA	NA	NA
+Odonata	Davidius moiwanus	Gomphus chichibui	Y	N	N	NA	NA	NA
+Odonata	Deielia phaon	Orthetrum albistylum	Y	N	N	NA	NA	NA
+Odonata	Diplacodes lefebvrii	Trithemis arteriosa	N	N	N	NA	NA	NA
+Odonata	Dorocordulia libera	Epitheca canis	N	N	N	NA	NA	NA
+Odonata	Dromogomphus spinosus	Stylurus plagiatus	N	N	N	NA	NA	NA
+Odonata	Dythemis multipunctata	Dythemis sterilis	Y	Y	Y	NA	NA	NA
+Odonata	Elattoneura glauca	Allocnemis leucosticta	N	N	N	NA	NA	NA
+Odonata	Enallagma anna	Enallagma carunculatum	Y	Y	Y	NA	NA	NA
+Odonata	Enallagma anna	Enallagma civile	Y	Y	Y	NA	NA	NA
+Odonata	Enallagma aspersum	Enallagma civile	N	N	N	NA	NA	NA
+Odonata	Enallagma aspersum	Enallagma geminatum	N	N	N	NA	NA	NA
+Odonata	Enallagma basidens	Argia apicalis	N	N	N	NA	NA	NA
+Odonata	Enallagma boreale	Enallagma carunculatum	N	N	N	NA	NA	NA
+Odonata	Enallagma boreale	Enallagma cyathigerum	N	N	N	NA	NA	NA
+Odonata	Enallagma carunculatum	Enallagma basidens	N	N	N	NA	NA	NA
+Odonata	Enallagma carunculatum	Enallagma civile	Y	Y	Y	NA	NA	NA
+Odonata	Enallagma carunculatum	Ischnura cervula	N	N	N	NA	NA	NA
+Odonata	Enallagma carunculatum	Ischnura perparva	N	N	N	NA	NA	NA
+Odonata	Enallagma civile	Argia moesta	Y	N	N	NA	NA	NA
+Odonata	Enallagma civile	Argia vivida	N	N	N	NA	NA	NA
+Odonata	Enallagma cyathigerum	Chalcolestes viridis	N	N	N	NA	NA	NA
+Odonata	Enallagma cyathigerum	Enallagma vernale	Y	Y	Y	NA	NA	NA
+Odonata	Enallagma cyathigerum	Ischnura denticolis	N	N	N	NA	NA	NA
+Odonata	Enallagma cyathigerum	Lestes dryas	N	N	N	NA	NA	NA
+Odonata	Enallagma cyathigerum	Telebasis salva	N	N	N	NA	NA	NA
+Odonata	Enallagma ebrium	Enallagma boreale	N	N	N	NA	NA	NA
+Odonata	Enallagma ebrium	Enallagma hageni	Y	Y	Y	NA	NA	NA
+Odonata	Enallagma hageni	Ischnura cervula	N	N	N	NA	NA	NA
+Odonata	Enallagma pollutum	Enallagma dubium	N	N	N	NA	NA	NA
+Odonata	Enallagma pollutum	Enallagma signatum	N	N	N	NA	NA	NA
+Odonata	Enallagma praevarum	Enallagma cyathigerum	N	N	N	NA	NA	NA
+Odonata	Epitheca cynosura	Epitheca spinosa	Y	Y	Y	NA	NA	NA
+Odonata	Epitheca spinigera	Epitheca cynosura	N	N	N	NA	NA	NA
+Odonata	Gomphurus externus	Gomphurus fraternus	Y	Y	Y	NA	NA	NA
+Odonata	Gomphus crassus	Gomphurus vastus	N	N	N	NA	NA	NA
+Odonata	Gomphus crassus	Ophiogomphus rupinsulensis	N	N	N	NA	NA	NA
+Odonata	Gomphus fraternus	Gomphus externus	Y	Y	Y	NA	NA	NA
+Odonata	Gomphus simillimus	Gomphus vulgatissimus	Y	N	N	NA	NA	NA
+Odonata	Hetaerina americana	Argia plana	N	N	N	NA	NA	NA
+Odonata	Hetaerina americana	Calopteryx maculata	Y	N	N	NA	NA	NA
+Odonata	Indolestes peregrinus	Cercion hieroglyhicum	N	N	N	NA	NA	NA
+Odonata	Ischnura aurora	Xanthocnemis zealandica	N	N	N	NA	NA	NA
+Odonata	Ischnura barberi	Ischnura ramburii	Y	N	N	NA	NA	NA
+Odonata	Ischnura capreolus	Ischnura cyane	N	N	N	NA	NA	NA
+Odonata	Ischnura demorsa	Ischnura damula	Y	Y	Y	NA	NA	NA
+Odonata	Ischnura denticollis	Ischnura gemina	Y	Y	Y	NA	NA	NA
+Odonata	Ischnura elegans	Calopteryx splendens	Y	N	N	NA	NA	NA
+Odonata	Ischnura elegans	Chalcolestes viridis	N	N	N	NA	NA	NA
+Odonata	Ischnura elegans	Coenagrion puella	Y	N	N	NA	NA	NA
+Odonata	Ischnura elegans	Coenagrion pulchellum	N	N	N	NA	NA	NA
+Odonata	Ischnura elegans	Enallagma cyathigerum	Y	N	N	NA	NA	NA
+Odonata	Ischnura elegans	Erythromma lindenii	N	N	N	NA	NA	NA
+Odonata	Ischnura elegans	Erythromma najas	N	N	N	NA	NA	NA
+Odonata	Ischnura elegans	Ischnura fountaineae	Y	Y	Y	NA	NA	NA
+Odonata	Ischnura elegans	Ischnura graellsii	Y	Y	Y	NA	NA	NA
+Odonata	Ischnura elegans	Ischnura saharensis	Y	Y	Y	NA	NA	NA
+Odonata	Ischnura elegans	Lestes sponsa	N	N	N	NA	NA	NA
+Odonata	Ischnura elegans	Pyrrhosoma nymphula	Y	N	N	NA	NA	NA
+Odonata	Ischnura elegans	Sympecma fusca	Y	N	N	NA	NA	NA
+Odonata	Ischnura erratica	Lestes disjunctus	N	N	N	NA	NA	NA
+Odonata	Ischnura genei	Ischnura elegans	Y	Y	Y	NA	NA	NA
+Odonata	Ischnura genei	Ischnura graellsii	Y	Y	Y	NA	NA	NA
+Odonata	Ischnura genei	Ischnura saharensis	Y	Y	Y	NA	NA	NA
+Odonata	Ischnura graellsii	Ischnura saharensis	Y	Y	Y	NA	NA	NA
+Odonata	Ischnura perparva	Enallagma anna	N	N	N	NA	NA	NA
+Odonata	Ischnura pumilio	Coenagrion puella	Y	N	N	NA	NA	NA
+Odonata	Ischnura pumilio	Enallagma cyathigerum	Y	N	N	NA	NA	NA
+Odonata	Ischnura pumilio	Ischnura elegans	N	N	N	NA	NA	NA
+Odonata	Ischnura pumilio	Ischnura graellsii	Y	N	N	NA	NA	NA
+Odonata	Lestes australis	Enallagma cyathigerum	N	N	N	NA	NA	NA
+Odonata	Lestes barbarus	Chalcolestes viridis	Y	Y	N	NA	NA	NA
+Odonata	Lestes barbarus	Lestes dryas	N	N	N	NA	NA	NA
+Odonata	Lestes barbarus	Lestes sponsa	N	N	N	NA	NA	NA
+Odonata	Lestes disjunctus	Chalcolestes viridis	N	N	N	NA	NA	NA
+Odonata	Lestes disjunctus	Enallagma cyathigerum	N	N	N	NA	NA	NA
+Odonata	Lestes disjunctus	Lestes vigilax	N	N	N	NA	NA	NA
+Odonata	Lestes dryas	Lestes sponsa	Y	N	N	NA	NA	NA
+Odonata	Lestes inaequalis	Lestes disjunctus	N	N	N	NA	NA	NA
+Odonata	Lestes rectangularis	Lestes congener	N	N	N	NA	NA	NA
+Odonata	Lestes rectangularis	Lestes unguiculatus	N	N	N	NA	NA	NA
+Odonata	Lestes sponsa	Ceriagrion tenellum	N	N	N	NA	NA	NA
+Odonata	Lestes sponsa	Chalcolestes viridis	Y	Y	N	NA	NA	NA
+Odonata	Lestes sponsa	Enallagma cyathigerum	N	N	N	NA	NA	NA
+Odonata	Lestes sponsa	Erythromma najas	N	N	N	NA	NA	NA
+Odonata	Lestes sponsa	Lestes temporalis	N	N	N	NA	NA	NA
+Odonata	Lestes sponsa	Lestes virens	N	N	N	NA	NA	NA
+Odonata	Lestes sponsa	Sympecma paedisca	N	N	N	NA	NA	NA
+Odonata	Lestes unguiculatus	Lestes dryas	N	N	N	NA	NA	NA
+Odonata	Lestes virens	Lestes barbarus	N	N	N	NA	NA	NA
+Odonata	Leucorrhinia dubia	Leucorrhinia rubicunda	N	N	N	NA	NA	NA
+Odonata	Leucorrhinia dubia	Sympetrum danae	N	N	N	NA	NA	NA
+Odonata	Leucorrhinia dubia	Sympetrum frequens	Y	N	N	NA	NA	NA
+Odonata	Leucorrhinia glacialis	Leucorrhinia intacta	Y	Y	Y	NA	NA	NA
+Odonata	Leucorrhinia hudsonica	Leucorrhinia proxima	Y	N	N	NA	NA	NA
+Odonata	Leucorrhinia proxima	Sympetrum pallipes	N	N	N	NA	NA	NA
+Odonata	Libellula angelina	Libellula quadrimaculata	Y	Y	Y	NA	NA	NA
+Odonata	Libellula auripennis	Libellula cyanea	N	N	N	NA	NA	NA
+Odonata	Libellula auripennis	Libellula semifasciata	N	N	N	NA	NA	NA
+Odonata	Libellula flavida	Libellula cyanea	Y	N	N	NA	NA	NA
+Odonata	Libellula fulva	Libellula quadrimaculata	Y	N	N	NA	NA	NA
+Odonata	Libellula luctuosa	Tramea carolina	N	N	N	NA	NA	NA
+Odonata	Libellula pulchella	Libellula luctuosa	Y	Y	Y	NA	NA	NA
+Odonata	Libellula semifasciata	Celithemis eponina	N	N	N	NA	NA	NA
+Odonata	Megalagrion eudytum	Megalagrion vagabundum	Y	Y	Y	NA	NA	NA
+Odonata	Megalagrion mauka	Megalagrion paludicola	Y	Y	Y	NA	NA	NA
+Odonata	Megalagrion nesiotes	Megalagrion oahuense	Y	Y	Y	NA	NA	NA
+Odonata	Megalagrion orobates	Megalagrion oresitrophum	Y	Y	Y	NA	NA	NA
+Odonata	Megalagrion xanthomelas	Megalagrion pacificum	Y	Y	Y	NA	NA	NA
+Odonata	Mnais costalis	Mnais pruinosa	Y	Y	Y	NA	NA	NA
+Odonata	Nehalennia gracilis	Nehalennia irene	N	N	N	NA	NA	NA
+Odonata	Onychogomphus forcipatus	Onychogomphus uncatus	N	N	N	NA	NA	NA
+Odonata	Ophiogomphus carolus	Phanogomphus lividus	N	N	N	NA	NA	NA
+Odonata	Ophiogomphus rupinsulensis	Ophiogomphus carolus	Y	Y	Y	NA	NA	NA
+Odonata	Ophiogomphus severus	Ophiogomphus occidentis	Y	N	N	NA	NA	NA
+Odonata	Orthetrum albistylum	Orthetrum poecilops	N	N	N	NA	NA	NA
+Odonata	Orthetrum albistylum	Orthetrum triangulare	N	N	N	NA	NA	NA
+Odonata	Orthetrum brunneum	Onychogomphus forcipatus	N	N	N	NA	NA	NA
+Odonata	Orthetrum cancellatum	Orthetrum albistylum	N	N	N	NA	NA	NA
+Odonata	Paracercion melanotum	Paracercion plagiosum	N	N	N	NA	NA	NA
+Odonata	Phanogomphus exilis	Phanogomphus spicatus	N	N	N	NA	NA	NA
+Odonata	Phanogomphus graslinellus	Gomphus lividus	Y	Y	Y	NA	NA	NA
+Odonata	Phanogomphus graslinellus	Phanogomphus lividus	Y	Y	Y	NA	NA	NA
+Odonata	Platycnemis pennipes	Coenagrion puella	N	N	N	NA	NA	NA
+Odonata	Platycnemis pennipes	Platycnemis acutipennis	Y	Y	N	NA	NA	NA
+Odonata	Pseudagrion rubriceps	Pseudagrion microcephalum	N	N	N	NA	NA	NA
+Odonata	Pyrrhosoma nymphula	Coenagrion lunulatum	N	N	N	NA	NA	NA
+Odonata	Pyrrhosoma nymphula	Coenagrion mercuriale	N	N	N	NA	NA	NA
+Odonata	Pyrrhosoma nymphula	Coenagrion puella	N	N	N	NA	NA	NA
+Odonata	Pyrrhosoma nymphula	Ischnura pumilio	N	N	N	NA	NA	NA
+Odonata	Pyrrhosoma nymphula	Lestes barbarus	N	N	N	NA	NA	NA
+Odonata	Pyrrhosoma nymphula	Sympecma fusca	N	N	N	NA	NA	NA
+Odonata	Somatochlora albicincta	Somatochlora hudsonica	N	N	N	NA	NA	NA
+Odonata	Somatochlora sahlbergi	Somatochlora albicinta	Y	Y	Y	NA	NA	NA
+Odonata	Somatochlora sahlbergi	Somatochlora hudsonica	Y	Y	Y	NA	NA	NA
+Odonata	Stylurus plagiatus	Dromogomphus armatus	N	N	N	NA	NA	NA
+Odonata	Sympecma fusca	Sympecma paedisca	N	N	N	NA	NA	NA
+Odonata	Sympetrum croceolum	Sympetrum uniforme	Y	Y	Y	NA	NA	NA
+Odonata	Sympetrum danae	Sympetrum sanguineum	N	N	N	NA	NA	NA
+Odonata	Sympetrum darwinianum	Sympetrum maculatum	Y	Y	Y	NA	NA	NA
+Odonata	Sympetrum depressiusculum	Crocothemis erythraea	N	N	N	NA	NA	NA
+Odonata	Sympetrum depressiusculum	Libellula fulva	N	N	N	NA	NA	NA
+Odonata	Sympetrum depressiusculum	Onychogomphus uncatus	N	N	N	NA	NA	NA
+Odonata	Sympetrum depressiusculum	Orthetrum albistylum	N	N	N	NA	NA	NA
+Odonata	Sympetrum depressiusculum	Orthetrum cancellatum	N	N	N	NA	NA	NA
+Odonata	Sympetrum depressiusculum	Oxygastra curtisii	N	N	N	NA	NA	NA
+Odonata	Sympetrum depressiusculum	Sympetrum fonscolombii	N	N	N	NA	NA	NA
+Odonata	Sympetrum depressiusculum	Sympetrum frequens	Y	Y	Y	NA	NA	NA
+Odonata	Sympetrum eroticum	Sympetrum baccha	Y	Y	Y	NA	NA	NA
+Odonata	Sympetrum eroticum	Sympetrum darwinianum	N	N	N	NA	NA	NA
+Odonata	Sympetrum eroticum	Sympetrum parvulum	Y	Y	Y	NA	NA	NA
+Odonata	Sympetrum eroticum	Sympetrum pedemontanum	Y	Y	Y	NA	NA	NA
+Odonata	Sympetrum frequens	Pantala flavescens	N	N	N	NA	NA	NA
+Odonata	Sympetrum frequens	Sympetrum infuscatum	Y	N	N	NA	NA	NA
+Odonata	Sympetrum infuscatum	Sympetrum maculatum	Y	N	N	NA	NA	NA
+Odonata	Sympetrum internum	Sympetrum rubicundulum	Y	N	N	NA	NA	NA
+Odonata	Sympetrum kunckeli	Sympetrum darwinianum	Y	N	N	NA	NA	NA
+Odonata	Sympetrum kunckeli	Sympetrum eroticum	Y	Y	Y	NA	NA	NA
+Odonata	Sympetrum meridionale	Sympetrum striolatum	N	N	N	NA	NA	NA
+Odonata	Sympetrum obtrusum	Sympetrum danae	N	N	N	NA	NA	NA
+Odonata	Sympetrum risi	Sympetrum eroticum	N	N	N	NA	NA	NA
+Odonata	Sympetrum risi	Sympetrum infuscatum	Y	N	N	NA	NA	NA
+Odonata	Sympetrum rubicundulum	Sympetrum obtrusum	N	N	N	NA	NA	NA
+Odonata	Sympetrum sanguineum	Crocothemis erythraea	N	N	N	NA	NA	NA
+Odonata	Sympetrum sanguineum	Sympetrum flaveolum	N	N	N	NA	NA	NA
+Odonata	Sympetrum sanguineum	Sympetrum meridionale	N	N	N	NA	NA	NA
+Odonata	Sympetrum sanguineum	Sympetrum striolatum	Y	N	N	NA	NA	NA
+Odonata	Sympetrum sanguineum	Sympetrum vulgatum	N	N	N	NA	NA	NA
+Odonata	Sympetrum vulgatum	Sympetrum danae	Y	Y	N	NA	NA	NA
+Odonata	Sympetrum vulgatum	Sympetrum striolatum	Y	Y	N	NA	NA	NA
+Odonata	Trigomphus interruptus	Trigomphus ogumai	N	N	N	NA	NA	NA
+Orthoptera	Allonemobius fasciatus	Allonemobius socius	Y	Y	Y	Y	Y	GREGORY, PG; HOWARD, DJ, 1993
+Orthoptera	Chorthippus albomarginatus	Chorthippus karelini	Y	Y	Y	Y	?	Vedenina, VY, 2015
+Orthoptera	Chorthippus albomarginatus	Chorthippus oschei	Y	Y	Y	Y	Y	Vedenina, VY; Kulygina, NK; Panyutin, AK, 2007
+Orthoptera	Chorthippus biguttulus	Chorthippus brunneus	Y	Y	Y	Y	N	Gottsberger, B; Mayer, F, 2019
+Orthoptera	Chorthippus biguttulus	Chorthippus mollis	Y	Y	Y	Y	N	Finck, J; Ronacher, B, 2017
+Orthoptera	Chorthippus brunneus	Chorthippus jacobsi	Y	Y	Y	Y	Y	Saldamando, CI; Tatsuta, H; Butlin, RK, 2005
+Orthoptera	Chorthippus oschei	Chorthippus karelini	Y	Y	Y	Y	?	Vedenina, VY, 2015
+Orthoptera	Chorthippus parallelus	Chorthippus montanus	Y	Y	Y	Y	Y	Rohde, K; Hau, Y; Weyer, J; Hochkirch, A, 2015
+Orthoptera	Cyphoderris buckelli	Cyphoderris monstrosa	Y	N	N	N	N	Dupuis, JR; Judge, KA; Brunet, BMT; Chan, SO; Sperling, FAH, 2020
+Orthoptera	Dociostaurus curvicercus	Dociostaurus jagoi	N	Y	N	N	N	BLONDHEIM, SA, 1990
+Orthoptera	Gryllus bimaculatus	Gryllus campestris	Y	Y	Y	?	?	Veen, T; Faulks, J; Tyler, F; Lloyd, J; Tregenza, T, 2013
+Orthoptera	Gryllus firmus	Gryllus pennsylvanicus	Y	Y	Y	?	?	Maroja, LS; Andres, JA; Walters, JR; Harrison, RG, 2009
+Orthoptera	Gryllus lineaticeps	Gryllus personatus	Y	Y	Y	Y	Y	Gray, DA; Gutierrez, NJ; Chen, TL; Gonzalez, C; Weissman, DB; Cole, JA, 2016
+Orthoptera	Gryllus staccato	Gryllus lineaticeps	Y	Y	Y	Y	Y	Gray, DA; Gutierrez, NJ; Chen, TL; Gonzalez, C; Weissman, DB; Cole, JA, 2016
+Orthoptera	Gryllus staccato	Gryllus personatus	Y	Y	Y	Y	Y	Gray, DA; Gutierrez, NJ; Chen, TL; Gonzalez, C; Weissman, DB; Cole, JA, 2016
+Orthoptera	Melanoplus sanguinipes	Melanoplus devastator	Y	Y	Y	?	?	Orr, MR, 1996
+Orthoptera	Orchelimum nigripes	Orchelimum pulchellum	Y	Y	Y	?	?	Shapiro, LH, 2000
+Orthoptera	Podisma tyatiensis	Podisma sapporensis	Y	Y	N	N	N	Bugrov, AG; Warchalowska-Sliwa, E; Akimoto, S, 2005
+Orthoptera	Stenobothrus rubicundulus	Stenobothrus clavatus	Y	Y	Y	Y	Y	Sradnick, J; Klopfel, A; Elsner, N; Vedenina, V, 2016
+Orthoptera	Tetrix ceperoi	Tetrix subulata	Y	?	?	?	?	Hochkirch, A; Deppermann, J; Groning, J, 2006
+Orthoptera	Tetrix undulata	Tetrix subulata	Y	?	?	?	?	Hochkirch, A; Bucker, A; Groning, J 2008
