@@ -254,8 +254,8 @@ COIs <- COIs[COIs$Distance < 0.30,]
 # Plotting again
 png("../figures/05_Violins.png", width = 2400, height = 1600)
 ggplot(COIs) +
-  geom_violin(aes(y=Distance, x=Order, fill=Order), alpha=0.5, scale = "width", draw_quantiles = 0.50) +
-  geom_point(aes(y=Distance, x=Order), alpha=0.5, size=6) +
+  geom_violin(aes(y=Distance, x=Order, fill=Order), scale = "width", draw_quantiles = 0.50, size=2) +
+  geom_point(aes(y=Distance, x=Order), alpha=0.8, size=6) +
   theme_classic() +
   scale_fill_manual(values = colors) +
   labs(y = "Genetic Distance") +

@@ -1,1 +1,205 @@
-Sp1	Sp2
+Order	Suborder	Family	Sp1	Sp2	Distance
+Diptera	Brachycera	Agromyzidae	Liriomyza trifolii	Liriomyza sativae	0.0772251308900524
+Diptera	Brachycera	Calliphoridae	Chrysomya saffranea	Chrysomya megacephala	0.00651890482398957
+Diptera	Brachycera	Calliphoridae	Lucilia sericata	Lucilia cuprina	0.0493273542600897
+Diptera	Nematocera	Chironomidae	Chironomus plumosus	Average	0.0849475143592791
+Diptera	Nematocera	Chironomidae	Chironomus riparius	Chironomus piger	0.146017699115044
+Diptera	Nematocera	Chironomidae	Chironomus tentans	Chironomus pallidivittatus	0.0104633781763827
+Diptera	Nematocera	Chironomidae	Glyptotendipes pallens	Glyptotendipes glaucus	0.0299065420560748
+Diptera	Nematocera	Culicidae	Aedes zoosophus	Average	0.0126785193821043
+Diptera	Nematocera	Culicidae	Anopheles arabiensis	Average	0.0225849931264791
+Diptera	Nematocera	Culicidae	Anopheles beklemishevi	Anopheles atroparvus	0.0466257668711656
+Diptera	Nematocera	Culicidae	Anopheles coluzzii	Average	0.0313924891902169
+Diptera	Nematocera	Culicidae	Anopheles deaneorum	Anopheles albitarsis	0.0300653594771242
+Diptera	Nematocera	Culicidae	Anopheles gambiae	Average	0.0137402584726301
+Diptera	Nematocera	Culicidae	Anopheles minimus	Anopheles aconitus	0.0725115359261701
+Diptera	Nematocera	Culicidae	Anopheles sinensis	Anopheles kleini	0.0212164073550212
+Diptera	Nematocera	Culicidae	Culex quinquefasciatus	Culex pipiens	0.00260416666666667
+Diptera	Nematocera	Culicidae	Ochlerotatus triseriatus	Ochlerotatus hendersoni	0.0334855403348554
+Diptera	Brachycera	Drosophilidae	Drosophila antonietae	Average	0.0455490656897306
+Diptera	Brachycera	Drosophilidae	Drosophila bipectinata	Average	0.0109289617486339
+Diptera	Brachycera	Drosophilidae	Drosophila koepferae	Drosophila buzzatii	0
+Diptera	Brachycera	Drosophilidae	Drosophila malerkotliana	Average	0.0144927536231884
+Diptera	Brachycera	Drosophilidae	Drosophila montana	Average	0.0499288860758573
+Diptera	Brachycera	Drosophilidae	Drosophila parapallidosa	Drosophila ananassae	0.181240063593005
+Diptera	Brachycera	Drosophilidae	Drosophila pseudoananassae	Drosophila parabipectinata	0.0311804008908686
+Diptera	Brachycera	Drosophilidae	Drosophila silvestris	Drosophila heteroneura	0.00621546961325967
+Diptera	Brachycera	Drosophilidae	Drosophila simulans	Drosophila melanogaster	0.0598958333333333
+Diptera	Brachycera	Drosophilidae	Drosophila takahashii	Drosophila lutescens	0.0234321157822192
+Diptera	Brachycera	Drosophilidae	Drosophila testacea	Drosophila orientacea	0.0428994082840237
+Diptera	Brachycera	Drosophilidae	Zaprionus tuberculatus	Zaprionus burlai	0.00427350427350427
+Diptera	Brachycera	Glossinidae	Glossina swynnertoni	Glossina morsitans	0.0673886883273165
+Diptera	Nematocera	Psychodidae	Lutzomyia longipalpis	Lutzomyia cruzi	0.0349544072948328
+Diptera	Nematocera	Psychodidae	Lutzomyia pseudolongipalpis	Lutzomyia longipalpis	0.0933786078098472
+Diptera	Nematocera	Psychodidae	Phlebotomus perniciosus	Phlebotomus longicuspis	0.054014598540146
+Diptera	Brachycera	Sepsidae	Sepsis neocynipsea	Sepsis cynipsea	0.00574712643678161
+Diptera	Nematocera	Simuliidae	Simulium saxosum	Simulium arcticum	0.00610687022900763
+Diptera	Brachycera	Tephritidae	Anastrepha fraterculus	Average	0.0111694028430359
+Diptera	Brachycera	Tephritidae	Anastrepha sororcula	Anastrepha obliqua	0.0189473684210526
+Diptera	Brachycera	Tephritidae	Bactrocera dorsalis	Bactrocera carambolae	0.0290322580645161
+Diptera	Brachycera	Tephritidae	Bactrocera invadens	Bactrocera dorsalis	0.0274689339437541
+Diptera	Brachycera	Tephritidae	Bactrocera philippinensis	Bactrocera occipitalis	0.0215404699738903
+Diptera	Brachycera	Tephritidae	Bactrocera tryoni	Average	0.0561681127276017
+Diptera	Brachycera	Tephritidae	Ceratitis rosa	Ceratitis fasciventris	0.0124858115777526
+Diptera	Brachycera	Tephritidae	Rhagoletis cingulata	Rhagoletis cerasi	0.102040816326531
+Diptera	Brachycera	Tephritidae	Rhagoletis zephyria	Average	0.00366568914956012
+Diptera	Brachycera	Tephritidae	Rhagoletis zoqui	Rhagoletis ramosae	0
+Hymenoptera	"Other"	Aphelinidae	Encarsia suzannae	Encarsia gennaroi	0.0369881109643329
+Hymenoptera	"Other"	Apidae	Apis mellifera	Apis cerana	0.10864040660737
+Hymenoptera	"Other"	Apidae	Tetragonula hockingsi	Tetragonula carbonaria	0.196374622356495
+Hymenoptera	"Other"	Braconidae	Aphidius microlophii	Aphidius ervi	0.00589101620029455
+Hymenoptera	"Other"	Braconidae	Cotesia chilonis	Average	0.0301282051282051
+Hymenoptera	"Ant"	Formicidae	Camponotus ligniperda	Camponotus herculeanus	0.0745614035087719
+Hymenoptera	"Ant"	Formicidae	Formica lugubris	Average	0.0187744135112556
+Hymenoptera	"Ant"	Formicidae	Formica rufa	Formica polyctena	0.0303951367781155
+Hymenoptera	"Ant"	Formicidae	Lasius latipes	Lasius claviger	0.062874251497006
+Hymenoptera	"Ant"	Formicidae	Lasius platythorax	Lasius emarginatus	0.023696682464455
+Hymenoptera	"Ant"	Formicidae	Lasius umbratus	Average	0.0502947182771744
+Hymenoptera	"Ant"	Formicidae	Pogonomyrmex rugosus	Pogonomyrmex barbatus	0.0342205323193916
+Hymenoptera	"Ant"	Formicidae	Solenopsis richteri	Solenopsis invicta	0.0490837696335079
+Hymenoptera	"Ant"	Formicidae	Solenopsis xyloni	Solenopsis geminata	0.122599704579025
+Hymenoptera	"Ant"	Formicidae	Temnothorax crassispinus	Temnothorax crasecundus	0.00920245398773006
+Hymenoptera	"Ant"	Formicidae	Temnothorax nigriceps	Average	0.0948322580645161
+Hymenoptera	"Ant"	Formicidae	Temnothorax nylanderi	Temnothorax crassispinus	0.0276073619631902
+Hymenoptera	"Ant"	Formicidae	Tetramorium immigrans	Tetramorium caespitum	0.0556318681318681
+Hymenoptera	"Other"	Pteromalidae	Nasonia giraulti	Average	0.0846706028074015
+Hymenoptera	"Other"	Pteromalidae	Nasonia vitripennis	Nasonia longicornis	0.0957960027567195
+Hymenoptera	"Other"	Torymidae	Torymus sinensis	Torymus beneficus	0.0443349753694581
+Lepidoptera	"Moth"	Crambidae	Ostrinia furnacalis	Average	0.0190614349348467
+Lepidoptera	"Moth"	Crambidae	Ostrinia zealis	Ostrinia zaguliaevi	0.0137404580152672
+Lepidoptera	"Moth"	Crambidae	Udea uliginosalis	Udea alpinalis	0.021602787456446
+Lepidoptera	"Moth"	Drepanidae	Drepana falcataria	Drepana curvatula	0.0454545454545455
+Lepidoptera	"Moth"	Erebidae	Orgyia thyellina	Orgyia antiqua	0.0940298507462687
+Lepidoptera	"Moth"	Geometridae	Epirrita autumnata	Average	0.0430650235299075
+Lepidoptera	"Moth"	Geometridae	Epirrita filigrammaria	Epirrita dilutata	0.0715372907153729
+Lepidoptera	"Moth"	Geometridae	Lycia isabellae	Average	0.0534494090049646
+Lepidoptera	"Moth"	Geometridae	Lycia lapponaria	Average	0.0289677653463338
+Lepidoptera	"Moth"	Geometridae	Lycia zonaria	Lycia pomonaria	0.0426179604261796
+Lepidoptera	"Moth"	Geometridae	Operophtera brumata	Operophtera bruceata	0.075707702435813
+Lepidoptera	"Moth"	Geometridae	Selenia tetralunaria	Selenia bilunaria	0.0911854103343465
+Lepidoptera	"Moth"	Geometridae	Thera variata	Thera obeliscata	0.0287610619469027
+Lepidoptera	"Moth"	Geometridae	Timandra griseata	Timandra comae	0.0144478844169247
+Lepidoptera	"Butterfly"	Hesperiidae	Pelopidas mathias	Pelopidas agna	0.0434782608695652
+Lepidoptera	"Butterfly"	Hesperiidae	Pyrgus malvoides	Pyrgus malvae	0.00911854103343465
+Lepidoptera	"Moth"	Lasiocampidae	Malacosoma neustria	Average	0.0463525835866261
+Lepidoptera	"Moth"	Lasiocampidae	Phyllodesma tremulifolia	Phyllodesma ilicifolia	0
+Lepidoptera	"Butterfly"	Lycaenidae	Aricia artaxerxes	Aricia agestis	0.0220162224797219
+Lepidoptera	"Butterfly"	Lycaenidae	Callophrys rubi	Ahlbergia frivaldszkyi	0.00606980273141123
+Lepidoptera	"Butterfly"	Lycaenidae	Plebejus melissa	Plebejus idas	0.0170818505338078
+Lepidoptera	"Butterfly"	Lycaenidae	Pseudophilotes vicrama	Pseudophilotes baton	0.00766550522648084
+Lepidoptera	"Butterfly"	Lycaenidae	Zizina otis	Zizina emelina	0.0137404580152672
+Lepidoptera	"Butterfly"	Lycaenidae	Zizina oxleyi	Zizina labradus	0.0205047318611987
+Lepidoptera	"Moth"	Noctuidae	Agrotis segetum	Agrotis ipsilon	0.0459016393442623
+Lepidoptera	"Moth"	Noctuidae	Chloridea virescens	Chloridea subflexa	0.0537482319660538
+Lepidoptera	"Moth"	Noctuidae	Euxoa rockburnei	Euxoa declarata	0.0151975683890578
+Lepidoptera	"Moth"	Noctuidae	Helicoverpa armigera	Average	0.0433916616219272
+Lepidoptera	"Moth"	Noctuidae	Hydraecia micacea	Hydraecia immanis	0.0592705167173252
+Lepidoptera	"Moth"	Noctuidae	Spodoptera latifascia	Spodoptera descoinsi	0.035035035035035
+Lepidoptera	"Moth"	Noctuidae	Spodoptera litura	Spodoptera littoralis	0.0335241210139002
+Lepidoptera	"Moth"	Notodontidae	Cerura vinula	Cerura erminea	0.074468085106383
+Lepidoptera	"Moth"	Notodontidae	Clostera anachoreta	Average	0.0653495440729483
+Lepidoptera	"Moth"	Notodontidae	Clostera pigra	Average	0.0653495440729483
+Lepidoptera	"Moth"	Notodontidae	Thaumetopoea wilkinsoni	Thaumetopoea pityocampa	0.0824742268041237
+Lepidoptera	"Butterfly"	Nymphalidae	Anartia fatima	Anartia amathea	0.026602176541717
+Lepidoptera	"Butterfly"	Nymphalidae	Coenonympha gardetta	Coenonympha arcania	0.00994318181818182
+Lepidoptera	"Butterfly"	Nymphalidae	Danaus plexippus	Danaus erippus	0.0353982300884956
+Lepidoptera	"Butterfly"	Nymphalidae	Erebia calcarius	Average	0.000759878419452888
+Lepidoptera	"Butterfly"	Nymphalidae	Erebia cassioides	Average	0.00376970527758739
+Lepidoptera	"Butterfly"	Nymphalidae	Erebia pronoe	Erebia epiphron	0.05453306066803
+Lepidoptera	"Butterfly"	Nymphalidae	Heliconius cydno	Average	0.0253254537649142
+Lepidoptera	"Butterfly"	Nymphalidae	Heliconius heurippa	Average	0.0163390021149017
+Lepidoptera	"Butterfly"	Nymphalidae	Heliconius himera	Heliconius erato	0.0401633764465623
+Lepidoptera	"Butterfly"	Nymphalidae	Heliconius melpomene	Average	0.0242628062897106
+Lepidoptera	"Butterfly"	Nymphalidae	Heliconius peruvianus	Heliconius charithonia	0.0709413369713506
+Lepidoptera	"Butterfly"	Nymphalidae	Junonia zonalis	Junonia coenia	0.0349544072948328
+Lepidoptera	"Butterfly"	Nymphalidae	Limenitis archippus	Average	0.0324103488426869
+Lepidoptera	"Butterfly"	Nymphalidae	Maniola nurag	Average	0.0147275405007364
+Lepidoptera	"Butterfly"	Nymphalidae	Melitaea acentria	Melitaea acentria	0
+Lepidoptera	"Butterfly"	Nymphalidae	Melitaea phoebe	Melitaea ornata	0.0226337448559671
+Lepidoptera	"Butterfly"	Nymphalidae	Phyciodes tharos	Average	0.016414058119207
+Lepidoptera	"Butterfly"	Papilionidae	Iphiclides podalirius	Iphiclides feisthamelii	0.00140252454417952
+Lepidoptera	"Butterfly"	Papilionidae	Papilio aegeus	Average	0.0722092697012809
+Lepidoptera	"Butterfly"	Papilionidae	Papilio bianor	Average	0.0476831022017052
+Lepidoptera	"Butterfly"	Papilionidae	Papilio brevicauda	Average	0.0281324033365288
+Lepidoptera	"Butterfly"	Papilionidae	Papilio constantinus	Average	0.0684317930271168
+Lepidoptera	"Butterfly"	Papilionidae	Papilio demoleus	Average	0.0697197656198227
+Lepidoptera	"Butterfly"	Papilionidae	Papilio eurymedon	Average	0.0238095238095238
+Lepidoptera	"Butterfly"	Papilionidae	Papilio fuscus	Average	0.0729483282674772
+Lepidoptera	"Butterfly"	Papilionidae	Papilio glaucus	Average	0.0229622075761349
+Lepidoptera	"Butterfly"	Papilionidae	Papilio helenus	Average	0.0750391236798676
+Lepidoptera	"Butterfly"	Papilionidae	Papilio maackii	Average	0.0659583211035293
+Lepidoptera	"Butterfly"	Papilionidae	Papilio machaon	Average	0.0517321096952445
+Lepidoptera	"Butterfly"	Papilionidae	Papilio macilentus	Average	0.0730250566724888
+Lepidoptera	"Butterfly"	Papilionidae	Papilio memnon	Average	0.0535199654770834
+Lepidoptera	"Butterfly"	Papilionidae	Papilio phorcas	Papilio dardanus	0.0766550522648084
+Lepidoptera	"Butterfly"	Papilionidae	Papilio polytes	Average	0.0516433295289469
+Lepidoptera	"Butterfly"	Papilionidae	Papilio polyxenes	Average	0.0453457554014834
+Lepidoptera	"Butterfly"	Papilionidae	Papilio rumanzovia	Papilio polymnestor	0.0415430267062315
+Lepidoptera	"Butterfly"	Papilionidae	Papilio rutulus	Papilio multicaudatus	0.0305188199389624
+Lepidoptera	"Butterfly"	Papilionidae	Papilio scamander	Papilio palamedes	0.0690423162583519
+Lepidoptera	"Butterfly"	Papilionidae	Papilio xuthus	Average	0.0863432545806344
+Lepidoptera	"Butterfly"	Papilionidae	Parnassius nomion	Parnassius bremeri	0.0449438202247191
+Lepidoptera	"Butterfly"	Papilionidae	Parnassius phoebus	Parnassius apollo	0.0211920529801325
+Lepidoptera	"Butterfly"	Pieridae	Anthocharis cardamines	Average	0.0724417426545086
+Lepidoptera	"Butterfly"	Pieridae	Colias crocea	Average	0.0273567796884614
+Lepidoptera	"Butterfly"	Pieridae	Colias eurytheme	Average	0.017993821640953
+Lepidoptera	"Butterfly"	Pieridae	Colias hyale	Colias alfacariensis	0.0210526315789474
+Lepidoptera	"Butterfly"	Pieridae	Colias philodice	Colias interior	0.00578034682080925
+Lepidoptera	"Butterfly"	Pieridae	Enantia albania	Average	0.0478723404255319
+Lepidoptera	"Butterfly"	Pieridae	Leptidea sinapis	Leptidea reali	0.0115440115440115
+Lepidoptera	"Butterfly"	Pieridae	Pieris mannii	Average	0.0569908814589666
+Lepidoptera	"Butterfly"	Pieridae	Pieris marginalis	Average	0.0152102908587898
+Lepidoptera	"Butterfly"	Pieridae	Pieris napi	Average	0.0277800211251962
+Lepidoptera	"Butterfly"	Pieridae	Pontia daplidice	Average	0.0907771463432698
+Lepidoptera	"Moth"	Saturniidae	Antheraea pernyi	Average	0.0404173475570571
+Lepidoptera	"Moth"	Saturniidae	Callosamia angulifera	Average	0.0552178318135765
+Lepidoptera	"Moth"	Saturniidae	Callosamia securifera	Callosamia promethea	0.0486322188449848
+Lepidoptera	"Moth"	Saturniidae	Citheronia splendens	Citheronia regalis	0.060790273556231
+Lepidoptera	"Moth"	Saturniidae	Hyalophora cecropia	Average	0.0126584905747402
+Lepidoptera	"Moth"	Saturniidae	Hyalophora euryalus	Hyalophora columbia	0.0166919575113809
+Lepidoptera	"Moth"	Saturniidae	Hyalophora gloveri	Hyalophora euryalus	0.0167173252279635
+Lepidoptera	"Moth"	Saturniidae	Saturnia pyri	Saturnia pavonia	0.0714285714285714
+Lepidoptera	"Moth"	Saturniidae	Saturnia walterorum	Saturnia mendocino	0
+Lepidoptera	"Moth"	Sphingidae	Deilephila elpenor	Average	0.0661243740955678
+Lepidoptera	"Moth"	Sphingidae	Deilephila porcellus	Average	0.0709916498329551
+Lepidoptera	"Moth"	Sphingidae	Hyles euphorbiae	Average	0.0245540695239665
+Lepidoptera	"Moth"	Sphingidae	Hyles gallii	Average	0.0315066609906137
+Lepidoptera	"Moth"	Sphingidae	Hyles hippophaes	Average	0.0340545021320276
+Lepidoptera	"Moth"	Sphingidae	Philodila astyanor	Gnathothlibus eras	0.0531914893617021
+Lepidoptera	"Moth"	Sphingidae	Smerinthus ocellata	Average	0.0970562518216263
+Lepidoptera	"Moth"	Tortricidae	Choristoneura biennis	Average	0.0202781199739931
+Lepidoptera	"Moth"	Tortricidae	Choristoneura fumiferana	Average	0.0232139375083046
+Lepidoptera	"Moth"	Tortricidae	Choristoneura occidentalis	Average	0.009528463493927
+Lepidoptera	"Moth"	Tortricidae	Choristoneura retiniana	Choristoneura pinus	0.0158311345646438
+Lepidoptera	"Moth"	Yponomeutidae	Yponomeuta cagnagella	Average	0.00716614208633093
+Lepidoptera	"Moth"	Yponomeutidae	Yponomeuta padella	Yponomeuta malinellus	0.010022271714922
+Lepidoptera	"Moth"	Zygaenidae	Adscita italica	Adscita alpina	0.0060790273556231
+Odonata	Zygoptera	Coenagrionidae	Coenagrion puella	Average	0.146163980049
+Odonata	Zygoptera	Coenagrionidae	Enallagma carunculatum	Average	0.198470991953479
+Odonata	Zygoptera	Coenagrionidae	Enallagma cyathigerum	Average	0.13382679320076
+Odonata	Zygoptera	Coenagrionidae	Ischnura cervula	Enallagma hageni	0.122291021671827
+Odonata	Zygoptera	Coenagrionidae	Ischnura demorsa	Ischnura damula	0.00415800415800416
+Odonata	Zygoptera	Coenagrionidae	Ischnura elegans	Average	0.155010220099573
+Odonata	Zygoptera	Coenagrionidae	Ischnura gemina	Ischnura denticollis	0.0388768898488121
+Odonata	Zygoptera	Coenagrionidae	Ischnura graellsii	Average	0.0372903152552748
+Odonata	Zygoptera	Coenagrionidae	Ischnura perparva	Enallagma anna	0.143790849673203
+Odonata	Zygoptera	Coenagrionidae	Ischnura pumilio	Average	0.173177083333333
+Odonata	Zygoptera	Coenagrionidae	Ischnura ramburii	Ischnura barberi	0.122916666666667
+Odonata	Zygoptera	Coenagrionidae	Lestes disjunctus	Ischnura erratica	0.188925081433225
+Orthoptera	Caelifera	Acrididae	Chorthippus albomarginatus	Average	0.0121739130434783
+Orthoptera	Caelifera	Acrididae	Chorthippus biguttulus	Average	0.00227963525835866
+Orthoptera	Caelifera	Acrididae	Chorthippus jacobsi	Chorthippus brunneus	0.00871080139372822
+Orthoptera	Caelifera	Acrididae	Chorthippus oschei	Chorthippus karelini	0.00695652173913044
+Orthoptera	Caelifera	Acrididae	Chorthippus parallelus	Chorthippus montanus	0.0440729483282675
+Orthoptera	Caelifera	Acrididae	Phaulacridium otagoense	Phaulacridium marginale	0.0288713910761155
+Orthoptera	Caelifera	Acrididae	Trimerotropis maritima	Trimerotropis agrestis	0.00455927051671732
+Orthoptera	Ensifera	Anostostomatidae	Hemideina thoracica	Hemideina crassidens	0.181596091205212
+Orthoptera	Ensifera	Anostostomatidae	Hemideina trewicki	Hemideina thoracica	0.18452380952381
+Orthoptera	Ensifera	Gryllidae	Gryllus campestris	Gryllus bimaculatus	0.033434650455927
+Orthoptera	Ensifera	Gryllidae	Gryllus pennsylvanicus	Gryllus firmus	0.0106544901065449
+Orthoptera	Ensifera	Gryllidae	Gryllus texensis	Gryllus rubens	0.487520798668885
+Orthoptera	Ensifera	Gryllidae	Teleogryllus oceanicus	Teleogryllus commodus	0.0563380281690141
+Orthoptera	Ensifera	Prophalangopsidae	Cyphoderris monstrosa	Cyphoderris buckelli	0.0721804511278196
+Orthoptera	Ensifera	Tettigoniidae	Hexacentrus unicolor	Hexacentrus japonicus	0.108865710560626
+Orthoptera	Ensifera	Tettigoniidae	Saga hellenica	Saga campbelli	0.110260336906585
+Orthoptera	Ensifera	Tettigoniidae	Saga rammei	Saga pedo	0.13030303030303
