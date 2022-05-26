@@ -12,12 +12,18 @@ Kruskal-Wallis chi-squared = 17.166, df = 5, p-value = 0.004195
 
 data:  tmp[tmp$Order == i, "Gen"] and tmp[tmp$Order == i, "Barrier"] 
 
-                   Assortative Mating Oviposition Hybrid Inviability Hybrid Sterility Haldane's Rule
-Oviposition        0.03636            -           -                  -                -             
-Hybrid Inviability 0.21818            0.33333     -                  -                -             
-Hybrid Sterility   0.86364            0.20000     0.80000            -                -             
-Haldane's Rule     0.00017            0.22222     0.05556            0.01667          -             
-Fertile F1 Hybrids 0.02290            0.50000     0.22222            0.11667          1.00000       
+                   Assortative Mating Oviposition Hybrid Inviability
+Oviposition        0.03636            -           -                 
+Hybrid Inviability 0.21818            0.33333     -                 
+Hybrid Sterility   0.86364            0.20000     0.80000           
+Haldane's Rule     0.00017            0.22222     0.05556           
+Fertile F1 Hybrids 0.02290            0.50000     0.22222           
+                   Hybrid Sterility Haldane's Rule
+Oviposition        -                -             
+Hybrid Inviability -                -             
+Hybrid Sterility   -                -             
+Haldane's Rule     0.01667          -             
+Fertile F1 Hybrids 0.11667          1.00000       
 
 P value adjustment method: none 
 [1] "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
@@ -26,12 +32,18 @@ P value adjustment method: none
 
 data:  tmp[tmp$Order == i, "Gen"] and tmp[tmp$Order == i, "Barrier"] 
 
-                   Assortative Mating Oviposition Hybrid Inviability Hybrid Sterility Haldane's Rule
-Oviposition        0.5455             -           -                  -                -             
-Hybrid Inviability 1.0000             1.0000      -                  -                -             
-Hybrid Sterility   1.0000             1.0000      1.0000             -                -             
-Haldane's Rule     0.0026             1.0000      0.8333             0.2500           -             
-Fertile F1 Hybrids 0.3435             1.0000      1.0000             1.0000           1.0000        
+                   Assortative Mating Oviposition Hybrid Inviability
+Oviposition        0.5455             -           -                 
+Hybrid Inviability 1.0000             1.0000      -                 
+Hybrid Sterility   1.0000             1.0000      1.0000            
+Haldane's Rule     0.0026             1.0000      0.8333            
+Fertile F1 Hybrids 0.3435             1.0000      1.0000            
+                   Hybrid Sterility Haldane's Rule
+Oviposition        -                -             
+Hybrid Inviability -                -             
+Hybrid Sterility   -                -             
+Haldane's Rule     0.2500           -             
+Fertile F1 Hybrids 1.0000           1.0000        
 
 P value adjustment method: bonferroni 
 [1] "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
@@ -40,12 +52,18 @@ P value adjustment method: bonferroni
 
 data:  tmp[tmp$Order == i, "Gen"] and tmp[tmp$Order == i, "Barrier"] 
 
-                   Assortative Mating Oviposition Hybrid Inviability Hybrid Sterility Haldane's Rule
-Oviposition        0.4525             -           -                  -                -             
-Hybrid Inviability 1.0000             1.0000      -                  -                -             
-Hybrid Sterility   1.0000             1.0000      1.0000             -                -             
-Haldane's Rule     0.0087             1.0000      0.5530             0.3800           -             
-Fertile F1 Hybrids 0.3800             1.0000      1.0000             0.9678           1.0000        
+                   Assortative Mating Oviposition Hybrid Inviability
+Oviposition        0.4525             -           -                 
+Hybrid Inviability 1.0000             1.0000      -                 
+Hybrid Sterility   1.0000             1.0000      1.0000            
+Haldane's Rule     0.0087             1.0000      0.5530            
+Fertile F1 Hybrids 0.3800             1.0000      1.0000            
+                   Hybrid Sterility Haldane's Rule
+Oviposition        -                -             
+Hybrid Inviability -                -             
+Hybrid Sterility   -                -             
+Haldane's Rule     0.3800           -             
+Fertile F1 Hybrids 0.9678           1.0000        
 
 P value adjustment method: BY 
 [1] "###########################"

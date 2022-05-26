@@ -1,6 +1,6 @@
 #!/usr/bin/Rscript
 # 01_Barriers_Calculations.R
-# Made by Luis Rodrigo Arce Valdés, to estimate RI using excel files and correlate it with genetic distance
+# Made by Luis Rodrigo Arce Valdés, to estimate RI using excel files and correlate it with Genetic Distance
 rm(list = ls())
 
 # Calling libraries
@@ -251,14 +251,14 @@ ggplot(isolation.table) +
 dev.off()
 rm(isolation.table)
 
-# Reading genetic distance data frame
+# Reading Genetic Distance data frame
 COI <- read.delim("../../04_Barriers_vs_Distance/results/01_Genetic_Distances.tsv")
 
 # Editing orders species names
 orders$Cross <- paste0(orders$Sp1,"_X_",orders$Sp2)
 orders$Cross <- gsub(" ","_", orders$Cross)
 
-# Merging orders barriers and genetic distance
+# Merging orders barriers and Genetic Distance
 COI <- COI[match(intersect(COI$Cross, orders$Cross),COI$Cross),]
 orders <- orders[match(intersect(COI$Cross, orders$Cross), orders$Cross),]
 
@@ -446,7 +446,7 @@ png("../figures/07_Insects_Scatterplot.png", width = 18, height = 10, units = "c
 ggplot(orders) +
   geom_point(aes(x=Gen, y=RI, color=Order), alpha=0.75) +
   scale_color_manual(values = colors) +
-  labs(x="Gentic distance", y="Reproductive Isolation") +
+  labs(x="Genetic Distance", y="Reproductive Isolation") +
   theme_classic() +
   theme(text = element_text(family = "serif"),
         legend.position = "bottom")
@@ -468,10 +468,10 @@ ggplot(orders) +
   facet_wrap(. ~ Order, ncol = 1) +
   geom_point(aes(x=Gen, y=RI, color=Order)) +
   scale_color_manual(values = colors) +
-  labs(x="Gentic distance", y="Reproductive Isolation") +
+  labs(x="Genetic Distance", y="Reproductive Isolation") +
   theme_classic() +
   theme(legend.position = "none",
-        text = element_text(family = "serif"),
+        text = element_text(family = "serif", size=14),
         strip.text = element_text(color = "white", size = 0))
 dev.off()
 
@@ -493,8 +493,9 @@ ggplot(orders) +
   scale_fill_manual(values = colors) +
   labs(y="Genetic Distance") +
   theme_classic() +
-  theme(axis.text.x = element_text(size = 7, angle = 10, hjust = 1),
+  theme(axis.text.x = element_text(size = 10, angle = 20, hjust = 1),
         axis.title.x = element_blank(),
+        axis.title.y = element_text(size=16),
         text = element_text(family = "serif"),
         strip.text = element_text(color = "white", size = 0),
         legend.position = "none")
