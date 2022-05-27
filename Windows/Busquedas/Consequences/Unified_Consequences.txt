@@ -1,0 +1,110 @@
+Group	Order	Sp1	Sp2	Origonal Consequence	Unified Consequence	Include
+General	Odonata	Anax imperator 	A. partenophe	Hybridization	Hybridization	N
+General	Odonata	Calopteryx splendens 	C. virgo	Unidirectional introgression	Introgression	Y
+General	Odonata	Calopteryx splendens	C. haemorroidalis	Bidirectional introgression	Introgression	Y
+General	Odonata	Cordulegaster trinacriae	C. boltonii	"Unidirectional introgression,"	Introgression	Y
+General	Odonata	Cordulegaster trinacriae	C. boltonii	Reinforcement	Reinforcement	Y
+General	Odonata	Ischnura elegans	I. graellsii	"Bidirectional introgression,"	Introgression	Y
+General	Odonata	Ischnura elegans	I. graellsii	"Local extinction,"	Local Extinction	Y
+General	Odonata	Ischnura elegans	I. graellsii	Reinforcement	Reinforcement	Y
+General	Odonata	Ischnura elegans 	I. genei	Introgression	Introgression	Y
+General	Odonata	Ischnura senegalensis 	I. elegans	Hybridization in laboratory	Hybridization	N
+General	Odonata	Mnais costalis	M. pruinosa	"Introgression,"	Introgression	Y
+General	Odonata	Mnais costalis	M. pruinosa	Reinforcement	Reinforcement	Y
+General	Odonata	Calopteryx splendens 	C. xanthostoma	Hybridization or recent divergence?	Hybridization	N
+General	Odonata	Chalcolestes parvidens	C. virens	Hybridization or recent divergence?	Hybridization	N
+General	Odonata	Coenagrion puella	C. pulchellum	Introgression or recent divergence?	Introgression	Y
+General	Odonata	Coenagrion puella	C. ornatum	Introgression or recent divergence?	Introgression	Y
+General	Odonata	C. pulchellum	C. ornatum	Introgression or recent divergence?	Introgression	Y
+General	Odonata	Somatochlora meridionalis 	S. metallica	Hybridization?	Hybridization	N
+General	Odonata	Gomphus schneiderii	Gomphus vulgatissimus	Predicted hybridization	Hybridization	N
+General	Lepidoptera	Pseudophilotes baton	Pseudophilotes vicrama	Hibridacion introgresiva (wolbacha)	Introgression	Y
+General	Lepidoptera	Melitaea acentria	Melitaea acentria	Hibridacion introgresiva	Introgression	Y
+General	Lepidoptera	Ahlbergia frivaldszkyi	Callophrys rubi	Hibridacion introgresiva	Introgression	Y
+General	Lepidoptera	Thaumetopoea pityocampa	Thaumetopoea wilkinsoni	Hibridacion introgresiva	Introgression	Y
+General	Lepidoptera	Iphiclides feisthamelii	Iphiclides podalirius	Hibridacion introgresiva (wolbacha)	Introgression	Y
+General	Lepidoptera	Udea alpinalis	Udea uliginosalis	Hibridacion introgresiva	Introgression	Y
+General	Lepidoptera	Ostrinia furnacalis	Ostrinia nubilalis	Hibridacion introgresiva	Introgression	Y
+General	Lepidoptera	Coenonympha arcania	Coenonympha gardetta	Especiacion	Hybrid Speciation	Y
+General	Lepidoptera	Ostrinia furnacalis	Ostrinia scapulalis	Hibridacion introgresiva	Introgression	Y
+General	Lepidoptera	Aricia agestis	Aricia artaxerxes	Hibridacion introgresiva	Introgression	Y
+General	Lepidoptera	Aricia agestis	Aricia artaxerxes	cambio de distribucion	Distribution Change	N
+General	Lepidoptera	Plebejus idas	Plebejus melissa	Hibridacion introgresiva	Introgression	Y
+General	Lepidoptera	Plebejus idas	Plebejus melissa	extincion local	Local Extinction	Y
+General	Lepidoptera	Leptidea reali	Leptidea sinapis	Hibridacion introgresiva (unidireccional)	Introgression	Y
+General	Lepidoptera	Heliconius cydno	Heliconius pachinus	Hibridacion introgresiva	Introgression	Y
+General	Lepidoptera	Aricia agestis	Aricia artaxerxes	Cambios en el voltinismo	Fenological Changes	Y
+General	Lepidoptera	Papilio canadensis	Papilio glaucus	Hibridación introgresiva	Introgression	Y
+General	Lepidoptera	Papilio canadensis	Papilio glaucus	Especiacion hibrida	Hybrid Speciation	Y
+General	Lepidoptera	Papilio canadensis	Papilio glaucus	Cambios en el voltinismo	Fenological Changes	Y
+General	Lepidoptera	Papilio canadensis	Papilio glaucus	Adaptacion local	Local Adaptation	Y
+General	Lepidoptera	Tatochila mercedis	Tatochila sterodice	Hibridación introgresiva	Introgression	Y
+General	Lepidoptera	Tatochila mercedis	Tatochila vanvolxemii	Hibridación introgresiva	Introgression	Y
+General	Lepidoptera	Heliconius cydno	Heliconius melpomene	Especiacion hibrida	Hybrid Speciation	Y
+General	Lepidoptera	Heliconius erato	Heliconius himera	Baja introgresión	Introgression	Y
+General	Lepidoptera	Heliconius heurippa	Heliconius tristero	Especiacion hibrida	Hybrid Speciation	Y
+General	Lepidoptera	Hyalophora columbia	Hyalophora euryalus	Especiacion hibrida	Hybrid Speciation	Y
+General	Lepidoptera	Papilio hospiton	Papilio machaon	Hibridación introgresiva	Introgression	Y
+General	Lepidoptera	Choristoneura fumiferana	Choristoneura pinus	Hibridación introgresiva	Introgression	Y
+General	Diptera	Glyptotendipes glaucus	Glyptotendipes pallens	Hibridación introgresiva 	Introgression	Y
+General	Diptera	Glyptotendipes pallens	Glyptotendipes glaucus	Hibridación introgresiva 	Introgression	Y
+General	Diptera	Lucilia sericata	Lucilia cuprina	Cambios fenologicos 	Fenological Changes	Y
+General	Diptera	Lutzomyia longipalpis	Lutzomyia cruzi	Hibridación introgresiva 	Introgression	Y
+General	Diptera	Phlebotomus perniciosus	Phlebotomus longicuspis	Hibridación introgresiva 	Introgression	Y
+General	Diptera	Anopheles gambiae	Anopheles arabiensis	Hibridación introgresiva 	Introgression	Y
+General	Diptera	Anopheles sinensis	Anopheles kleini	Hibridación introgresiva 	Introgression	Y
+General	Diptera	Bactrocera tryoni	Bactrocera neohumeralis	Hibridación introgresiva 	Introgression	Y
+General	Diptera	Chironomus plumosus	Chironomus behningi	Especiación hibrida	Hybrid Speciation	Y
+General	Diptera	Chironomus riparius	Chironomus piger	Hibridación introgresiva 	Introgression	Y
+General	Diptera	Chironomus tentans	Chironomus pallidivittatus	Hibridación introgresiva 	Introgression	Y
+General	Diptera	Drosophila ezoana	Drosophila montana	Hibridación introgresiva 	Introgression	Y
+General	Diptera	Drosophila montana	Drosophila lacicola	Hibridación introgresiva 	Introgression	Y
+General	Diptera	Drosophila parapallidosa	Drosophila ananassae	Especiación hibrida	Hybrid Speciation	Y
+General	Hymenoptera	Messor minor	Messor wasmanni	Hibridacion introgresiva	Introgression	Y
+General	Hymenoptera	Andrena scurra	Andrena ellisiae	Especiación hibrida	Hybrid Speciation	Y
+General	Hymenoptera	Formica aquilonia 	Formica lugubris	Hibridación introgresiva	Introgression	Y
+General	Hymenoptera	Formica aquilonia 	Formica paralugubris	Hibridación introgresiva	Introgression	Y
+General	Hymenoptera	Formica aquilonia 	Formica polyctena	Hibridación introgresiva	Introgression	Y
+General	Hymenoptera	Formica lugubris	Formica pratensis	Hibridación introgresiva	Introgression	Y
+General	Hymenoptera	Formica lugubris	Formica rufa	Hibridación introgresiva	Introgression	Y
+General	Hymenoptera	Formica polyctena	Formica rufa	Adaptacion local	Local Adaptation	Y
+General	Hymenoptera	Formica rufa	Formica polyctena	Fusion de especies	Species Fussion	Y
+General	Hymenoptera	Lasius emarginatus	Lasius platythorax	Introgresión debil	Introgression	Y
+General	Hymenoptera	Lasius niger	Lasius psammophilus 	Hibridación introgresiva	Introgression	Y
+General	Hymenoptera	Lasius umbratus	Lasius jensi	Hibridación introgresiva	Introgression	Y
+General	Hymenoptera	Lasius umbratus	Lasius meridionalis	Hibridación introgresiva	Introgression	Y
+General	Orthoptera	Melanoplus sanguinipes	Melanoplus devastator	Cambios fenologicos y de 	Fenological Changes	Y
+General	Orthoptera	Melanoplus sanguinipes	Melanoplus devastator	tamaño corporal	Morphological Changes	Y
+General	Orthoptera	Orchelimum nigripes	Orchelimum pulchellum	Hibridacion introgresiva	Introgression	Y
+General	Orthoptera	Phaulacridium marginale	Phaulacridium otagoense	Hibridacion introgresiva	Introgression	Y
+General	Orthoptera	Allonemobius fasciatus	Allonemobius socius	Hibridación introgresiva	Introgression	Y
+General	Orthoptera	Chorthippus albomarginatus	Chorthippus karelini	Adaptacion local	Local Adaptation	Y
+General	Orthoptera	Chorthippus mollis	Chorthippus biguttulus	Reforzamiento barreras precigoticas	Reinforcement	Y
+General	Orthoptera	Chorthippus montanus	Chorthippus parallelus	Hibridación introgresiva	Introgression	Y
+General	Orthoptera	Gryllus bimaculatus	Gryllus campestris	Reforazamiento precigotico asimetrico	Reinforcement	Y
+Climate Change	Diptera	Chironomus riparius	C. piger	Reforzamiento de barreras postcigoticas	Reinforcement	Y
+Climate Change	Hymenoptera	Formica polyctena	F. aquilonia	Introgresion	Introgression	Y
+Climate Change	Hymenoptera	Formica polyctena	F. aquilonia	adaptacion a diferentes temperaturas	Local Adaptation	Y
+Climate Change	Hymenoptera	Solenopsis invicta	S. richteri	Introgresion	Introgression	Y
+Climate Change	Hymenoptera	Solenopsis invicta	S. richteri	adaptacion a diferentes temperaturas	Local Adaptation	Y
+Climate Change	Lepidoptera	Hyles euphorbiae	H. tithymali	Introgresion	Introgression	Y
+Climate Change	Lepidoptera	Hyles euphorbiae	H. tithymali	cambios en la morfología larval	Morphological Changes	Y
+Climate Change	Lepidoptera	Polyommatus agestis	P. artaxerxes	Introgresión	Introgression	Y
+Climate Change	Lepidoptera	Polyommatus agestis	P. artaxerxes	cambios en el voltinismo	Fenological Changes	Y
+Climate Change	Lepidoptera	Helicoverpa armigera	H. zea	Introgression	Introgression	Y
+Climate Change	Lepidoptera	Papilio glaucus	P. canadensis	"Cambios en el voltinismo, plantas hospederas y "	Fenological Changes	Y
+Climate Change	Lepidoptera	Papilio glaucus	P. canadensis	especiacion hibrida	Hybrid Speciation	Y
+Climate Change	Odonata	Anax imperator 	 A. partenophe	Hybridization	Hybridization	Y
+Climate Change	Odonata	Calopteryx splendens 	C. virgo	Unidirectional introgression	Introgression	Y
+Climate Change	Odonata	Calopteryx splendens	C. haemorroidalis	Bidirectional introgression	Introgression	Y
+Climate Change	Odonata	Cordulegaster trinacriae	C. boltonii	"Unidirectional introgression, "	Introgression	Y
+Climate Change	Odonata	Cordulegaster trinacriae	C. boltonii	Reinforcement	Reinforcement	Y
+Climate Change	Odonata	Ischnura elegans	I. graellsii	"Bidirectional introgression, "	Introgression	Y
+Climate Change	Odonata	Ischnura elegans	I. graellsii	"Local extinction, "	Local Extinction	Y
+Climate Change	Odonata	Ischnura elegans	I. graellsii	Reinforcement	Reinforcement	Y
+Climate Change	Odonata	Mnais costalis	M. pruinosa	"Introgression, "	Introgression	Y
+Climate Change	Odonata	Mnais costalis	M. pruinosa	Reinforcement	Reinforcement	Y
+Climate Change	Orthoptera	Chorthippus parallelus	C. montanus	Extinción local en poblaciones de C. montanum	Local Extinction	Y
+Climate Change	Orthoptera	Allonemobius socius	A. fasciatus	Extincion local en poblaciones de A. socius	Local Extinction	Y
+Climate Change	Orthoptera	Phaulacridium marginale	P. otagoense	Cambios morfológicos	Morphological Changes	Y
+Climate Change	Orthoptera	Trimerotropis agrestis	T. maritima	Cambios morfológicos	Morphological Changes	Y
