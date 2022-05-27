@@ -8,7 +8,6 @@ library(dplyr)
 library(ggplot2)
 library(tidyr)
 library(scales)
-library(ggrepel)
 
 # Reading reproductive isolation tables ####
 # Groups vector
@@ -207,20 +206,39 @@ orders <- orders[,-c(4:8)]
 # Bars plots, sorting by RI and factorin barriers
 orders <- orders[order(orders$RI, decreasing = F),]
 orders[orders=="Haldanes Rule"] <- "Haldane's Rule"
+orders[orders=="Assortative Mating"] <- "Assortative Mating + \nMechanical Isolation"
 orders$Barrier <- factor(orders$Barrier, levels = unique(orders$Barrier))
 
 # Creating table
 isolation.table <- as.data.frame(prop.table(table(orders$Barrier, orders$Order), margin = 2))
+abs.table <- as.data.frame(table(orders$Barrier, orders$Order), margin = 2)
+isolation.table <- cbind(isolation.table, abs=abs.table$Freq)
+rm(abs.table)
 colnames(isolation.table)[1:2] <- c("Barrier","Order")
 
 # Widening table for labels
-wide.table <- spread(isolation.table, Order, Freq)
+wide.table <- spread(isolation.table[,-4], Order, Freq)
 wide.table <- wide.table[order(nrow(wide.table):1),]
 row.names(wide.table) <- wide.table$Barrier
 wide.table <- wide.table[,-1]
 
 # Cumsuming columns
 wide.table <- as.data.frame(apply(wide.table, 2, cumsum))
+
+# Now we will average each consecutive row to place the % at the middle of each bar
+# Adding 0
+wide.table[7,] <- rep(0, ncol(wide.table))
+wide.table <- wide.table[c(7,1:6),]
+row.names(wide.table)[1] <- "Zero"
+
+# Averaging
+for(i in 1:ncol(wide.table)) {
+  for (n in 1:(nrow(wide.table)-1)) {
+    wide.table[n,i] <- (wide.table[n,i] + wide.table[n+1,i]) / 2
+  }
+}
+row.names(wide.table) <- c(row.names(wide.table)[2:7],"DEL")
+wide.table <- wide.table[-7,]
 
 # Returning to tidy table
 wide.table$Barrier <- row.names(wide.table)
@@ -236,18 +254,19 @@ isolation.table$Barrier <- factor(isolation.table$Barrier, levels = unique(order
 isolation.table <- isolation.table[order(isolation.table$Barrier),]
 
 # Plotting
-png("../figures/03_Bar-Plots.png", width = 24, height = 12, units = "cm", res = 300)
+png("../figures/03_Bar-Plots.png", width = 32, height = 16, units = "cm", res = 300)
 ggplot(isolation.table) +
   geom_col(aes(x=Order, y=Freq, fill=Barrier)) +
-  geom_label_repel(data=isolation.table[isolation.table$Freq!=0,],
-                   aes(x=Order, y=CumSum, label=paste0(round(Freq*100,1), "%")), 
-                   family="serif", size=3, force=0.001, force_pull = 10) +
+  geom_text(data=isolation.table[isolation.table$Freq!=0,],
+                   aes(x=Order, y=CumSum, label=paste0(round(Freq*100,1), "% (",abs,")")), 
+                   family="serif", size=5) +
   scale_y_continuous(labels = scales::percent) +
-  scale_fill_manual(values = c('#edf8fb','#bfd3e6','#9ebcda','#8c96c6','#8856a7','#810f7c')) +
-  labs(y="Frequency") +
+  scale_fill_manual(values = c('#f6eff7','#d0d1e6','#a6bddb','#67a9cf','#1c9099','#016c59')) +
+  labs(y="Reproductive Barriers Frequency") +
   theme_classic() +
-  theme(text = element_text(family = "serif"),
-        axis.title.x = element_blank())
+  theme(text = element_text(family = "serif", size = 24),
+        axis.title.x = element_blank(),
+        axis.text.x = element_blank())
 dev.off()
 rm(isolation.table)
 
@@ -279,23 +298,27 @@ write.table(orders, "../figures/04_Iso_Gen.tsv", sep="\t", quote = F, row.names 
 tmp <- orders[orders$Gen < 0.40,]
 tmp$Barrier <- as.character(tmp$Barrier)
 tmp <- tmp[order(tmp$RI, decreasing = T),]
+#tmp[tmp=="Assortative Mating + \nMechanical Isolation"] <- "Assortative Mating + Mechanical Isolation"
 tmp$Barrier <- factor(tmp$Barrier, levels = unique(tmp$Barrier))
 
 # Plotting
 colors <- c('#66c2a5','#fc8d62','#8da0cb','#e78ac3','#a6d854')
 
-png("../figures/10_Barriers_Non_Corrected.png", width = 12, height = 24, units = "cm", res = 300)
+png("../figures/10_Barriers_Non_Corrected.png", width = 16, height = 32, units = "cm", res = 300)
 ggplot(tmp) +
   facet_wrap(. ~ Order, ncol = 1, scales = "free_y") +
   geom_boxplot(aes(x=Barrier, y=Gen, fill=Order)) +
-  geom_point(aes(x=Barrier, y=Gen), alpha=0.5) +
+  geom_point(aes(x=Barrier, y=Gen), alpha=0.75) +
   scale_fill_manual(values = colors) +
+  scale_y_continuous(n.breaks = 5) +
   labs(y="Genetic Distance") +
   theme_classic() +
-  theme(axis.text.x = element_text(size = 7, angle = 10, hjust = 1),
+  theme(axis.text.y = element_text(size = 18),
+        axis.text.x = element_text(size = 18, angle = 45, hjust = 1),
         axis.title.x = element_blank(),
-        text = element_text(family = "serif"),
-        strip.text = element_text(color = "white", size = 0),
+        text = element_text(family = "serif", size = 30),
+        strip.text = element_blank(),
+        panel.background = element_rect(fill = NA, color = "black"),
         legend.position = "none")
 dev.off()
 
@@ -442,13 +465,15 @@ summary(reg)
 sink()
 
 # Plotting
-png("../figures/07_Insects_Scatterplot.png", width = 18, height = 10, units = "cm", res = 300)
+png("../figures/07_Insects_Scatterplot.png", width = 24, height = 16, units = "cm", res = 300)
 ggplot(orders) +
-  geom_point(aes(x=Gen, y=RI, color=Order), alpha=0.75) +
+  geom_point(aes(x=Gen, y=RI, color=Order), alpha=0.75, size=2.5) +
+  geom_smooth(aes(x=Gen, y=RI), formula = y~x, method = "lm", se = F) +
   scale_color_manual(values = colors) +
+  scale_y_continuous(limits = c(0,1)) +
   labs(x="Genetic Distance", y="Reproductive Isolation") +
   theme_classic() +
-  theme(text = element_text(family = "serif"),
+  theme(text = element_text(family = "serif", size = 24),
         legend.position = "bottom")
 dev.off()
 
@@ -462,17 +487,22 @@ for (i in unique(orders$Order)){
 }
 sink()
 
+
 # Plotting
-png("../figures/09_Orders_Scatterplots.png", width = 10, height = 20, units = "cm", res = 300)
+png("../figures/09_Orders_Scatterplots.png", width = 16, height = 32, units = "cm", res = 300)
 ggplot(orders) +
   facet_wrap(. ~ Order, ncol = 1) +
-  geom_point(aes(x=Gen, y=RI, color=Order)) +
+  geom_point(aes(x=Gen, y=RI, color=Order), size=2.5) +
+  geom_smooth(aes(x=Gen, y=RI), formula = y~x, method = "lm", se = F) +
   scale_color_manual(values = colors) +
+  scale_y_continuous(limits = c(0,1)) +
   labs(x="Genetic Distance", y="Reproductive Isolation") +
   theme_classic() +
   theme(legend.position = "none",
-        text = element_text(family = "serif", size=14),
-        strip.text = element_text(color = "white", size = 0))
+        text = element_text(family = "serif", size=30),
+        axis.text = element_text(size=18),
+        strip.text = element_blank(),
+        panel.background = element_rect(fill = NA, color = "black"))
 dev.off()
 
 # Now transforming into categorical variables

@@ -252,17 +252,31 @@ dev.off()
 COIs <- COIs[COIs$Distance < 0.30,]
 
 # Plotting again
-png("../figures/05_Violins.png", width = 2400, height = 1600)
+png("../figures/05_Violins.png", width = 24, height = 16, units = "cm", res = 300)
 ggplot(COIs) +
-  geom_violin(aes(y=Distance, x=Order, fill=Order), scale = "width", draw_quantiles = 0.50, size=2) +
-  geom_point(aes(y=Distance, x=Order), alpha=0.8, size=6) +
+  geom_violin(aes(y=Distance, x=Order, fill=Order), scale = "width", draw_quantiles = 0.50, size=1) +
+  geom_point(aes(y=Distance, x=Order), alpha=0.6, size=2.5) +
   theme_classic() +
   scale_fill_manual(values = colors) +
   labs(y = "Genetic Distance") +
-  theme(text = element_text(size = 45, family = "serif"),
+  theme(text = element_text(size = 24, family = "serif"),
         legend.position = "none",
-        axis.title.x = element_blank())
+        axis.title.x = element_blank(),
+        axis.text.x = element_blank())
 dev.off()
+
+# All insects
+png("../figures/05_Violin_Insects.png", width = 8, height = 16, units = "cm", res = 300)
+ggplot(COIs) +
+  geom_violin(aes(y=Distance, x="Insects"), scale = "width", draw_quantiles = 0.50, size=1, fill="skyblue") +
+  geom_point(aes(y=Distance, x="Insects"), alpha=0.5, size=2.5) +
+  theme_classic() +
+  labs(y = "Genetic Distance", x = "All Insects") +
+  theme(text = element_text(size = 24, family = "serif"),
+        legend.position = "none",
+        axis.text.x = element_blank())
+dev.off()
+
 
 # Statistical testing:
 sink("../figures/06_Distances_testing.txt", append = F, split = T)

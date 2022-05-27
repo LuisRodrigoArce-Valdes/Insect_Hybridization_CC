@@ -13,7 +13,7 @@ Coefficients:
 (Intercept)  0.50605    0.05944   8.513 3.06e-13 ***
 Gen          2.62338    0.51812   5.063 2.11e-06 ***
 ---
-Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+Signif. codes:  0 â€˜***â€™ 0.001 â€˜**â€™ 0.01 â€˜*â€™ 0.05 â€˜.â€™ 0.1 â€˜ â€™ 1
 
 Residual standard error: 0.3115 on 92 degrees of freedom
 Multiple R-squared:  0.2179,	Adjusted R-squared:  0.2094 
@@ -34,7 +34,7 @@ Coefficients:
 (Intercept)   0.2539     0.1190   2.133   0.0443 *
 Gen           4.4305     2.2277   1.989   0.0593 .
 ---
-Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+Signif. codes:  0 â€˜***â€™ 0.001 â€˜**â€™ 0.01 â€˜*â€™ 0.05 â€˜.â€™ 0.1 â€˜ â€™ 1
 
 Residual standard error: 0.3803 on 22 degrees of freedom
 Multiple R-squared:  0.1524,	Adjusted R-squared:  0.1139 
@@ -74,7 +74,7 @@ Coefficients:
 (Intercept)   0.2112     0.2241   0.942   0.3707  
 Gen          10.1265     5.0614   2.001   0.0765 .
 ---
-Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+Signif. codes:  0 â€˜***â€™ 0.001 â€˜**â€™ 0.01 â€˜*â€™ 0.05 â€˜.â€™ 0.1 â€˜ â€™ 1
 
 Residual standard error: 0.4184 on 9 degrees of freedom
 Multiple R-squared:  0.3078,	Adjusted R-squared:  0.2309 
@@ -95,7 +95,7 @@ Coefficients:
 (Intercept) -0.03225    0.12790  -0.252   0.8134  
 Gen          8.49680    3.64617   2.330   0.0802 .
 ---
-Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+Signif. codes:  0 â€˜***â€™ 0.001 â€˜**â€™ 0.01 â€˜*â€™ 0.05 â€˜.â€™ 0.1 â€˜ â€™ 1
 
 Residual standard error: 0.2333 on 4 degrees of freedom
 Multiple R-squared:  0.5758,	Adjusted R-squared:  0.4698 

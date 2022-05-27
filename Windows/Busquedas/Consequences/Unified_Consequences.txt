@@ -94,7 +94,7 @@ Climate Change	Lepidoptera	Polyommatus agestis	P. artaxerxes	cambios en el volti
 Climate Change	Lepidoptera	Helicoverpa armigera	H. zea	Introgression	Introgression	Y
 Climate Change	Lepidoptera	Papilio glaucus	P. canadensis	"Cambios en el voltinismo, plantas hospederas y "	Fenological Changes	Y
 Climate Change	Lepidoptera	Papilio glaucus	P. canadensis	especiacion hibrida	Hybrid Speciation	Y
-Climate Change	Odonata	Anax imperator 	 A. partenophe	Hybridization	Hybridization	Y
+Climate Change	Odonata	Anax imperator 	 A. partenophe	Hybridization	Hybridization	N
 Climate Change	Odonata	Calopteryx splendens 	C. virgo	Unidirectional introgression	Introgression	Y
 Climate Change	Odonata	Calopteryx splendens	C. haemorroidalis	Bidirectional introgression	Introgression	Y
 Climate Change	Odonata	Cordulegaster trinacriae	C. boltonii	"Unidirectional introgression, "	Introgression	Y
