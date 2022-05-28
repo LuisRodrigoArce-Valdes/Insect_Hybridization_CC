@@ -9,10 +9,10 @@
 cp ../../../Windows/Busquedas/Barriers/Odonata/results/odonates.tsv ../data/01_raw/Odonata_Barriers.tsv
 
 # 02.- Copying 4 original orders input files
-for i in Lepidoptera Orthoptera Hymenoptera Diptera
-do
-cp ../../../Windows/Busquedas/Barriers/$i/${i}_Barriers.tsv ../data/01_raw/
-done
+#for i in Lepidoptera Orthoptera Hymenoptera Diptera
+#do
+#cp ../../../Windows/Busquedas/Barriers/$i/${i}_Barriers.tsv ../data/01_raw/
+#done
 
 # For looping across all 5 orders
 for i in Odonata Lepidoptera Orthoptera Hymenoptera Diptera

@@ -61,69 +61,69 @@ Hymenoptera	Plutella xylostella	Plutella australiana	?	Y	Y	NA	Y	Perry, KD; Baker
 Hymenoptera	Polistes fuscatus	Polistes metricus	Y	?	?	NA	?	Miller, SE; Legan, AW; Flores, ZA; Ng, HY; Sheehan, MJ, 2019
 Hymenoptera	Trichogramma kaykai	Trichogramma deion	?	Y	Y	NA	N	Jeong, G; Stouthamer, R, 2006
 Hymenoptera	Trissolcus plautiae	Trissolcus japonicus	?	N	N	NA	N	Matsuo, K; Hirose, Y; Johnson, NF, 2014
-Lepidoptera	Busseola fusca	Busseola nairobica	N	N	N	N	N	Felix, AE; Calatayud, PA; Le Ru, B; Capdevielle-Dulac, C; Ongamo, G; Silvain, JF; Frerot, B.	2014
-Dahlica charlottae	Dahlica lazuri	Laboratory	Y	Y	N	N	N	Elzinga, JA; Mappes, J; Kaila, L.	2014
-Dahlica charlottae	Dahlica lichenella	Laboratory	Y	Y	N	N	N	Elzinga, JA; Mappes, J; Kaila, L.	2014
-Dahlica charlottae	Siederia listerella	Laboratory	Y	N	N	N	N	Elzinga, JA; Mappes, J; Kaila, L.	2014
-Dahlica charlottae	Siederia rupicolella	Laboratory	Y	N	N	N	N	Elzinga, JA; Mappes, J; Kaila, L.	2014
-Dahlica lazuri	Dahlica lichenella	Laboratory	Y	Y	N	N	N	Elzinga, JA; Mappes, J; Kaila, L.	2014
-Dahlica lazuri	Siederia listerella	Laboratory	Y	Y	N	N	N	Elzinga, JA; Mappes, J; Kaila, L.	2014
-Dahlica lazuri	Siederia rupicolella	Laboratory	Y	Y	N	N	N	Elzinga, JA; Mappes, J; Kaila, L.	2014
-Dahlica lichenella	Siederia listerella	Laboratory	Y	N	N	N	N	Elzinga, JA; Mappes, J; Kaila, L.	2014
-Dahlica lichenella	Siederia rupicolella	Laboratory	Y	Y	N	N	N	Elzinga, JA; Mappes, J; Kaila, L.	2014
-Siederia listerella	Siederia rupicolella	Laboratory	Y	N	N	N	N	Elzinga, JA; Mappes, J; Kaila, L.	2014
-Sesamia cretica	Sesamia nonagrioides	Field	N	?	?	?	?	Avand-Faghih, A; Frerot, B.	2008
-Heliconius cydno	Heliconius melpomene	Field	Y	Y	Y	Y	N	Byers, KJRP; Darragh, K; Garza, SF; Almeida, DA; Warren, IA; Rastas, PMA; Merrill, RM; Schulz, S; McMillan, WO; Jiggins, CD.	2021
-Heliconius timareta	Heliconius melpomene	Field	Y	Y	Y	Y	Y	Merot, C; Frerot, B; Leppik, E; Joron, M.	2015
-Papilio canadensis	Papilio glaucus	Field	Y	Y	Y	Y	Y	Scriber, JM; Ording, GJ.	2005
-Etiella zinckenella	Etiella hobsoni	Laboratory	N	?	?	?	?	Edmonds, RP; Borden, JH; Angerilli, NPD; Rauf, A.	2000
-Helicoverpa armigera	Helicoverpa assulta	Laboratory	N	Y	Y	Y	Y	Teng, ZQ; He, Q; Li, HT; Zhang, QW.	2009
-Lymantria monacha	Lymantria fumida	Field	N	?	?	?	?	Rowland, E; Schaefer, PW; Belton, P; Gries, G.	2011
-Platyptilia carduidactyla	Platyptilia williamsii	Field	N	N	N	N	N	HAYNES, KF; BIRCH, MC.	1986
-Spodoptera littoralis	Spodoptera litura	Laboratory	Y	Y	N	N	N	Saveer, AM; Becher, PG; Birgersson, G; Hansson, BS; Witzgall, P; Bengtsson, M.	2014
-Chloridea virescens	Heliothis subflexa	Laboratory	Y	Y	Y	Y	N	Hillier, NK; Vickers, NJ. 	2011
-Danaus chrysippus	Danaus genutia	Field	Y	N	N	N	N	Baidya, S; Basu, DN; Roy, S; Roy, AB.	2018
-Lycaeides idas	Lycaeides melissa	Field	Y	Y	Y	Y	Y	Gompert, Z; Lucas, LK; Fordyce, JA; Forister, ML; Nice, CC.	2010
-Leptidea sinapis	Leptidea reali	Field	N	N	N	N	N	Friberg, M; Vongvanich, N; Borg-Karlson, AK; Kemp, DJ; Merilaita, S; Wiklund, C.	2008
-Leptidea sinapis	Leptidea juvernica	Laboratory	N	N	N	N	N	Dinca, V; Wiklund, C; Lukhtanov, VA; Kodandaramaiah, U; Noren, K; Dapporto, L; Wahlberg, N; Vila, R; Friberg, M.	2013
-Leptidea reali	Leptidea juvernica	Laboratory	N	N	N	N	N	Dinca, V; Wiklund, C; Lukhtanov, VA; Kodandaramaiah, U; Noren, K; Dapporto, L; Wahlberg, N; Vila, R; Friberg, M.	2013
-Choristoneura fumiferana	Choristoneura pinus	Field	Y	Y	Y	Y	?	Deverno, LL; Smith, GA; Harrison, KJ.	1998
-Darna bradleyi	Darna trima	Field	N	?	?	?	?	Sasaerila, Y; Gries, G; Gries, R; Boo, TC.	2000
-Darna bradleyi	Setothosea asigna	Field	N	?	?	?	?	Sasaerila, Y; Gries, G; Gries, R; Boo, TC.	2000
-Darna bradleyi	Setora nitens	Field	N	?	?	?	?	Sasaerila, Y; Gries, G; Gries, R; Boo, TC.	2000
-Darna trima	Setothosea asigna	Field	N	?	?	?	?	Sasaerila, Y; Gries, G; Gries, R; Boo, TC.	2000
-Darna trima	Setora nitens	Field	N	?	?	?	?	Sasaerila, Y; Gries, G; Gries, R; Boo, TC.	2000
-Setothosea asigna	Setora nitens	Field	N	?	?	?	?	Sasaerila, Y; Gries, G; Gries, R; Boo, TC.	2000
-Melitaea acentria	Melitaea didyma	Field	Y	Y	Y	Y	?	Pazhenkova, EA; Lukhtanov, VA.	2021
-Pieris napi	Pieris macdunnoughii	Laboratory	?	Y	Y	Y	Y	Chew, FS; Watt, WB.	2006
-Pieris napi	Pieris virginiensis	Laboratory	?	Y	Y	N	N	Chew, FS; Watt, WB.	2006
-Pieris napi	Pieris marginalis	Laboratory	?	Y	Y	Y	Y	Chew, FS; Watt, WB.	2006
-Pieris napi	Pieris oleracea	Laboratory	?	Y	Y	Y	Y	Chew, FS; Watt, WB.	2006
-Pieris napi	Pieris microstriata	Laboratory	?	Y	Y	Y	N	Chew, FS; Watt, WB.	2006
-Pieris oleracea	Pieris virginiensis	Laboratory	Y	N	N	N	N	Chew, FS; Watt, WB.	2006
-Pieris oleracea	Pieris marginalis	Laboratory	?	Y	Y	Y	Y	Chew, FS; Watt, WB.	2006
-Trichoplusia ni	Chrysodeixis includens	Laboratory	N	N	N	N	N	LANDOLT, PJ; HEATH, RR.	1987
-Plutella xylostella	Plutella australiana	Laboratory	N	Y	Y	Y	N	Perry, KD; Baker, GJ; Powis, KJ; Kent, JK; Ward, CM; Baxter, SW.	2018
-Heliconius cydno	Heliconius pachinus	Field	Y	Y	Y	Y	Y	Kronforst, MR; Young, LG; Kapan, DD; McNeely, C; ONeill, RJ; Gilbert, LE, 2006
-Lepidoptera	Busseola segeta	Busseola nairobica	N	Y	N	N	N	Felix, AE; Calatayud, PA; Le Ru, B; Capdevielle-Dulac, C; Ongamo, G; Silvain, JF; Frerot, B.	2014
-Busseola segeta	Busseola fusca	Laboratory	N	N	N	N	N	Felix, AE; Calatayud, PA; Le Ru, B; Capdevielle-Dulac, C; Ongamo, G; Silvain, JF; Frerot, B, 2014
-Lepidoptera	Choristoneura fumiferana	Choristoneura occidentalis	Y	Y	Y	?	?	Nelson, TD; MacDonald, ZG; Sperling, FAH, 2022
-Lepidoptera	Colias eurytheme	Colias philodice	Y	Y	Y	Y	Y	MEYERROCHOW, VB, 1991
-Lepidoptera	Danaus erippus	Danaus plexippus	N	Y	Y	N	N	Hay-Roe, MM; Lamas, G; Nation, JL, 2007
-Lepidoptera	Earias vittella	Earias insulana	Y	N	N	N	N	TAMHANKAR, AJ, 1992
-Lepidoptera	Heliconius elevatus	Heliconius pardalinus	N	Y	Y	Y	N	Rosser, N; Queste, LM; Cama, B; Edelman, NB; Mann, F; Pezo, RM; Morris, J; Segami, C; Velado, P; Schulz, S; Mallet, JLB; Dasmahapatra, KK, 2019
-Lepidoptera	Heliconius erato	Heliconius himera	Y	Y	Y	Y	Y	Mallet, J; McMillan, WO; Jiggins, CD, 1998
-Lepidoptera	Lycaena salustius	Lycaena feredayi	Y	Y	Y	?	?	MEYERROCHOW, VB, 1991
-Lepidoptera	Malacosoma americanum	Malacosoma disstria	?	?	N	?	?	SAMPLE, BE, 1992
-Lepidoptera	Ostrinia furnacalis	Ostrinia nubilalis	Y	Y	Y	Y	Y	Wang, YZ; Kim, KS; Guo, WC; Li, QY; Zhang, YY; Wang, ZY; Coates, BS, 2017
-Lepidoptera	Ostrinia furnacalis	Ostrinia scapulalis	Y	Y	Y	Y	Y	Bourguet, D; Ponsard, S; Streiff, R; Meusnier, S; Audiot, P; Li, J; Wang, ZY, 2014
-Lepidoptera	Ostrinia nubilalis	Ostrinia scapulalis	Y	Y	Y	Y	Y	Bourguet, D; Ponsard, S; Streiff, R; Meusnier, S; Audiot, P; Li, J; Wang, ZY, 2014
-Lepidoptera	Ostrinia orientalis	Ostrinia nubilalis	?	Y	Y	Y	Y	Fu, X; Tabata, J; Huang, Y; Takanashi, T; Ohno, S; Honda, H; Tatsuki, S; Ishikawa, Y, 2004
-Lepidoptera	Ostrinia scapulalis	Ostrinia zealis	?	Y	Y	Y	Y	Tabata, F; Ishikawa, Y, 2005
-Lepidoptera	Papilio machaon	Papilio hospiton	Y	Y	Y	Y	?	Cianchi, R; Ungaro, A; Marini, M; Bullini, L, 2003
-Lepidoptera	Spodoptera exigua	Spodoptera litura	N	?	?	?	?	Yan, Q; Liu, XL; Wang, YL; Tang, XQ; Shen, ZJ; Dong, SL; Den, JY, 2019
-Lepidoptera	Spodoptera latitascia	Spodoptera descoinsi	?	Y	Y	Y	Y	Monti, L; Genermont, J; Malosse, C; LalanneCassou, B, 1997
-Lepidoptera	Yponomeuta padella	Yponomeuta cagnagella	?	Y	Y	Y	Y	Hora, KH; Marec, F; Roessingh, P; Menken, SBJ.  2019
+Lepidoptera	Busseola fusca	Busseola nairobica	N	N	N	N	N	MISS 2014
+Lepidoptera	Busseola segeta	Busseola fusca	N	N	N	N	N	MISS 2014
+Lepidoptera	Busseola segeta	Busseola nairobica	N	Y	N	N	N	MISS 2014
+Lepidoptera	Chloridea virescens	Heliothis subflexa	Y	Y	Y	Y	N	MISS 2011
+Lepidoptera	Choristoneura fumiferana	Choristoneura occidentalis	Y	Y	Y	?	?	MISS 2022
+Lepidoptera	Choristoneura fumiferana	Choristoneura pinus	Y	Y	Y	Y	?	MISS 1998
+Lepidoptera	Colias eurytheme	Colias philodice	Y	Y	Y	Y	Y	MISS 1991
+Lepidoptera	Dahlica charlottae	Dahlica lazuri	Y	Y	N	N	N	MISS 2014
+Lepidoptera	Dahlica charlottae	Dahlica lichenella	Y	Y	N	N	N	MISS 2014
+Lepidoptera	Dahlica charlottae	Siederia listerella	Y	N	N	N	N	MISS 2014
+Lepidoptera	Dahlica charlottae	Siederia rupicolella	Y	N	N	N	N	MISS 2014
+Lepidoptera	Dahlica lazuri	Dahlica lichenella	Y	Y	N	N	N	MISS 2014
+Lepidoptera	Dahlica lazuri	Siederia listerella	Y	Y	N	N	N	MISS 2014
+Lepidoptera	Dahlica lazuri	Siederia rupicolella	Y	Y	N	N	N	MISS 2014
+Lepidoptera	Dahlica lichenella	Siederia listerella	Y	N	N	N	N	MISS 2014
+Lepidoptera	Dahlica lichenella	Siederia rupicolella	Y	Y	N	N	N	MISS 2014
+Lepidoptera	Danaus chrysippus	Danaus genutia	Y	N	N	N	N	MISS 2018
+Lepidoptera	Danaus erippus	Danaus plexippus	N	Y	Y	N	N	MISS 2007
+Lepidoptera	Darna bradleyi	Darna trima	N	?	?	?	?	MISS 2000
+Lepidoptera	Darna bradleyi	Setora nitens	N	?	?	?	?	MISS 2000
+Lepidoptera	Darna bradleyi	Setothosea asigna	N	?	?	?	?	MISS 2000
+Lepidoptera	Darna trima	Setora nitens	N	?	?	?	?	MISS 2000
+Lepidoptera	Darna trima	Setothosea asigna	N	?	?	?	?	MISS 2000
+Lepidoptera	Earias vittella	Earias insulana	Y	N	N	N	N	MISS 1992
+Lepidoptera	Etiella zinckenella	Etiella hobsoni	N	?	?	?	?	MISS 2000
+Lepidoptera	Heliconius cydno	Heliconius melpomene	Y	Y	Y	Y	N	MISS 2021
+Lepidoptera	Heliconius cydno	Heliconius pachinus	Y	Y	Y	Y	Y	MISS 2006
+Lepidoptera	Heliconius elevatus	Heliconius pardalinus	N	Y	Y	Y	N	MISS 2019
+Lepidoptera	Heliconius erato	Heliconius himera	Y	Y	Y	Y	Y	MISS 1998
+Lepidoptera	Heliconius timareta	Heliconius melpomene	Y	Y	Y	Y	Y	MISS 2015
+Lepidoptera	Helicoverpa armigera	Helicoverpa assulta	N	Y	Y	Y	Y	MISS 2009
+Lepidoptera	Leptidea reali	Leptidea juvernica	N	N	N	N	N	MISS 2013
+Lepidoptera	Leptidea sinapis	Leptidea juvernica	N	N	N	N	N	MISS 2013
+Lepidoptera	Leptidea sinapis	Leptidea reali	N	N	N	N	N	MISS 2008
+Lepidoptera	Lycaeides idas	Lycaeides melissa	Y	Y	Y	Y	Y	MISS 2010
+Lepidoptera	Lycaena salustius	Lycaena feredayi	Y	Y	Y	?	?	MISS 1991
+Lepidoptera	Lymantria monacha	Lymantria fumida	N	?	?	?	?	MISS 2011
+Lepidoptera	Malacosoma americanum	Malacosoma disstria	?	?	N	?	?	MISS 1992
+Lepidoptera	Melitaea acentria	Melitaea didyma	Y	Y	Y	Y	?	MISS 2021
+Lepidoptera	Ostrinia furnacalis	Ostrinia nubilalis	Y	Y	Y	Y	Y	MISS 2017
+Lepidoptera	Ostrinia furnacalis	Ostrinia scapulalis	Y	Y	Y	Y	Y	MISS 2014
+Lepidoptera	Ostrinia nubilalis	Ostrinia scapulalis	Y	Y	Y	Y	Y	MISS 2014
+Lepidoptera	Ostrinia orientalis	Ostrinia nubilalis	?	Y	Y	Y	Y	MISS 2004
+Lepidoptera	Ostrinia scapulalis	Ostrinia zealis	?	Y	Y	Y	Y	MISS 2005
+Lepidoptera	Papilio canadensis	Papilio glaucus	Y	Y	Y	Y	Y	MISS 2005
+Lepidoptera	Papilio machaon	Papilio hospiton	Y	Y	Y	Y	?	MISS 2003
+Lepidoptera	Pieris napi	Pieris macdunnoughii	?	Y	Y	Y	Y	MISS 2006
+Lepidoptera	Pieris napi	Pieris marginalis	?	Y	Y	Y	Y	MISS 2006
+Lepidoptera	Pieris napi	Pieris microstriata	?	Y	Y	Y	N	MISS 2006
+Lepidoptera	Pieris napi	Pieris oleracea	?	Y	Y	Y	Y	MISS 2006
+Lepidoptera	Pieris napi	Pieris virginiensis	?	Y	Y	N	N	MISS 2006
+Lepidoptera	Pieris oleracea	Pieris marginalis	?	Y	Y	Y	Y	MISS 2006
+Lepidoptera	Pieris oleracea	Pieris virginiensis	Y	N	N	N	N	MISS 2006
+Lepidoptera	Platyptilia carduidactyla	Platyptilia williamsii	N	N	N	N	N	MISS 1986
+Lepidoptera	Plutella xylostella	Plutella australiana	N	Y	Y	Y	N	MISS 2018
+Lepidoptera	Sesamia cretica	Sesamia nonagrioides	N	?	?	?	?	MISS 2008
+Lepidoptera	Setothosea asigna	Setora nitens	N	?	?	?	?	MISS 2000
+Lepidoptera	Siederia listerella	Siederia rupicolella	Y	N	N	N	N	MISS 2014
+Lepidoptera	Spodoptera exigua	Spodoptera litura	N	?	?	?	?	MISS 2019
+Lepidoptera	Spodoptera latitascia	Spodoptera descoinsi	?	Y	Y	Y	Y	MISS 1997
+Lepidoptera	Spodoptera littoralis	Spodoptera litura	Y	Y	N	N	N	MISS 2014
+Lepidoptera	Trichoplusia ni	Chrysodeixis includens	N	N	N	N	N	MISS 1987
+Lepidoptera	Yponomeuta padella	Yponomeuta cagnagella	?	Y	Y	Y	Y	MISS 2019
 Odonata	Aeshna affinis	Aeshna cyanea	N	N	N	NA	NA	NA
 Odonata	Aeshna canadensis	Aeshna subarctica	N	N	N	NA	NA	NA
 Odonata	Aeshna confusa	Aeshna diffinis	Y	Y	Y	NA	NA	NA

@@ -98,7 +98,7 @@ P value adjustment method: BY
 	Kruskal-Wallis rank sum test
 
 data:  Gen by Barrier
-Kruskal-Wallis chi-squared = 4.5864, df = 3, p-value = 0.2047
+Kruskal-Wallis chi-squared = 12.329, df = 4, p-value = 0.01507
 
 [1] "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
 
@@ -106,10 +106,11 @@ Kruskal-Wallis chi-squared = 4.5864, df = 3, p-value = 0.2047
 
 data:  orders[orders$Order == i, "Gen"] and orders[orders$Order == i, "Barrier"] 
 
-                   Assortative Mating Oviposition Hybrid Inviability
-Oviposition        1.00               -           -                 
-Hybrid Inviability 1.00               1.00        -                 
-Fertile F1 Hybrids 0.11               0.40        0.40              
+                   Assortative Mating Oviposition Hybrid Inviability Haldane's Rule
+Oviposition        0.96609            -           -                  -             
+Hybrid Inviability 0.52143            0.38095     -                  -             
+Haldane's Rule     0.38095            0.64286     0.80000            -             
+Fertile F1 Hybrids 0.00341            0.00067     0.04848            0.53333       
 
 P value adjustment method: none 
 [1] "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
@@ -118,10 +119,11 @@ P value adjustment method: none
 
 data:  orders[orders$Order == i, "Gen"] and orders[orders$Order == i, "Barrier"] 
 
-                   Assortative Mating Oviposition Hybrid Inviability
-Oviposition        1.00               -           -                 
-Hybrid Inviability 1.00               1.00        -                 
-Fertile F1 Hybrids 0.67               1.00        1.00              
+                   Assortative Mating Oviposition Hybrid Inviability Haldane's Rule
+Oviposition        1.0000             -           -                  -             
+Hybrid Inviability 1.0000             1.0000      -                  -             
+Haldane's Rule     1.0000             1.0000      1.0000             -             
+Fertile F1 Hybrids 0.0341             0.0067      0.4848             1.0000        
 
 P value adjustment method: bonferroni 
 [1] "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
@@ -130,10 +132,11 @@ P value adjustment method: bonferroni
 
 data:  orders[orders$Order == i, "Gen"] and orders[orders$Order == i, "Barrier"] 
 
-                   Assortative Mating Oviposition Hybrid Inviability
-Oviposition        1                  -           -                 
-Hybrid Inviability 1                  1           -                 
-Fertile F1 Hybrids 1                  1           1                 
+                   Assortative Mating Oviposition Hybrid Inviability Haldane's Rule
+Oviposition        1.00               -           -                  -             
+Hybrid Inviability 1.00               1.00        -                  -             
+Haldane's Rule     1.00               1.00        1.00               -             
+Fertile F1 Hybrids 0.05               0.02        0.47               1.00          
 
 P value adjustment method: BY 
 [1] "###########################"

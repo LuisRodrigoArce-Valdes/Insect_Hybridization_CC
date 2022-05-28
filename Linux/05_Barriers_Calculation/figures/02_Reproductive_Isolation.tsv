@@ -45,17 +45,55 @@ Hymenoptera	Neodiprion pinetum	Neodiprion lecontei	Y	Y	Y	NA	Y	0	Fertile F1 Hybri
 Hymenoptera	Trichogramma kaykai	Trichogramma deion	?	Y	Y	NA	N	0.2	Haldanes Rule
 Hymenoptera	Trissolcus plautiae	Trissolcus japonicus	?	N	N	NA	N	0.8	Oviposition
 Lepidoptera	Busseola fusca	Busseola nairobica	N	N	N	N	N	1	Assortative Mating
+Lepidoptera	Busseola segeta	Busseola fusca	N	N	N	N	N	1	Assortative Mating
 Lepidoptera	Busseola segeta	Busseola nairobica	N	Y	N	N	N	1	Assortative Mating
+Lepidoptera	Chloridea virescens	Heliothis subflexa	Y	Y	Y	Y	N	0.2	Haldanes Rule
 Lepidoptera	Colias eurytheme	Colias philodice	Y	Y	Y	Y	Y	0	Fertile F1 Hybrids
+Lepidoptera	Dahlica charlottae	Dahlica lazuri	Y	Y	N	N	N	0.6	Hybrid Inviability
+Lepidoptera	Dahlica charlottae	Dahlica lichenella	Y	Y	N	N	N	0.6	Hybrid Inviability
+Lepidoptera	Dahlica charlottae	Siederia listerella	Y	N	N	N	N	0.8	Oviposition
+Lepidoptera	Dahlica charlottae	Siederia rupicolella	Y	N	N	N	N	0.8	Oviposition
+Lepidoptera	Dahlica lazuri	Dahlica lichenella	Y	Y	N	N	N	0.6	Hybrid Inviability
+Lepidoptera	Dahlica lazuri	Siederia listerella	Y	Y	N	N	N	0.6	Hybrid Inviability
+Lepidoptera	Dahlica lazuri	Siederia rupicolella	Y	Y	N	N	N	0.6	Hybrid Inviability
+Lepidoptera	Dahlica lichenella	Siederia listerella	Y	N	N	N	N	0.8	Oviposition
+Lepidoptera	Dahlica lichenella	Siederia rupicolella	Y	Y	N	N	N	0.6	Hybrid Inviability
+Lepidoptera	Danaus chrysippus	Danaus genutia	Y	N	N	N	N	0.8	Oviposition
 Lepidoptera	Danaus erippus	Danaus plexippus	N	Y	Y	N	N	1	Assortative Mating
+Lepidoptera	Darna bradleyi	Darna trima	N	?	?	?	?	1	Assortative Mating
+Lepidoptera	Darna bradleyi	Setora nitens	N	?	?	?	?	1	Assortative Mating
+Lepidoptera	Darna bradleyi	Setothosea asigna	N	?	?	?	?	1	Assortative Mating
+Lepidoptera	Darna trima	Setora nitens	N	?	?	?	?	1	Assortative Mating
+Lepidoptera	Darna trima	Setothosea asigna	N	?	?	?	?	1	Assortative Mating
 Lepidoptera	Earias vittella	Earias insulana	Y	N	N	N	N	0.8	Oviposition
+Lepidoptera	Etiella zinckenella	Etiella hobsoni	N	?	?	?	?	1	Assortative Mating
+Lepidoptera	Heliconius cydno	Heliconius melpomene	Y	Y	Y	Y	N	0.2	Haldanes Rule
+Lepidoptera	Heliconius cydno	Heliconius pachinus	Y	Y	Y	Y	Y	0	Fertile F1 Hybrids
 Lepidoptera	Heliconius elevatus	Heliconius pardalinus	N	Y	Y	Y	N	1	Assortative Mating
 Lepidoptera	Heliconius erato	Heliconius himera	Y	Y	Y	Y	Y	0	Fertile F1 Hybrids
+Lepidoptera	Heliconius timareta	Heliconius melpomene	Y	Y	Y	Y	Y	0	Fertile F1 Hybrids
+Lepidoptera	Helicoverpa armigera	Helicoverpa assulta	N	Y	Y	Y	Y	1	Assortative Mating
+Lepidoptera	Leptidea reali	Leptidea juvernica	N	N	N	N	N	1	Assortative Mating
+Lepidoptera	Leptidea sinapis	Leptidea juvernica	N	N	N	N	N	1	Assortative Mating
+Lepidoptera	Leptidea sinapis	Leptidea reali	N	N	N	N	N	1	Assortative Mating
+Lepidoptera	Lycaeides idas	Lycaeides melissa	Y	Y	Y	Y	Y	0	Fertile F1 Hybrids
+Lepidoptera	Lymantria monacha	Lymantria fumida	N	?	?	?	?	1	Assortative Mating
 Lepidoptera	Malacosoma americanum	Malacosoma disstria	?	?	N	?	?	0.6	Hybrid Inviability
 Lepidoptera	Ostrinia furnacalis	Ostrinia nubilalis	Y	Y	Y	Y	Y	0	Fertile F1 Hybrids
 Lepidoptera	Ostrinia furnacalis	Ostrinia scapulalis	Y	Y	Y	Y	Y	0	Fertile F1 Hybrids
 Lepidoptera	Ostrinia nubilalis	Ostrinia scapulalis	Y	Y	Y	Y	Y	0	Fertile F1 Hybrids
+Lepidoptera	Papilio canadensis	Papilio glaucus	Y	Y	Y	Y	Y	0	Fertile F1 Hybrids
+Lepidoptera	Pieris napi	Pieris microstriata	?	Y	Y	Y	N	0.2	Haldanes Rule
+Lepidoptera	Pieris napi	Pieris virginiensis	?	Y	Y	N	N	0.4	Hybrid Sterility
+Lepidoptera	Pieris oleracea	Pieris virginiensis	Y	N	N	N	N	0.8	Oviposition
+Lepidoptera	Platyptilia carduidactyla	Platyptilia williamsii	N	N	N	N	N	1	Assortative Mating
+Lepidoptera	Plutella xylostella	Plutella australiana	N	Y	Y	Y	N	1	Assortative Mating
+Lepidoptera	Sesamia cretica	Sesamia nonagrioides	N	?	?	?	?	1	Assortative Mating
+Lepidoptera	Setothosea asigna	Setora nitens	N	?	?	?	?	1	Assortative Mating
+Lepidoptera	Siederia listerella	Siederia rupicolella	Y	N	N	N	N	0.8	Oviposition
 Lepidoptera	Spodoptera exigua	Spodoptera litura	N	?	?	?	?	1	Assortative Mating
+Lepidoptera	Spodoptera littoralis	Spodoptera litura	Y	Y	N	N	N	0.6	Hybrid Inviability
+Lepidoptera	Trichoplusia ni	Chrysodeixis includens	N	N	N	N	N	1	Assortative Mating
 Odonata	Aeshna affinis	Aeshna cyanea	N	N	N	NA	NA	1	Assortative Mating
 Odonata	Aeshna canadensis	Aeshna subarctica	N	N	N	NA	NA	1	Assortative Mating
 Odonata	Aeshna confusa	Aeshna diffinis	Y	Y	Y	NA	NA	0	Fertile F1 Hybrids
