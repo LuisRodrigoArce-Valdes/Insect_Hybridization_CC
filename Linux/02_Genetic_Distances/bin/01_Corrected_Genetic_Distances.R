@@ -251,11 +251,32 @@ dev.off()
 # Removing outlier
 COIs <- COIs[COIs$Distance < 0.30,]
 
+# Printing quantiles
+sink("../figures/05_Stats.txt", split = T)
+for (i in unique(COIs$Order)) {
+  print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
+  print(i)
+  print("MEAN:")
+  print(mean(COIs[COIs$Order==i,"Distance"]))
+  print("SD:")
+  print(sd(COIs[COIs$Order==i,"Distance"]))
+}
+print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
+print("ALL INSECTS")
+print("MEAN:")
+print(mean(COIs[,"Distance"]))
+print("SD:")
+print(sd(COIs[,"Distance"]))
+sink()
+
 # Plotting again
 png("../figures/05_Violins.png", width = 24, height = 16, units = "cm", res = 300)
 ggplot(COIs) +
-  geom_violin(aes(y=Distance, x=Order, fill=Order), scale = "width", draw_quantiles = 0.50, size=1) +
-  geom_point(aes(y=Distance, x=Order), alpha=0.6, size=2.5) +
+  geom_violin(aes(y=Distance, x=Order, fill=Order), scale = "width", size=1) +
+  geom_point(aes(y=Distance, x=Order), alpha=0.5, size=2.5) +
+  stat_summary(aes(y=Distance, x=Order), fun=function(x) mean(x), geom='point', color="red", size=1, shape=3) +
+  stat_summary(aes(y=Distance, x=Order), fun=function(x) mean(x)+sd(x), geom='point', color="white", size=1, shape=3) +
+  stat_summary(aes(y=Distance, x=Order), fun=function(x) mean(x)-sd(x), geom='point', color="white", size=1, shape=3) +
   theme_classic() +
   scale_fill_manual(values = colors) +
   labs(y = "Genetic Distance") +
@@ -268,8 +289,11 @@ dev.off()
 # All insects
 png("../figures/05_Violin_Insects.png", width = 8, height = 16, units = "cm", res = 300)
 ggplot(COIs) +
-  geom_violin(aes(y=Distance, x="Insects"), scale = "width", draw_quantiles = 0.50, size=1, fill="skyblue") +
+  geom_violin(aes(y=Distance, x="Insects"), scale = "width", size=1, fill="skyblue") +
   geom_point(aes(y=Distance, x="Insects"), alpha=0.5, size=2.5) +
+  stat_summary(aes(y=Distance, x="Insects"), fun=function(x) mean(x), geom='point', color="red", size=1, shape=3) +
+  stat_summary(aes(y=Distance, x="Insects"), fun=function(x) mean(x)+sd(x), geom='point', color="white", size=1, shape=3) +
+  stat_summary(aes(y=Distance, x="Insects"), fun=function(x) mean(x)-sd(x), geom='point', color="white", size=1, shape=3) +
   theme_classic() +
   labs(y = "Genetic Distance", x = "All Insects") +
   theme(text = element_text(size = 24, family = "serif"),

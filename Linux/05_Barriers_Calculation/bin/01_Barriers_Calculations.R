@@ -205,8 +205,11 @@ orders <- orders[,-c(4:8)]
 
 # Bars plots, sorting by RI and factorin barriers
 orders <- orders[order(orders$RI, decreasing = F),]
+orders[orders=="Fertile F1 Hybrids"] <- "No Barriers (Fertile F1 Hybrids)"
 orders[orders=="Haldanes Rule"] <- "Haldane's Rule"
+orders[orders=="Oviposition"] <- "Gametic or Tactile Barriers"
 orders[orders=="Assortative Mating"] <- "Assortative Mating + \nMechanical Isolation"
+unique(orders$Barrier)
 orders$Barrier <- factor(orders$Barrier, levels = unique(orders$Barrier))
 
 # Creating table
@@ -262,11 +265,12 @@ ggplot(isolation.table) +
                    family="serif", size=5) +
   scale_y_continuous(labels = scales::percent) +
   scale_fill_manual(values = c('#f6eff7','#d0d1e6','#a6bddb','#67a9cf','#1c9099','#016c59')) +
-  labs(y="Reproductive Barriers Frequency") +
+  labs(y="Frequency of Reproductive Barriers") +
   theme_classic() +
   theme(text = element_text(family = "serif", size = 24),
         axis.title.x = element_blank(),
-        axis.text.x = element_blank())
+        axis.text.x = element_blank(),
+        legend.text = element_text(size = 16))
 dev.off()
 rm(isolation.table)
 
@@ -306,12 +310,12 @@ colors <- c('#66c2a5','#fc8d62','#8da0cb','#e78ac3','#a6d854')
 
 png("../figures/10_Barriers_Non_Corrected.png", width = 16, height = 32, units = "cm", res = 300)
 ggplot(tmp) +
-  facet_wrap(. ~ Order, ncol = 1, scales = "free_y") +
+  facet_wrap(. ~ Order, ncol = 1) +
   geom_boxplot(aes(x=Barrier, y=Gen, fill=Order)) +
   geom_point(aes(x=Barrier, y=Gen), alpha=0.75) +
   scale_fill_manual(values = colors) +
   scale_y_continuous(n.breaks = 5) +
-  labs(y="Genetic Distance") +
+  labs(y="Genetic Distance\n") +
   theme_classic() +
   theme(axis.text.y = element_text(size = 18),
         axis.text.x = element_text(size = 18, angle = 45, hjust = 1),
@@ -496,7 +500,7 @@ ggplot(orders) +
   geom_smooth(aes(x=Gen, y=RI), formula = y~x, method = "lm", se = F) +
   scale_color_manual(values = colors) +
   scale_y_continuous(limits = c(0,1)) +
-  labs(x="Genetic Distance", y="Reproductive Isolation") +
+  labs(x="Genetic Distance", y="Reproductive Isolation\n") +
   theme_classic() +
   theme(legend.position = "none",
         text = element_text(family = "serif", size=30),
