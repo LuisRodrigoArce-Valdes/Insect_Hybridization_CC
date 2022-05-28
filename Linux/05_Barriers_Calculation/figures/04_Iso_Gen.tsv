@@ -24,6 +24,7 @@ Diptera	Drosophila testacea	Drosophila orientacea	0	0.0428994082840237	No Barrie
 Diptera	Liriomyza trifolii	Liriomyza sativae	0.4	0.0772251308900524	Hybrid Sterility
 Diptera	Phlebotomus papatasi	Phlebotomus bergeroti	0.2	0.00439882697947214	Haldane's Rule
 Diptera	Phlebotomus papatasi	Phlebotomus duboscqi	0.4	0.101071975497703	Hybrid Sterility
+<<<<<<< HEAD
 Diptera	Rhagoletis berberis	Rhagoletis suavis	1	0.0532544378698225	Assortative Mating + 
 Mechanical Isolation
 Diptera	Rhagoletis completa	Rhagoletis zoqui	0	0.002	No Barriers (Fertile F1 Hybrids)
@@ -38,16 +39,23 @@ Diptera	Rhagoletis pomonella	Rhagoletis basiola	1	0.0869130869130869	Assortative
 Mechanical Isolation
 Diptera	Rhagoletis pomonella	Rhagoletis suavis	1	0.0738522954091816	Assortative Mating + 
 Mechanical Isolation
+=======
+Diptera	Rhagoletis berberis	Rhagoletis suavis	1	0.0532544378698225	Assortative
+Diptera	Rhagoletis completa	Rhagoletis zoqui	0	0.002	Fertile F1 Hybrids
+Diptera	Rhagoletis indifferens	Rhagoletis basiola	1	0.0795533845080251	Assortative
+Diptera	Rhagoletis indifferens	Rhagoletis pomonella	1	0.0745341614906832	Assortative
+Diptera	Rhagoletis indifferens	Rhagoletis suavis	1	0.0527404343329886	Assortative
+Diptera	Rhagoletis mendax	Rhagoletis zephyria	0	0.00439882697947214	Fertile F1 Hybrids
+Diptera	Rhagoletis pomonella	Rhagoletis basiola	1	0.0869130869130869	Assortative
+Diptera	Rhagoletis pomonella	Rhagoletis suavis	1	0.0738522954091816	Assortative
+>>>>>>> 26d0d1df842ca1df2913430c4ee9d107bff7f158
 Diptera	Sepsis neocynipsea	Sepsis cynipsea	0.2	0.00574712643678161	Haldane's Rule
-Diptera	Sepsis pyrrhosoma	Sepsis flavimana	1	0.0641940085592011	Assortative Mating + 
-Mechanical Isolation
-Diptera	Urophora affinis	Urophora quadrifasciata	1	0.0425531914893617	Assortative Mating + 
-Mechanical Isolation
-Diptera	Zonosemata electa	Rhagoletis pomonella	1	0.11789038262668	Assortative Mating + 
-Mechanical Isolation
-Hymenoptera	Aphidius microlophii	Aphidius eadyi	1	0.0603829160530191	Assortative Mating + 
-Mechanical Isolation
+Diptera	Sepsis pyrrhosoma	Sepsis flavimana	1	0.0641940085592011	Assortative
+Diptera	Urophora affinis	Urophora quadrifasciata	1	0.0425531914893617	Assortative
+Diptera	Zonosemata electa	Rhagoletis pomonella	1	0.11789038262668	Assortative
+Hymenoptera	Aphidius microlophii	Aphidius eadyi	1	0.0603829160530191	Assortative
 Hymenoptera	Apis cerana	Apis mellifera	0.6	0.10864040660737	Hybrid Inviability
+<<<<<<< HEAD
 Hymenoptera	Nasonia giraulti	Nasonia vitripennis	0.8	0.0978635423845624	Gametic or Tactile Barriers
 Hymenoptera	Nasonia longicornis	Nasonia vitripennis	0.8	0.0957960027567195	Gametic or Tactile Barriers
 Hymenoptera	Neodiprion pinetum	Neodiprion lecontei	0	0.00674373795761079	No Barriers (Fertile F1 Hybrids)
@@ -81,18 +89,38 @@ Odonata	Argia emma	Argia vivida	1	0.14320987654321	Assortative Mating +
 Mechanical Isolation
 Odonata	Argia emma	Enallagma carunculatum	1	0.162079510703364	Assortative Mating + 
 Mechanical Isolation
+=======
+Hymenoptera	Nasonia giraulti	Nasonia vitripennis	0.8	0.0978635423845624	Oviposition
+Hymenoptera	Nasonia longicornis	Nasonia vitripennis	0.8	0.0957960027567195	Oviposition
+Hymenoptera	Neodiprion pinetum	Neodiprion lecontei	0	0.00674373795761079	Fertile F1 Hybrids
+Hymenoptera	Trissolcus plautiae	Trissolcus japonicus	0.8	0.123867069486405	Oviposition
+Odonata	Aeshna affinis	Aeshna cyanea	1	0.0887978142076503	Assortative
+Odonata	Aeshna canadensis	Aeshna subarctica	1	0.0562310030395137	Assortative
+Odonata	Aeshna cyanea	Aeshna juncea	0.8	0.0636986301369863	Oviposition
+Odonata	Aeshna cyanea	Cordulegaster boltonii	1	0.161825726141079	Assortative
+Odonata	Aeshna cyanea	Sympetrum striolatum	1	0.189761092150171	Assortative
+Odonata	Aeshna grandis	Aeshna viridis	1	0.0300500834724541	Assortative
+Odonata	Aeshna interrupta	Aeshna canadensis	0.8	0.0501519756838906	Oviposition
+Odonata	Aeshna juncea	Aeshna mixta	1	0.0783801436969301	Assortative
+Odonata	Aeshna subarctica	Aeshna juncea	1	0.034640522875817	Assortative
+Odonata	Aeshna subarctica	Aeshna mixta	1	0.0729641693811075	Assortative
+Odonata	Anax imperator	Aeshna juncea	0.8	0.0925050641458474	Oviposition
+Odonata	Anax imperator	Anax parthenope	0	0.0135869565217391	Fertile F1 Hybrids
+Odonata	Anax imperator	Cordulegaster boltonii	0.8	0.161379310344828	Oviposition
+Odonata	Anax junius	Anax strenuus	1	0.0197568389057751	Assortative
+Odonata	Anax junius	Anax walsinghami	0.8	0.0283505154639175	Oviposition
+Odonata	Anax nigrofasciatus	Anax parthenope	0	0.0201450443190975	Fertile F1 Hybrids
+Odonata	Argia emma	Argia vivida	1	0.14320987654321	Assortative
+Odonata	Argia emma	Enallagma carunculatum	1	0.162079510703364	Assortative
+>>>>>>> 26d0d1df842ca1df2913430c4ee9d107bff7f158
 Odonata	Argia plana	Argia moesta	0.6	0.181592039800995	Hybrid Inviability
-Odonata	Argia sedula	Enallagma basidens	1	0.18960244648318	Assortative Mating + 
-Mechanical Isolation
-Odonata	Argia tibialis	Argia moesta	1	0.168693009118541	Assortative Mating + 
-Mechanical Isolation
-Odonata	Argia tibialis	Lestes dryas	1	0.173252279635258	Assortative Mating + 
-Mechanical Isolation
-Odonata	Boyeria grafiana	Boyeria vinosa	1	0	Assortative Mating + 
-Mechanical Isolation
-Odonata	Brachytron pratense	Libellula quadrimaculata	1	0.153585926928281	Assortative Mating + 
-Mechanical Isolation
+Odonata	Argia sedula	Enallagma basidens	1	0.18960244648318	Assortative
+Odonata	Argia tibialis	Argia moesta	1	0.168693009118541	Assortative
+Odonata	Argia tibialis	Lestes dryas	1	0.173252279635258	Assortative
+Odonata	Boyeria grafiana	Boyeria vinosa	1	0	Assortative
+Odonata	Brachytron pratense	Libellula quadrimaculata	1	0.153585926928281	Assortative
 Odonata	Calopteryx aequabilis	Calopteryx maculata	0.6	0.126331811263318	Hybrid Inviability
+<<<<<<< HEAD
 Odonata	Calopteryx dimidiata	Calopteryx maculata	0.8	0.170471841704718	Gametic or Tactile Barriers
 Odonata	Calopteryx haemorrhoidalis	Calopteryx splendens	0.8	0.141337386018237	Gametic or Tactile Barriers
 Odonata	Calopteryx splendens	Calopteryx virgo	0	0.10814332247557	No Barriers (Fertile F1 Hybrids)
@@ -385,3 +413,189 @@ Lepidoptera	Ostrinia furnacalis	Ostrinia scapulalis	0	0.0165118679050568	No Barr
 Lepidoptera	Ostrinia nubilalis	Ostrinia scapulalis	0	0.00413223140495868	No Barriers (Fertile F1 Hybrids)
 Lepidoptera	Spodoptera exigua	Spodoptera litura	1	0.0674525212835625	Assortative Mating + 
 Mechanical Isolation
+=======
+Odonata	Calopteryx dimidiata	Calopteryx maculata	0.8	0.170471841704718	Oviposition
+Odonata	Calopteryx haemorrhoidalis	Calopteryx splendens	0.8	0.141337386018237	Oviposition
+Odonata	Calopteryx splendens	Calopteryx virgo	0	0.10814332247557	Fertile F1 Hybrids
+Odonata	Calopteryx splendens	Platycnemis pennipes	1	0.203257328990228	Assortative
+Odonata	Calopteryx virgo	Pyrrhosoma nymphula	1	0.189453125	Assortative
+Odonata	Chalcolestes parvidens	Chalcolestes viridis	1	0.0991350632069195	Assortative
+Odonata	Chalcolestes viridis	Erythromma viridulum	1	0.18957654723127	Assortative
+Odonata	Chalcolestes viridis	Lestes dryas	1	0.144736842105263	Assortative
+Odonata	Chalcolestes viridis	Lestes virens	1	0.175603217158177	Assortative
+Odonata	Chalcolestes viridis	Sympecma fusca	1	0.153745928338762	Assortative
+Odonata	Coenagrion ornatum	Platycnemis pennipes	1	0.168275862068966	Assortative
+Odonata	Coenagrion puella	Coenagrion pulchellum	0	0.00527009222661397	Fertile F1 Hybrids
+Odonata	Coenagrion puella	Enallagma cyathigerum	0.8	0.137075718015666	Oviposition
+Odonata	Copera marginipes	Ceriagrion cerinorubellum	0.8	0.162995594713656	Oviposition
+Odonata	Cordulegaster bilineata	Cordulegaster diastatops	0	0.0559210526315789	Fertile F1 Hybrids
+Odonata	Cordulegaster boltonii	Somatochlora metallica	1	0.195862068965517	Assortative
+Odonata	Cordulia aenea	Epitheca bimaculata	0.8	0.121580547112462	Oviposition
+Odonata	Cordulia aenea	Somatochlora flavomaculata	0.8	0.122635355512068	Oviposition
+Odonata	Crocothemis erythraea	Trithemis annulata	1	0.161290322580645	Assortative
+Odonata	Deielia phaon	Orthetrum albistylum	0.8	0.170522141440846	Oviposition
+Odonata	Diplacodes lefebvrii	Trithemis arteriosa	1	0.170212765957447	Assortative
+Odonata	Dorocordulia libera	Epitheca canis	1	0.113981762917933	Assortative
+Odonata	Dromogomphus spinosus	Stylurus plagiatus	1	0.156534954407295	Assortative
+Odonata	Elattoneura glauca	Allocnemis leucosticta	1	0.185410334346505	Assortative
+Odonata	Enallagma anna	Enallagma carunculatum	0	0.0522875816993464	Fertile F1 Hybrids
+Odonata	Enallagma anna	Enallagma civile	0	0.0522875816993464	Fertile F1 Hybrids
+Odonata	Enallagma aspersum	Enallagma civile	1	0.0076103500761035	Assortative
+Odonata	Enallagma aspersum	Enallagma geminatum	1	0.0091324200913242	Assortative
+Odonata	Enallagma boreale	Enallagma carunculatum	1	0.0763358778625954	Assortative
+Odonata	Enallagma boreale	Enallagma cyathigerum	1	0.027355623100304	Assortative
+Odonata	Enallagma carunculatum	Enallagma basidens	1	0.149618320610687	Assortative
+Odonata	Enallagma carunculatum	Enallagma civile	0	0.00152671755725191	Fertile F1 Hybrids
+Odonata	Enallagma carunculatum	Ischnura cervula	1	0.130637636080871	Assortative
+Odonata	Enallagma carunculatum	Ischnura perparva	1	0.164086687306502	Assortative
+Odonata	Enallagma civile	Argia moesta	0.8	0.179331306990881	Oviposition
+Odonata	Enallagma civile	Argia vivida	1	0.17487684729064	Assortative
+Odonata	Enallagma cyathigerum	Chalcolestes viridis	1	0.189171559034573	Assortative
+Odonata	Enallagma cyathigerum	Enallagma vernale	0	0.489077669902913	Fertile F1 Hybrids
+Odonata	Enallagma cyathigerum	Lestes dryas	1	0.181286549707602	Assortative
+Odonata	Enallagma ebrium	Enallagma boreale	1	0.00151975683890578	Assortative
+Odonata	Enallagma ebrium	Enallagma hageni	0	0	Fertile F1 Hybrids
+Odonata	Enallagma hageni	Ischnura cervula	1	0.122291021671827	Assortative
+Odonata	Enallagma pollutum	Enallagma dubium	1	0.0357142857142857	Assortative
+Odonata	Enallagma pollutum	Enallagma signatum	1	0.507621951219512	Assortative
+Odonata	Enallagma praevarum	Enallagma cyathigerum	1	0.470517448856799	Assortative
+Odonata	Epitheca spinigera	Epitheca cynosura	1	0.0121580547112462	Assortative
+Odonata	Gomphurus externus	Gomphurus fraternus	0	0.00759878419452888	Fertile F1 Hybrids
+Odonata	Gomphus crassus	Gomphurus vastus	1	0.0060790273556231	Assortative
+Odonata	Gomphus crassus	Ophiogomphus rupinsulensis	1	0.145896656534954	Assortative
+Odonata	Gomphus fraternus	Gomphus externus	0	0.00759878419452888	Fertile F1 Hybrids
+Odonata	Gomphus simillimus	Gomphus vulgatissimus	0.8	0.0654490106544901	Oviposition
+Odonata	Hetaerina americana	Argia plana	1	0.203980099502488	Assortative
+Odonata	Hetaerina americana	Calopteryx maculata	0.8	0.203647416413374	Oviposition
+Odonata	Ischnura aurora	Xanthocnemis zealandica	1	0.146645865834633	Assortative
+Odonata	Ischnura barberi	Ischnura ramburii	0.8	0.122916666666667	Oviposition
+Odonata	Ischnura demorsa	Ischnura damula	0	0.00415800415800416	Fertile F1 Hybrids
+Odonata	Ischnura denticollis	Ischnura gemina	0	0.0388768898488121	Fertile F1 Hybrids
+Odonata	Ischnura elegans	Calopteryx splendens	0.8	0.186031331592689	Oviposition
+Odonata	Ischnura elegans	Chalcolestes viridis	1	0.186562296151337	Assortative
+Odonata	Ischnura elegans	Coenagrion puella	0.8	0.143696930111039	Oviposition
+Odonata	Ischnura elegans	Coenagrion pulchellum	1	0.146710526315789	Assortative
+Odonata	Ischnura elegans	Enallagma cyathigerum	0.8	0.129980404964076	Oviposition
+Odonata	Ischnura elegans	Erythromma lindenii	1	0.167864141084259	Assortative
+Odonata	Ischnura elegans	Erythromma najas	1	0.164228723404255	Assortative
+Odonata	Ischnura elegans	Ischnura fountaineae	0	0.0145530145530146	Fertile F1 Hybrids
+Odonata	Ischnura elegans	Ischnura graellsii	0	0.00156985871271586	Fertile F1 Hybrids
+Odonata	Ischnura elegans	Ischnura saharensis	0	0	Fertile F1 Hybrids
+Odonata	Ischnura elegans	Lestes sponsa	1	0.182178217821782	Assortative
+Odonata	Ischnura elegans	Pyrrhosoma nymphula	0.8	0.153294194390085	Oviposition
+Odonata	Ischnura elegans	Sympecma fusca	0.8	0.196999347684279	Oviposition
+Odonata	Ischnura erratica	Lestes disjunctus	1	0.188925081433225	Assortative
+Odonata	Ischnura genei	Ischnura elegans	0	0.00592592592592593	Fertile F1 Hybrids
+Odonata	Ischnura genei	Ischnura graellsii	0	0.00786163522012579	Fertile F1 Hybrids
+Odonata	Ischnura genei	Ischnura saharensis	0	0.00741839762611276	Fertile F1 Hybrids
+Odonata	Ischnura graellsii	Ischnura saharensis	0	0	Fertile F1 Hybrids
+Odonata	Ischnura perparva	Enallagma anna	1	0.156862745098039	Assortative
+Odonata	Ischnura pumilio	Coenagrion puella	0.8	0.148631029986962	Oviposition
+Odonata	Ischnura pumilio	Enallagma cyathigerum	0.8	0.139281129653402	Oviposition
+Odonata	Ischnura pumilio	Ischnura elegans	1	0.12133072407045	Assortative
+Odonata	Ischnura pumilio	Ischnura graellsii	0.8	0.133437990580848	Oviposition
+Odonata	Lestes barbarus	Chalcolestes viridis	0.6	0.172757475083056	Hybrid Inviability
+Odonata	Lestes barbarus	Lestes dryas	1	0.131578947368421	Assortative
+Odonata	Lestes barbarus	Lestes sponsa	1	0.11185086551265	Assortative
+Odonata	Lestes disjunctus	Chalcolestes viridis	1	0.145896656534954	Assortative
+Odonata	Lestes disjunctus	Enallagma cyathigerum	1	0.167173252279635	Assortative
+Odonata	Lestes dryas	Lestes sponsa	0.8	0.0482456140350877	Oviposition
+Odonata	Lestes inaequalis	Lestes disjunctus	1	0.0228310502283105	Assortative
+Odonata	Lestes rectangularis	Lestes congener	1	0.120060790273556	Assortative
+Odonata	Lestes rectangularis	Lestes unguiculatus	1	0.0258358662613982	Assortative
+Odonata	Lestes sponsa	Ceriagrion tenellum	1	0.14741641337386	Assortative
+Odonata	Lestes sponsa	Chalcolestes viridis	0.6	0.157755775577558	Hybrid Inviability
+Odonata	Lestes sponsa	Enallagma cyathigerum	1	0.174917491749175	Assortative
+Odonata	Lestes sponsa	Erythromma najas	1	0.184840425531915	Assortative
+Odonata	Lestes sponsa	Lestes temporalis	1	0.13548951048951	Assortative
+Odonata	Lestes sponsa	Lestes virens	1	0.126675603217158	Assortative
+Odonata	Lestes sponsa	Sympecma paedisca	1	0.149361022364217	Assortative
+Odonata	Lestes unguiculatus	Lestes dryas	1	0.0455927051671733	Assortative
+Odonata	Lestes virens	Lestes barbarus	1	0.143340094658553	Assortative
+Odonata	Leucorrhinia dubia	Leucorrhinia rubicunda	1	0.0262793914246196	Assortative
+Odonata	Leucorrhinia dubia	Sympetrum danae	1	0.131681877444589	Assortative
+Odonata	Leucorrhinia dubia	Sympetrum frequens	0.8	0.140980735551664	Oviposition
+Odonata	Leucorrhinia glacialis	Leucorrhinia intacta	0	0.0364741641337386	Fertile F1 Hybrids
+Odonata	Leucorrhinia hudsonica	Leucorrhinia proxima	0.8	0.00911854103343465	Oviposition
+Odonata	Leucorrhinia proxima	Sympetrum pallipes	1	0.151975683890578	Assortative
+Odonata	Libellula angelina	Libellula quadrimaculata	0	0.0774647887323944	Fertile F1 Hybrids
+Odonata	Libellula auripennis	Libellula cyanea	1	0.0234375	Assortative
+Odonata	Libellula auripennis	Libellula semifasciata	1	0.121212121212121	Assortative
+Odonata	Libellula flavida	Libellula cyanea	0.8	0.0454545454545455	Oviposition
+Odonata	Libellula fulva	Libellula quadrimaculata	0.8	0.13407455853499	Oviposition
+Odonata	Libellula luctuosa	Tramea carolina	1	0.156534954407295	Assortative
+Odonata	Libellula pulchella	Libellula luctuosa	0	0.0558789289871944	Fertile F1 Hybrids
+Odonata	Libellula semifasciata	Celithemis eponina	1	0.148936170212766	Assortative
+Odonata	Mnais costalis	Mnais pruinosa	0	0	Fertile F1 Hybrids
+Odonata	Nehalennia gracilis	Nehalennia irene	1	0.0998439937597504	Assortative
+Odonata	Onychogomphus forcipatus	Onychogomphus uncatus	1	0.133738601823708	Assortative
+Odonata	Ophiogomphus carolus	Phanogomphus lividus	1	0.146118721461187	Assortative
+Odonata	Ophiogomphus rupinsulensis	Ophiogomphus carolus	0	0	Fertile F1 Hybrids
+Odonata	Ophiogomphus severus	Ophiogomphus occidentis	0.8	0.0182370820668693	Oviposition
+Odonata	Orthetrum albistylum	Orthetrum poecilops	1	0.106430155210643	Assortative
+Odonata	Orthetrum albistylum	Orthetrum triangulare	1	0.10546875	Assortative
+Odonata	Orthetrum brunneum	Onychogomphus forcipatus	1	0.161417322834646	Assortative
+Odonata	Orthetrum cancellatum	Orthetrum albistylum	1	0.0609103078982597	Assortative
+Odonata	Paracercion melanotum	Paracercion plagiosum	1	0.124168514412417	Assortative
+Odonata	Phanogomphus exilis	Phanogomphus spicatus	1	0.0406626506024096	Assortative
+Odonata	Phanogomphus graslinellus	Gomphus lividus	0	0.0243161094224924	Fertile F1 Hybrids
+Odonata	Phanogomphus graslinellus	Phanogomphus lividus	0	0.0197869101978691	Fertile F1 Hybrids
+Odonata	Platycnemis pennipes	Coenagrion puella	1	0.176662320730117	Assortative
+Odonata	Platycnemis pennipes	Platycnemis acutipennis	0.6	0.103794642857143	Hybrid Inviability
+Odonata	Pseudagrion rubriceps	Pseudagrion microcephalum	1	0.148588410104012	Assortative
+Odonata	Pyrrhosoma nymphula	Coenagrion lunulatum	1	0.167173252279635	Assortative
+Odonata	Pyrrhosoma nymphula	Coenagrion mercuriale	1	0.148040638606676	Assortative
+Odonata	Pyrrhosoma nymphula	Coenagrion puella	1	0.147327249022164	Assortative
+Odonata	Pyrrhosoma nymphula	Ischnura pumilio	1	0.163411458333333	Assortative
+Odonata	Pyrrhosoma nymphula	Lestes barbarus	1	0.180730897009967	Assortative
+Odonata	Pyrrhosoma nymphula	Sympecma fusca	1	0.181640625	Assortative
+Odonata	Somatochlora albicincta	Somatochlora hudsonica	1	0.0182370820668693	Assortative
+Odonata	Stylurus plagiatus	Dromogomphus armatus	1	0.155384615384615	Assortative
+Odonata	Sympecma fusca	Sympecma paedisca	1	0.09185303514377	Assortative
+Odonata	Sympetrum croceolum	Sympetrum uniforme	0	0.0133037694013304	Fertile F1 Hybrids
+Odonata	Sympetrum danae	Sympetrum sanguineum	1	0.114583333333333	Assortative
+Odonata	Sympetrum darwinianum	Sympetrum maculatum	0	0.0332594235033259	Fertile F1 Hybrids
+Odonata	Sympetrum depressiusculum	Crocothemis erythraea	1	0.146206896551724	Assortative
+Odonata	Sympetrum depressiusculum	Libellula fulva	1	0.150344827586207	Assortative
+Odonata	Sympetrum depressiusculum	Onychogomphus uncatus	1	0.202127659574468	Assortative
+Odonata	Sympetrum depressiusculum	Orthetrum albistylum	1	0.146206896551724	Assortative
+Odonata	Sympetrum depressiusculum	Orthetrum cancellatum	1	0.140883977900552	Assortative
+Odonata	Sympetrum depressiusculum	Oxygastra curtisii	1	0.163294797687861	Assortative
+Odonata	Sympetrum depressiusculum	Sympetrum fonscolombii	1	0.132413793103448	Assortative
+Odonata	Sympetrum depressiusculum	Sympetrum frequens	0	0.00520833333333333	Fertile F1 Hybrids
+Odonata	Sympetrum eroticum	Sympetrum baccha	0	0.083041958041958	Fertile F1 Hybrids
+Odonata	Sympetrum eroticum	Sympetrum darwinianum	1	0.142482517482517	Assortative
+Odonata	Sympetrum eroticum	Sympetrum parvulum	0	0.0824561403508772	Fertile F1 Hybrids
+Odonata	Sympetrum eroticum	Sympetrum pedemontanum	0	0.109139307897072	Fertile F1 Hybrids
+Odonata	Sympetrum frequens	Pantala flavescens	1	0.161091549295775	Assortative
+Odonata	Sympetrum frequens	Sympetrum infuscatum	0.8	0.145979020979021	Oviposition
+Odonata	Sympetrum infuscatum	Sympetrum maculatum	0.8	0.121951219512195	Oviposition
+Odonata	Sympetrum internum	Sympetrum rubicundulum	0.8	0.0137420718816068	Oviposition
+Odonata	Sympetrum kunckeli	Sympetrum darwinianum	0.8	0.133741258741259	Oviposition
+Odonata	Sympetrum kunckeli	Sympetrum eroticum	0	0.0804195804195804	Fertile F1 Hybrids
+Odonata	Sympetrum meridionale	Sympetrum striolatum	1	0.129557291666667	Assortative
+Odonata	Sympetrum obtrusum	Sympetrum danae	1	0.124203821656051	Assortative
+Odonata	Sympetrum risi	Sympetrum eroticum	1	0.157342657342657	Assortative
+Odonata	Sympetrum risi	Sympetrum infuscatum	0.8	0.108391608391608	Oviposition
+Odonata	Sympetrum rubicundulum	Sympetrum obtrusum	1	0.00743099787685775	Assortative
+Odonata	Sympetrum sanguineum	Crocothemis erythraea	1	0.15814266487214	Assortative
+Odonata	Sympetrum sanguineum	Sympetrum flaveolum	1	0.123100303951368	Assortative
+Odonata	Sympetrum sanguineum	Sympetrum meridionale	1	0.110026041666667	Assortative
+Odonata	Sympetrum sanguineum	Sympetrum striolatum	0.8	0.115234375	Oviposition
+Odonata	Sympetrum sanguineum	Sympetrum vulgatum	1	0.115234375	Assortative
+Odonata	Sympetrum vulgatum	Sympetrum danae	0.6	0.124348958333333	Hybrid Inviability
+Odonata	Sympetrum vulgatum	Sympetrum striolatum	0.6	0.0911458333333333	Hybrid Inviability
+Odonata	Trigomphus interruptus	Trigomphus ogumai	1	0.00665188470066519	Assortative
+Lepidoptera	Busseola fusca	Busseola nairobica	1	0.0714285714285714	Assortative
+Lepidoptera	Busseola segeta	Busseola nairobica	1	0.0440729483282675	Assortative
+Lepidoptera	Colias eurytheme	Colias philodice	0	0	Fertile F1 Hybrids
+Lepidoptera	Danaus erippus	Danaus plexippus	1	0.0353982300884956	Assortative
+Lepidoptera	Earias vittella	Earias insulana	0.8	0.0508221225710015	Oviposition
+Lepidoptera	Heliconius elevatus	Heliconius pardalinus	1	0.00597609561752988	Assortative
+Lepidoptera	Heliconius erato	Heliconius himera	0	0.0401633764465623	Fertile F1 Hybrids
+Lepidoptera	Malacosoma americanum	Malacosoma disstria	0.6	0.0641221374045802	Hybrid Inviability
+Lepidoptera	Ostrinia furnacalis	Ostrinia nubilalis	0	0.0216110019646365	Fertile F1 Hybrids
+Lepidoptera	Ostrinia furnacalis	Ostrinia scapulalis	0	0.0165118679050568	Fertile F1 Hybrids
+Lepidoptera	Ostrinia nubilalis	Ostrinia scapulalis	0	0.00413223140495868	Fertile F1 Hybrids
+Lepidoptera	Spodoptera exigua	Spodoptera litura	1	0.0674525212835625	Assortative
+>>>>>>> 26d0d1df842ca1df2913430c4ee9d107bff7f158
