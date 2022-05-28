@@ -213,15 +213,15 @@ unique(orders$Barrier)
 orders$Barrier <- factor(orders$Barrier, levels = unique(orders$Barrier))
 
 # Creating table
-isolation.table <- as.data.frame(prop.table(table(orders$Barrier, orders$Order), margin = 2))
-abs.table <- as.data.frame(table(orders$Barrier, orders$Order), margin = 2)
+isolation.table <- as.data.frame(prop.table(table(factor(as.character(orders[orders$Barrier!="No Barriers (Fertile F1 Hybrids)","Barrier"])), orders[orders$Barrier!="No Barriers (Fertile F1 Hybrids)","Order"]), margin = 2))
+abs.table <- as.data.frame(table(factor(as.character(orders[orders$Barrier!="No Barriers (Fertile F1 Hybrids)","Barrier"])), orders[orders$Barrier!="No Barriers (Fertile F1 Hybrids)","Order"]), margin = 2)
 isolation.table <- cbind(isolation.table, abs=abs.table$Freq)
 rm(abs.table)
 colnames(isolation.table)[1:2] <- c("Barrier","Order")
 
 # Widening table for labels
 wide.table <- spread(isolation.table[,-4], Order, Freq)
-wide.table <- wide.table[order(nrow(wide.table):1),]
+wide.table <- wide.table[rev(c(3,5,4,2,1)),]
 row.names(wide.table) <- wide.table$Barrier
 wide.table <- wide.table[,-1]
 
@@ -230,8 +230,8 @@ wide.table <- as.data.frame(apply(wide.table, 2, cumsum))
 
 # Now we will average each consecutive row to place the % at the middle of each bar
 # Adding 0
-wide.table[7,] <- rep(0, ncol(wide.table))
-wide.table <- wide.table[c(7,1:6),]
+wide.table[6,] <- rep(0, ncol(wide.table))
+wide.table <- wide.table[c(6,1:5),]
 row.names(wide.table)[1] <- "Zero"
 
 # Averaging
@@ -240,8 +240,8 @@ for(i in 1:ncol(wide.table)) {
     wide.table[n,i] <- (wide.table[n,i] + wide.table[n+1,i]) / 2
   }
 }
-row.names(wide.table) <- c(row.names(wide.table)[2:7],"DEL")
-wide.table <- wide.table[-7,]
+row.names(wide.table) <- c(row.names(wide.table)[2:6],"DEL")
+wide.table <- wide.table[-6,]
 
 # Returning to tidy table
 wide.table$Barrier <- row.names(wide.table)
@@ -253,8 +253,8 @@ isolation.table <- isolation.table[order(isolation.table$Barrier, isolation.tabl
 wide.table <- wide.table[order(wide.table$Barrier, wide.table$Order),]
 isolation.table$CumSum <- wide.table$Freq
 rm(wide.table)
-isolation.table$Barrier <- factor(isolation.table$Barrier, levels = unique(orders$Barrier))
-isolation.table <- isolation.table[order(isolation.table$Barrier),]
+isolation.table$Barrier <- factor(isolation.table$Barrier, levels = unique(as.character(orders[orders$Barrier!="No Barriers (Fertile F1 Hybrids)","Barrier"])))
+isolation.table <- isolation.table[order(isolation.table$Order, isolation.table$Barrier),]
 
 # Plotting
 png("../figures/03_Bar-Plots.png", width = 32, height = 16, units = "cm", res = 300)
@@ -264,7 +264,7 @@ ggplot(isolation.table) +
                    aes(x=Order, y=CumSum, label=paste0(round(Freq*100,1), "% (",abs,")")), 
                    family="serif", size=5) +
   scale_y_continuous(labels = scales::percent) +
-  scale_fill_manual(values = c('#f6eff7','#d0d1e6','#a6bddb','#67a9cf','#1c9099','#016c59')) +
+  scale_fill_manual(values = c('#f6eff7','#bdc9e1','#67a9cf','#1c9099','#016c59')) +
   labs(y="Frequency of Reproductive Barriers") +
   theme_classic() +
   theme(text = element_text(family = "serif", size = 24),
