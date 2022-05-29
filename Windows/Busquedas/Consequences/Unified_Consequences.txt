@@ -33,10 +33,10 @@ General	Lepidoptera	Plebejus idas	Plebejus melissa	Hibridacion introgresiva	Intr
 General	Lepidoptera	Plebejus idas	Plebejus melissa	extincion local	Local Extinction	Y
 General	Lepidoptera	Leptidea reali	Leptidea sinapis	Hibridacion introgresiva (unidireccional)	Introgression	Y
 General	Lepidoptera	Heliconius cydno	Heliconius pachinus	Hibridacion introgresiva	Introgression	Y
-General	Lepidoptera	Aricia agestis	Aricia artaxerxes	Cambios en el voltinismo	Fenological Changes	Y
+General	Lepidoptera	Aricia agestis	Aricia artaxerxes	Cambios en el voltinismo	Phenological Changes	Y
 General	Lepidoptera	Papilio canadensis	Papilio glaucus	Hibridación introgresiva	Introgression	Y
 General	Lepidoptera	Papilio canadensis	Papilio glaucus	Especiacion hibrida	Hybrid Speciation	Y
-General	Lepidoptera	Papilio canadensis	Papilio glaucus	Cambios en el voltinismo	Fenological Changes	Y
+General	Lepidoptera	Papilio canadensis	Papilio glaucus	Cambios en el voltinismo	Phenological Changes	Y
 General	Lepidoptera	Papilio canadensis	Papilio glaucus	Adaptacion local	Local Adaptation	Y
 General	Lepidoptera	Tatochila mercedis	Tatochila sterodice	Hibridación introgresiva	Introgression	Y
 General	Lepidoptera	Tatochila mercedis	Tatochila vanvolxemii	Hibridación introgresiva	Introgression	Y
@@ -48,7 +48,7 @@ General	Lepidoptera	Papilio hospiton	Papilio machaon	Hibridación introgresiva	In
 General	Lepidoptera	Choristoneura fumiferana	Choristoneura pinus	Hibridación introgresiva	Introgression	Y
 General	Diptera	Glyptotendipes glaucus	Glyptotendipes pallens	Hibridación introgresiva 	Introgression	Y
 General	Diptera	Glyptotendipes pallens	Glyptotendipes glaucus	Hibridación introgresiva 	Introgression	Y
-General	Diptera	Lucilia sericata	Lucilia cuprina	Cambios fenologicos 	Fenological Changes	Y
+General	Diptera	Lucilia sericata	Lucilia cuprina	Cambios fenologicos 	Phenological Changes	Y
 General	Diptera	Lutzomyia longipalpis	Lutzomyia cruzi	Hibridación introgresiva 	Introgression	Y
 General	Diptera	Phlebotomus perniciosus	Phlebotomus longicuspis	Hibridación introgresiva 	Introgression	Y
 General	Diptera	Anopheles gambiae	Anopheles arabiensis	Hibridación introgresiva 	Introgression	Y
@@ -73,7 +73,7 @@ General	Hymenoptera	Lasius emarginatus	Lasius platythorax	Introgresión debil	Int
 General	Hymenoptera	Lasius niger	Lasius psammophilus 	Hibridación introgresiva	Introgression	Y
 General	Hymenoptera	Lasius umbratus	Lasius jensi	Hibridación introgresiva	Introgression	Y
 General	Hymenoptera	Lasius umbratus	Lasius meridionalis	Hibridación introgresiva	Introgression	Y
-General	Orthoptera	Melanoplus sanguinipes	Melanoplus devastator	Cambios fenologicos y de 	Fenological Changes	Y
+General	Orthoptera	Melanoplus sanguinipes	Melanoplus devastator	Cambios fenologicos y de 	Phenological Changes	Y
 General	Orthoptera	Melanoplus sanguinipes	Melanoplus devastator	tamaño corporal	Morphological Changes	Y
 General	Orthoptera	Orchelimum nigripes	Orchelimum pulchellum	Hibridacion introgresiva	Introgression	Y
 General	Orthoptera	Phaulacridium marginale	Phaulacridium otagoense	Hibridacion introgresiva	Introgression	Y
@@ -90,9 +90,9 @@ Climate Change	Hymenoptera	Solenopsis invicta	S. richteri	adaptacion a diferente
 Climate Change	Lepidoptera	Hyles euphorbiae	H. tithymali	Introgresion	Introgression	Y
 Climate Change	Lepidoptera	Hyles euphorbiae	H. tithymali	cambios en la morfología larval	Morphological Changes	Y
 Climate Change	Lepidoptera	Polyommatus agestis	P. artaxerxes	Introgresión	Introgression	Y
-Climate Change	Lepidoptera	Polyommatus agestis	P. artaxerxes	cambios en el voltinismo	Fenological Changes	Y
+Climate Change	Lepidoptera	Polyommatus agestis	P. artaxerxes	cambios en el voltinismo	Phenological Changes	Y
 Climate Change	Lepidoptera	Helicoverpa armigera	H. zea	Introgression	Introgression	Y
-Climate Change	Lepidoptera	Papilio glaucus	P. canadensis	"Cambios en el voltinismo, plantas hospederas y "	Fenological Changes	Y
+Climate Change	Lepidoptera	Papilio glaucus	P. canadensis	"Cambios en el voltinismo, plantas hospederas y "	Phenological Changes	Y
 Climate Change	Lepidoptera	Papilio glaucus	P. canadensis	especiacion hibrida	Hybrid Speciation	Y
 Climate Change	Odonata	Anax imperator 	 A. partenophe	Hybridization	Hybridization	N
 Climate Change	Odonata	Calopteryx splendens 	C. virgo	Unidirectional introgression	Introgression	Y

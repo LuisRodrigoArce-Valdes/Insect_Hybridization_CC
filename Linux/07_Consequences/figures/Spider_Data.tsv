@@ -1,0 +1,97 @@
+Order	Group	Consequence	Freq	rel
+Diptera	Climate Change	Hybrid Speciation	0	0
+Diptera	Climate Change	Introgression	0	0
+Diptera	Climate Change	Local Adaptation	0	0
+Diptera	Climate Change	Local Extinction	0	0
+Diptera	Climate Change	Morphological Changes	0	0
+Diptera	Climate Change	Phenological Changes	0	0
+Diptera	Climate Change	Reinforcement	1	1
+Diptera	Climate Change	Species Fussion	0	0
+Diptera	General	Hybrid Speciation	2	0.153846153846154
+Diptera	General	Introgression	10	0.769230769230769
+Diptera	General	Local Adaptation	0	0
+Diptera	General	Local Extinction	0	0
+Diptera	General	Morphological Changes	0	0
+Diptera	General	Phenological Changes	1	0.0769230769230769
+Diptera	General	Reinforcement	0	0
+Diptera	General	Species Fussion	0	0
+Hymenoptera	Climate Change	Hybrid Speciation	0	0
+Hymenoptera	Climate Change	Introgression	2	0.5
+Hymenoptera	Climate Change	Local Adaptation	2	0.5
+Hymenoptera	Climate Change	Local Extinction	0	0
+Hymenoptera	Climate Change	Morphological Changes	0	0
+Hymenoptera	Climate Change	Phenological Changes	0	0
+Hymenoptera	Climate Change	Reinforcement	0	0
+Hymenoptera	Climate Change	Species Fussion	0	0
+Hymenoptera	General	Hybrid Speciation	1	0.0833333333333333
+Hymenoptera	General	Introgression	9	0.75
+Hymenoptera	General	Local Adaptation	1	0.0833333333333333
+Hymenoptera	General	Local Extinction	0	0
+Hymenoptera	General	Morphological Changes	0	0
+Hymenoptera	General	Phenological Changes	0	0
+Hymenoptera	General	Reinforcement	0	0
+Hymenoptera	General	Species Fussion	1	0.0833333333333333
+Lepidoptera	Climate Change	Hybrid Speciation	1	0.142857142857143
+Lepidoptera	Climate Change	Introgression	3	0.428571428571429
+Lepidoptera	Climate Change	Local Adaptation	0	0
+Lepidoptera	Climate Change	Local Extinction	0	0
+Lepidoptera	Climate Change	Morphological Changes	1	0.142857142857143
+Lepidoptera	Climate Change	Phenological Changes	2	0.285714285714286
+Lepidoptera	Climate Change	Reinforcement	0	0
+Lepidoptera	Climate Change	Species Fussion	0	0
+Lepidoptera	General	Hybrid Speciation	4	0.173913043478261
+Lepidoptera	General	Introgression	17	0.739130434782609
+Lepidoptera	General	Local Adaptation	0	0
+Lepidoptera	General	Local Extinction	1	0.0434782608695652
+Lepidoptera	General	Morphological Changes	0	0
+Lepidoptera	General	Phenological Changes	1	0.0434782608695652
+Lepidoptera	General	Reinforcement	0	0
+Lepidoptera	General	Species Fussion	0	0
+Odonata	Climate Change	Hybrid Speciation	0	0
+Odonata	Climate Change	Introgression	5	0.555555555555556
+Odonata	Climate Change	Local Adaptation	0	0
+Odonata	Climate Change	Local Extinction	1	0.111111111111111
+Odonata	Climate Change	Morphological Changes	0	0
+Odonata	Climate Change	Phenological Changes	0	0
+Odonata	Climate Change	Reinforcement	3	0.333333333333333
+Odonata	Climate Change	Species Fussion	0	0
+Odonata	General	Hybrid Speciation	0	0
+Odonata	General	Introgression	4	1
+Odonata	General	Local Adaptation	0	0
+Odonata	General	Local Extinction	0	0
+Odonata	General	Morphological Changes	0	0
+Odonata	General	Phenological Changes	0	0
+Odonata	General	Reinforcement	0	0
+Odonata	General	Species Fussion	0	0
+Orthoptera	Climate Change	Hybrid Speciation	0	0
+Orthoptera	Climate Change	Introgression	0	0
+Orthoptera	Climate Change	Local Adaptation	0	0
+Orthoptera	Climate Change	Local Extinction	2	0.5
+Orthoptera	Climate Change	Morphological Changes	2	0.5
+Orthoptera	Climate Change	Phenological Changes	0	0
+Orthoptera	Climate Change	Reinforcement	0	0
+Orthoptera	Climate Change	Species Fussion	0	0
+Orthoptera	General	Hybrid Speciation	0	0
+Orthoptera	General	Introgression	1	0.166666666666667
+Orthoptera	General	Local Adaptation	1	0.166666666666667
+Orthoptera	General	Local Extinction	0	0
+Orthoptera	General	Morphological Changes	1	0.166666666666667
+Orthoptera	General	Phenological Changes	1	0.166666666666667
+Orthoptera	General	Reinforcement	2	0.333333333333333
+Orthoptera	General	Species Fussion	0	0
+Insects	Climate Change	Hybrid Speciation	1	0.04
+Insects	Climate Change	Introgression	10	0.4
+Insects	Climate Change	Local Adaptation	2	0.08
+Insects	Climate Change	Local Extinction	3	0.12
+Insects	Climate Change	Morphological Changes	3	0.12
+Insects	Climate Change	Phenological Changes	2	0.08
+Insects	Climate Change	Reinforcement	4	0.16
+Insects	Climate Change	Species Fussion	0	0
+Insects	General	Hybrid Speciation	7	0.120689655172414
+Insects	General	Introgression	41	0.706896551724138
+Insects	General	Local Adaptation	2	0.0344827586206897
+Insects	General	Local Extinction	1	0.0172413793103448
+Insects	General	Morphological Changes	1	0.0172413793103448
+Insects	General	Phenological Changes	3	0.0517241379310345
+Insects	General	Reinforcement	2	0.0344827586206897
+Insects	General	Species Fussion	1	0.0172413793103448

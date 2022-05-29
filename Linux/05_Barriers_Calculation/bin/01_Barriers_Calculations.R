@@ -468,6 +468,9 @@ print("ALL INSECTS")
 summary(reg)
 sink()
 
+# Wrtitting table
+write.table(orders, "../figures/07_Insects_Scatterplot_data.tsv", sep = "\t", quote = F, row.names = F)
+
 # Plotting
 png("../figures/07_Insects_Scatterplot.png", width = 24, height = 16, units = "cm", res = 300)
 ggplot(orders) +

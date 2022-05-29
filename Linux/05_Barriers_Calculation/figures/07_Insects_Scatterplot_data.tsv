@@ -1,0 +1,162 @@
+Order	Sp1	Sp2	RI	Gen
+Odonata	Aeshna canadensis	Average	0.9	0.0531914893617021
+Odonata	Aeshna cyanea	Average	0.966666666666667	0.113613148508531
+Odonata	Aeshna juncea	Average	0.933333333333333	0.0685085769061982
+Odonata	Aeshna subarctica	Aeshna mixta	1	0.0729641693811075
+Odonata	Aeshna viridis	Aeshna grandis	1	0.0300500834724541
+Diptera	Anastrepha striata	Anastrepha bistrigata	0.8	0.0218068535825545
+Odonata	Anax imperator	Average	0.4	0.0874831334332836
+Odonata	Anax junius	Average	0.9	0.0240536771848463
+Odonata	Anax parthenope	Anax nigrofasciatus	0	0.0201450443190975
+Diptera	Anopheles coluzzii	Average	0.1	0.0251948356314843
+Diptera	Anopheles merus	Anopheles gambiae	0.2	0.0182309250506415
+Diptera	Anopheles sinensis	Anopheles pullus	0.4	0.0493653032440056
+Hymenoptera	Aphidius microlophii	Aphidius eadyi	1	0.0603829160530191
+Hymenoptera	Apis mellifera	Apis cerana	0.6	0.10864040660737
+Odonata	Argia emma	Average	1	0.152644693623287
+Odonata	Argia moesta	Average	0.8	0.176538785303472
+Diptera	Bactrocera tryoni	Bactrocera neohumeralis	0	0.00736771600803751
+Odonata	Boyeria vinosa	Boyeria grafiana	1	0
+Lepidoptera	Busseola fusca	Average	1	0.064200042835725
+Lepidoptera	Busseola segeta	Busseola nairobica	1	0.0440729483282675
+Odonata	Calopteryx maculata	Average	0.7	0.148401826484018
+Odonata	Calopteryx splendens	Average	0.7	0.153574023518866
+Odonata	Chalcolestes viridis	Average	0.955555555555555	0.133778992559846
+Diptera	Chironomus riparius	Chironomus piger	0	0.146017699115044
+Orthoptera	Chorthippus biguttulus	Average	0.2	0.00227963525835867
+Orthoptera	Chorthippus jacobsi	Chorthippus brunneus	0	0.00871080139372822
+Orthoptera	Chorthippus oschei	Chorthippus albomarginatus	0	0.0121739130434783
+Orthoptera	Chorthippus parallelus	Chorthippus montanus	0	0.0440729483282675
+Odonata	Coenagrion puella	Average	0.733333333333333	0.126443890015427
+Lepidoptera	Colias philodice	Colias eurytheme	0	0
+Odonata	Copera marginipes	Ceriagrion cerinorubellum	0.8	0.162995594713656
+Odonata	Cordulegaster diastatops	Cordulegaster bilineata	0	0.0559210526315789
+Odonata	Cordulia aenea	Average	0.8	0.122107951312265
+Odonata	Crocothemis erythraea	Average	1	0.15521329466817
+Orthoptera	Cyphoderris monstrosa	Cyphoderris buckelli	0.8	0.0721804511278196
+Lepidoptera	Dahlica charlottae	Average	0.7	0.0433130699088146
+Lepidoptera	Dahlica lazuri	Average	0.6	0.0405268490374873
+Lepidoptera	Dahlica lichenella	Average	0.7	0.0568425844603139
+Lepidoptera	Danaus genutia	Danaus chrysippus	0.8	0.0843205574912892
+Lepidoptera	Danaus plexippus	Danaus erippus	1	0.0353982300884956
+Diptera	Drosophila mojavensis	Drosophila arizonae	0.8	0.0227963525835866
+Diptera	Drosophila neotestacea	Average	0.6	0.0517358167341124
+Diptera	Drosophila ogumai	Drosophila lini	0.2	0.0137075718015666
+Diptera	Drosophila ohnishii	Drosophila ogumai	0.2	0.0143509458577952
+Diptera	Drosophila silvestris	Drosophila heteroneura	0	0.00621546961325967
+Diptera	Drosophila testacea	Drosophila orientacea	0	0.0428994082840237
+Diptera	Drosophila trilutea	Drosophila nepalensis	0.2	0.00764525993883792
+Lepidoptera	Earias vittella	Earias insulana	0.8	0.0508221225710015
+Odonata	Elattoneura glauca	Allocnemis leucosticta	1	0.185410334346505
+Odonata	Enallagma anna	Average	0.333333333333333	0.0871459694989106
+Odonata	Enallagma aspersum	Average	1	0.00837138508371385
+Odonata	Enallagma basidens	Argia sedula	1	0.18960244648318
+Odonata	Enallagma boreale	Average	1	0.0350704192672684
+Odonata	Enallagma carunculatum	Average	0.833333333333333	0.124184333796114
+Odonata	Enallagma civile	Argia vivida	1	0.17487684729064
+Odonata	Enallagma cyathigerum	Average	0.8	0.250319135301943
+Odonata	Enallagma hageni	Enallagma ebrium	0	0
+Odonata	Enallagma pollutum	Enallagma dubium	1	0.0357142857142857
+Odonata	Epitheca canis	Dorocordulia libera	1	0.113981762917933
+Odonata	Epitheca spinigera	Epitheca cynosura	1	0.0121580547112462
+Odonata	Erythromma najas	Average	1	0.174534574468085
+Lepidoptera	Etiella zinckenella	Etiella hobsoni	1	0.0547112462006079
+Odonata	Gomphurus fraternus	Gomphurus externus	0	0.00759878419452888
+Odonata	Gomphus crassus	Gomphurus vastus	1	0.0060790273556231
+Odonata	Gomphus fraternus	Gomphus externus	0	0.00759878419452888
+Odonata	Gomphus vulgatissimus	Gomphus simillimus	0.8	0.0654490106544901
+Lepidoptera	Heliconius cydno	Average	0.1	0.019574155353332
+Lepidoptera	Heliconius himera	Heliconius erato	0	0.0401633764465623
+Lepidoptera	Heliconius pardalinus	Heliconius elevatus	1	0.00597609561752988
+Lepidoptera	Heliconius timareta	Heliconius melpomene	0	0.0243741765480896
+Lepidoptera	Helicoverpa assulta	Helicoverpa armigera	1	0.0552665799739922
+Lepidoptera	Heliothis subflexa	Chloridea virescens	0.2	0.0516002612671457
+Odonata	Hetaerina americana	Average	0.9	0.203813757957931
+Odonata	Ischnura cervula	Enallagma hageni	1	0.122291021671827
+Odonata	Ischnura demorsa	Ischnura damula	0	0.00415800415800416
+Odonata	Ischnura elegans	Average	0.816666666666667	0.133018692598277
+Odonata	Ischnura gemina	Ischnura denticollis	0	0.0388768898488121
+Odonata	Ischnura genei	Average	0	0.00764001642311928
+Odonata	Ischnura graellsii	Average	0.4	0.066718995290424
+Odonata	Ischnura ramburii	Ischnura barberi	0.8	0.122916666666667
+Lepidoptera	Leptidea juvernica	Average	1	0.026568951279934
+Lepidoptera	Leptidea sinapis	Leptidea reali	1	0.0115440115440115
+Odonata	Lestes barbarus	Average	1	0.141875201137398
+Odonata	Lestes disjunctus	Ischnura erratica	1	0.188925081433225
+Odonata	Lestes dryas	Average	0.95	0.110085719618194
+Odonata	Lestes inaequalis	Lestes disjunctus	1	0.0228310502283105
+Odonata	Lestes rectangularis	Lestes congener	1	0.120060790273556
+Odonata	Lestes sponsa	Average	1	0.142295896032077
+Odonata	Lestes unguiculatus	Lestes rectangularis	1	0.0258358662613982
+Odonata	Leucorrhinia dubia	Average	0.933333333333333	0.0996473348069575
+Odonata	Leucorrhinia intacta	Leucorrhinia glacialis	0	0.0364741641337386
+Odonata	Leucorrhinia proxima	Leucorrhinia hudsonica	0.8	0.00911854103343465
+Odonata	Libellula auripennis	Average	1	0.0723248106060605
+Odonata	Libellula flavida	Libellula cyanea	0.8	0.0454545454545455
+Odonata	Libellula fulva	Average	0.9	0.142209693060598
+Odonata	Libellula luctuosa	Average	0.5	0.106206941697245
+Odonata	Libellula quadrimaculata	Average	0.5	0.115525357830338
+Odonata	Libellula semifasciata	Celithemis eponina	1	0.148936170212766
+Diptera	Liriomyza trifolii	Liriomyza sativae	0.4	0.0772251308900524
+Lepidoptera	Lycaeides melissa	Lycaeides idas	0	0.00980392156862745
+Lepidoptera	Lymantria monacha	Lymantria fumida	1	0.118263473053892
+Lepidoptera	Malacosoma disstria	Malacosoma americanum	0.6	0.0641221374045802
+Odonata	Mnais pruinosa	Mnais costalis	0	0
+Hymenoptera	Nasonia vitripennis	Average	0.8	0.0968297725706409
+Odonata	Nehalennia irene	Nehalennia gracilis	1	0.0998439937597504
+Hymenoptera	Neodiprion pinetum	Neodiprion lecontei	0	0.00674373795761079
+Odonata	Onychogomphus forcipatus	Average	1	0.147577962329177
+Odonata	Ophiogomphus carolus	Average	0.5	0.0730593607305935
+Odonata	Ophiogomphus rupinsulensis	Gomphus crassus	1	0.145896656534954
+Odonata	Ophiogomphus severus	Ophiogomphus occidentis	0.8	0.0182370820668693
+Odonata	Orthetrum albistylum	Average	0.9	0.137638084428001
+Lepidoptera	Ostrinia furnacalis	Average	0	0.0190614349348467
+Lepidoptera	Ostrinia scapulalis	Ostrinia nubilalis	0	0.00413223140495868
+Lepidoptera	Papilio glaucus	Papilio canadensis	0	0.0157103825136612
+Odonata	Paracercion plagiosum	Paracercion melanotum	1	0.124168514412417
+Odonata	Phanogomphus graslinellus	Gomphus lividus	0	0.0243161094224924
+Odonata	Phanogomphus lividus	Phanogomphus graslinellus	0	0.0197869101978691
+Odonata	Phanogomphus spicatus	Phanogomphus exilis	1	0.0406626506024096
+Diptera	Phlebotomus papatasi	Average	0.3	0.0527354012385876
+Lepidoptera	Pieris napi	Pieris microstriata	0.2	0.0120481927710843
+Lepidoptera	Pieris virginiensis	Average	0.6	0.020516717325228
+Odonata	Platycnemis pennipes	Average	0.8	0.136035252463055
+Lepidoptera	Platyptilia williamsii	Platyptilia carduidactyla	1	0.0699088145896656
+Lepidoptera	Plutella xylostella	Plutella australiana	1	0.0649180327868853
+Odonata	Pseudagrion rubriceps	Pseudagrion microcephalum	1	0.148588410104012
+Odonata	Pyrrhosoma nymphula	Average	1	0.167019618554911
+Diptera	Rhagoletis basiola	Average	1	0.083233235710556
+Diptera	Rhagoletis indifferens	Average	1	0.0636372979118359
+Diptera	Rhagoletis pomonella	Average	1	0.0958713390179308
+Diptera	Rhagoletis suavis	Rhagoletis berberis	1	0.0532544378698225
+Diptera	Rhagoletis zephyria	Rhagoletis mendax	0	0.00439882697947214
+Diptera	Rhagoletis zoqui	Rhagoletis completa	0	0.002
+Diptera	Sepsis neocynipsea	Sepsis cynipsea	0.2	0.00574712643678161
+Diptera	Sepsis pyrrhosoma	Sepsis flavimana	1	0.0641940085592011
+Lepidoptera	Sesamia nonagrioides	Sesamia cretica	1	0.0816326530612245
+Lepidoptera	Siederia rupicolella	Siederia listerella	0.8	0.0486322188449848
+Odonata	Somatochlora hudsonica	Somatochlora albicincta	1	0.0182370820668693
+Odonata	Somatochlora metallica	Cordulegaster boltonii	1	0.195862068965517
+Lepidoptera	Spodoptera litura	Average	0.8	0.0504883211487313
+Orthoptera	Stenobothrus rubicundulus	Stenobothrus clavatus	0	0.00104712041884817
+Odonata	Stylurus plagiatus	Average	1	0.155959784895955
+Odonata	Sympecma fusca	Pyrrhosoma nymphula	1	0.181640625
+Odonata	Sympecma paedisca	Sympecma fusca	1	0.09185303514377
+Odonata	Sympetrum danae	Average	0.866666666666667	0.121045371107572
+Odonata	Sympetrum darwinianum	Average	0.6	0.103161066575701
+Odonata	Sympetrum depressiusculum	Average	0.875	0.143779374595318
+Odonata	Sympetrum eroticum	Average	0.125	0.0951906897722523
+Odonata	Sympetrum frequens	Pantala flavescens	1	0.161091549295775
+Odonata	Sympetrum infuscatum	Average	0.8	0.130575217465461
+Odonata	Sympetrum meridionale	Average	1	0.119791666666667
+Odonata	Sympetrum pallipes	Leucorrhinia proxima	1	0.151975683890578
+Odonata	Sympetrum rubicundulum	Average	0.9	0.0105865348792323
+Odonata	Sympetrum sanguineum	Average	0.95	0.119167339475684
+Odonata	Sympetrum uniforme	Sympetrum croceolum	0	0.0133037694013304
+Odonata	Sympetrum vulgatum	Sympetrum striolatum	0.6	0.0911458333333333
+Lepidoptera	Trichoplusia ni	Chrysodeixis includens	1	0.0596125186289121
+Odonata	Trigomphus ogumai	Trigomphus interruptus	1	0.00665188470066519
+Hymenoptera	Trissolcus plautiae	Trissolcus japonicus	0.8	0.123867069486405
+Odonata	Trithemis arteriosa	Diplacodes lefebvrii	1	0.170212765957447
+Diptera	Urophora quadrifasciata	Urophora affinis	1	0.0425531914893617
+Odonata	Xanthocnemis zealandica	Ischnura aurora	1	0.146645865834633

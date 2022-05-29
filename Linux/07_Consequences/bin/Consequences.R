@@ -181,6 +181,14 @@ consequences <- cbind(abs, rel=rel$Freq)
 colnames(consequences)[1:3] <- c("Consequence","Order","Group") 
 rm(abs, rel, abs.all, rel.all)
 
+# Output directory
+dir.create("../figures/", showWarnings = F)
+
+# Writing table
+exp.table <- consequences[,c(2,3,1,4,5)]
+exp.table <- exp.table[order(exp.table$Order, exp.table$Group, exp.table$Consequence),]
+write.table(exp.table, "../figures/Spider_Data.tsv", sep = "\t", quote = F, row.names = F)
+
 # Subsetting
 insects <- list()
 for (i in c(unique(consequences$Order))) {
@@ -193,15 +201,12 @@ for (i in c(unique(consequences$Order))) {
   # Adding maximum and minimum
   insects[[i]] <- rbind(rep(1,ncol(insects[[i]])), rep(0,ncol(insects[[i]])), insects[[i]])
   # Ordering columns
-  insects[[i]] <- insects[[i]][,c(1,8,7,6,5,4,3,2)]
+  insects[[i]] <- insects[[i]][,c(1,8,5,4,6,7,3,2)]
 }
 
 # Color vector
 colors_border=c(rgb(0.8,0.2,0.5,0.9), rgb(0.2,0.5,0.5,0.9))
 colors_in=c(rgb(0.8,0.2,0.5,0.4), rgb(0.2,0.5,0.5,0.4))
-
-# Plotting
-dir.create("../figures/", showWarnings = F)
 
 # Spider plot
 png("../figures/01_SpiderPlot.png", width = 32, height = 26, units = "cm", res = 300)
@@ -213,6 +218,6 @@ for(i in unique(consequences$Order)) {
              #custom the grid
              cglcol="grey", cglty=1, axislabcol="grey", cglwd=0.8,
              #custom labels
-             vlcex=2.0, title = i)
+             vlcex=1.7, title = i)
 }
 dev.off()
