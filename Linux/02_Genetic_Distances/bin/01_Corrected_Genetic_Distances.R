@@ -63,7 +63,7 @@ rm(hybrids)
 distances <- list()
 distances[["consensus"]] <- consensus
 #distances[["longest"]] <- longest
-rm(consensus, longest)
+rm(consensus)
 
 # For looping in both datasets
 for (u in 1:length(distances)) {
@@ -217,9 +217,6 @@ for (i in 1:nrow(COIs)) {
     Family <- append(Family, species[species$Species==sp,"Family"][1])
 }
 
-# Tiny fix
-Condition[Condition=="FIeld"] <- "Field"
-
 # Adding columns
 COIs <- data.frame(COIs, Suborder=Suborder, Family=Family)
 
@@ -295,12 +292,12 @@ ggplot(COIs) +
   stat_summary(aes(y=Distance, x="Insects"), fun=function(x) mean(x)+sd(x), geom='point', color="white", size=1, shape=3) +
   stat_summary(aes(y=Distance, x="Insects"), fun=function(x) mean(x)-sd(x), geom='point', color="white", size=1, shape=3) +
   theme_classic() +
-  labs(y = "Genetic Distance", x = "All Insects") +
+  labs(y = "Genetic Distance", x = "Studied Insects Orders") +
   theme(text = element_text(size = 24, family = "serif"),
+        axis.title.x = element_text(size = 18),
         legend.position = "none",
         axis.text.x = element_blank())
 dev.off()
-
 
 # Statistical testing:
 sink("../figures/06_Distances_testing.txt", append = F, split = T)

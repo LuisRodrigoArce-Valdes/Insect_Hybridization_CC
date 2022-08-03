@@ -1,28 +1,28 @@
 Order	Sp1	Sp2	RI	Gen	Barrier
 Orthoptera	Chorthippus albomarginatus	Chorthippus oschei	0	0.0121739130434783	No Barriers (Fertile F1 Hybrids)
-Orthoptera	Chorthippus biguttulus	Chorthippus brunneus	0.2	0.00303951367781155	Haldane's Rule
-Orthoptera	Chorthippus biguttulus	Chorthippus mollis	0.2	0.00151975683890578	Haldane's Rule
+Orthoptera	Chorthippus biguttulus	Chorthippus brunneus	0.2	0.00303951367781155	Partial Hybrid Sterility
+Orthoptera	Chorthippus biguttulus	Chorthippus mollis	0.2	0.00151975683890578	Partial Hybrid Sterility
 Orthoptera	Chorthippus brunneus	Chorthippus jacobsi	0	0.00871080139372822	No Barriers (Fertile F1 Hybrids)
 Orthoptera	Chorthippus parallelus	Chorthippus montanus	0	0.0440729483282675	No Barriers (Fertile F1 Hybrids)
 Orthoptera	Cyphoderris buckelli	Cyphoderris monstrosa	0.8	0.0721804511278196	Gametic or Tactile Barriers
 Orthoptera	Stenobothrus rubicundulus	Stenobothrus clavatus	0	0.00104712041884817	No Barriers (Fertile F1 Hybrids)
 Diptera	Anastrepha bistrigata	Anastrepha striata	0.8	0.0218068535825545	Gametic or Tactile Barriers
 Diptera	Anopheles gambiae	Anopheles coluzzii	0	0.0208197787898504	No Barriers (Fertile F1 Hybrids)
-Diptera	Anopheles merus	Anopheles coluzzii	0.2	0.0295698924731183	Haldane's Rule
-Diptera	Anopheles merus	Anopheles gambiae	0.2	0.0182309250506415	Haldane's Rule
+Diptera	Anopheles merus	Anopheles coluzzii	0.2	0.0295698924731183	Partial Hybrid Sterility
+Diptera	Anopheles merus	Anopheles gambiae	0.2	0.0182309250506415	Partial Hybrid Sterility
 Diptera	Anopheles sinensis	Anopheles pullus	0.4	0.0493653032440056	Hybrid Sterility
 Diptera	Bactrocera tryoni	Bactrocera neohumeralis	0	0.00736771600803751	No Barriers (Fertile F1 Hybrids)
 Diptera	Chironomus riparius	Chironomus piger	0	0.146017699115044	No Barriers (Fertile F1 Hybrids)
-Diptera	Drosophila lini	Drosophila ogumai	0.2	0.0137075718015666	Haldane's Rule
+Diptera	Drosophila lini	Drosophila ogumai	0.2	0.0137075718015666	Partial Hybrid Sterility
 Diptera	Drosophila mojavensis	Drosophila arizonae	0.8	0.0227963525835866	Gametic or Tactile Barriers
 Diptera	Drosophila neotestacea	Drosophila orientacea	0.6	0.0502958579881657	Hybrid Inviability
-Diptera	Drosophila nepalensis	Drosophila trilutea	0.2	0.00764525993883792	Haldane's Rule
-Diptera	Drosophila ogumai	Drosophila ohnishii	0.2	0.0143509458577952	Haldane's Rule
+Diptera	Drosophila nepalensis	Drosophila trilutea	0.2	0.00764525993883792	Partial Hybrid Sterility
+Diptera	Drosophila ogumai	Drosophila ohnishii	0.2	0.0143509458577952	Partial Hybrid Sterility
 Diptera	Drosophila silvestris	Drosophila heteroneura	0	0.00621546961325967	No Barriers (Fertile F1 Hybrids)
 Diptera	Drosophila testacea	Drosophila neotestacea	0.6	0.0531757754800591	Hybrid Inviability
 Diptera	Drosophila testacea	Drosophila orientacea	0	0.0428994082840237	No Barriers (Fertile F1 Hybrids)
 Diptera	Liriomyza trifolii	Liriomyza sativae	0.4	0.0772251308900524	Hybrid Sterility
-Diptera	Phlebotomus papatasi	Phlebotomus bergeroti	0.2	0.00439882697947214	Haldane's Rule
+Diptera	Phlebotomus papatasi	Phlebotomus bergeroti	0.2	0.00439882697947214	Partial Hybrid Sterility
 Diptera	Phlebotomus papatasi	Phlebotomus duboscqi	0.4	0.101071975497703	Hybrid Sterility
 Diptera	Rhagoletis berberis	Rhagoletis suavis	1	0.0532544378698225	Assortative Mating + 
 Mechanical Isolation
@@ -38,7 +38,7 @@ Diptera	Rhagoletis pomonella	Rhagoletis basiola	1	0.0869130869130869	Assortative
 Mechanical Isolation
 Diptera	Rhagoletis pomonella	Rhagoletis suavis	1	0.0738522954091816	Assortative Mating + 
 Mechanical Isolation
-Diptera	Sepsis neocynipsea	Sepsis cynipsea	0.2	0.00574712643678161	Haldane's Rule
+Diptera	Sepsis neocynipsea	Sepsis cynipsea	0.2	0.00574712643678161	Partial Hybrid Sterility
 Diptera	Sepsis pyrrhosoma	Sepsis flavimana	1	0.0641940085592011	Assortative Mating + 
 Mechanical Isolation
 Diptera	Urophora affinis	Urophora quadrifasciata	1	0.0425531914893617	Assortative Mating + 
@@ -376,7 +376,7 @@ Lepidoptera	Busseola segeta	Busseola fusca	1	0.0569715142428786	Assortative Mati
 Mechanical Isolation
 Lepidoptera	Busseola segeta	Busseola nairobica	1	0.0440729483282675	Assortative Mating + 
 Mechanical Isolation
-Lepidoptera	Chloridea virescens	Heliothis subflexa	0.2	0.0516002612671457	Haldane's Rule
+Lepidoptera	Chloridea virescens	Heliothis subflexa	0.2	0.0516002612671457	Partial Hybrid Sterility
 Lepidoptera	Colias eurytheme	Colias philodice	0	0	No Barriers (Fertile F1 Hybrids)
 Lepidoptera	Dahlica charlottae	Dahlica lazuri	0.6	0.0364741641337386	Hybrid Inviability
 Lepidoptera	Dahlica charlottae	Dahlica lichenella	0.6	0.0486322188449848	Hybrid Inviability
@@ -393,7 +393,7 @@ Mechanical Isolation
 Lepidoptera	Earias vittella	Earias insulana	0.8	0.0508221225710015	Gametic or Tactile Barriers
 Lepidoptera	Etiella zinckenella	Etiella hobsoni	1	0.0547112462006079	Assortative Mating + 
 Mechanical Isolation
-Lepidoptera	Heliconius cydno	Heliconius melpomene	0.2	0.0247879973907371	Haldane's Rule
+Lepidoptera	Heliconius cydno	Heliconius melpomene	0.2	0.0247879973907371	Partial Hybrid Sterility
 Lepidoptera	Heliconius cydno	Heliconius pachinus	0	0.0143603133159269	No Barriers (Fertile F1 Hybrids)
 Lepidoptera	Heliconius elevatus	Heliconius pardalinus	1	0.00597609561752988	Assortative Mating + 
 Mechanical Isolation
@@ -415,7 +415,7 @@ Lepidoptera	Ostrinia furnacalis	Ostrinia nubilalis	0	0.0216110019646365	No Barri
 Lepidoptera	Ostrinia furnacalis	Ostrinia scapulalis	0	0.0165118679050568	No Barriers (Fertile F1 Hybrids)
 Lepidoptera	Ostrinia nubilalis	Ostrinia scapulalis	0	0.00413223140495868	No Barriers (Fertile F1 Hybrids)
 Lepidoptera	Papilio canadensis	Papilio glaucus	0	0.0157103825136612	No Barriers (Fertile F1 Hybrids)
-Lepidoptera	Pieris napi	Pieris microstriata	0.2	0.0120481927710843	Haldane's Rule
+Lepidoptera	Pieris napi	Pieris microstriata	0.2	0.0120481927710843	Partial Hybrid Sterility
 Lepidoptera	Pieris napi	Pieris virginiensis	0.4	0.0197568389057751	Hybrid Sterility
 Lepidoptera	Pieris oleracea	Pieris virginiensis	0.8	0.0212765957446809	Gametic or Tactile Barriers
 Lepidoptera	Platyptilia carduidactyla	Platyptilia williamsii	1	0.0699088145896656	Assortative Mating + 

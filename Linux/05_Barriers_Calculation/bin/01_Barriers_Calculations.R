@@ -53,12 +53,12 @@ odonata <- odonata[!duplicated(odonata$code),]
 colnames(orders)[5:9] <- c("Assortative_Mating",
                            "Oviposition",
                            "Hybrid_Inviability",
-                           "Haldanes_Rule",
+                           "Partial_Hybrid_Sterility",
                            "Fertile_F1_Hybrids")
 
 # For hymenopterans we will move their measurements, now being Haldanes Rule = NA
-orders[orders$Order=="Hymenoptera","Fertile_F1_Hybrids"] <- orders[orders$Order=="Hymenoptera","Haldanes_Rule"]
-orders[orders$Order=="Hymenoptera","Haldanes_Rule"] <- NA
+orders[orders$Order=="Hymenoptera","Fertile_F1_Hybrids"] <- orders[orders$Order=="Hymenoptera","Partial_Hybrid_Sterility"]
+orders[orders$Order=="Hymenoptera","Partial_Hybrid_Sterility"] <- NA
 
 # Now unifying in Odonates
 odonata <- odonata[,-c(10:11)]
@@ -129,7 +129,7 @@ orders[is.na(orders)] <- "O"
 orders$RI <- paste0(orders$Assortative_Mating,
                     orders$Oviposition,
                     orders$Hybrid_Inviability,
-                    orders$Haldanes_Rule,
+                    orders$Partial_Hybrid_Sterility,
                     orders$Fertile_F1_Hybrids)
 
 # Splitting into orders:
@@ -203,10 +203,9 @@ write.table(orders, "../figures/02_Reproductive_Isolation.tsv", sep = "\t", quot
 # Removing useless columns
 orders <- orders[,-c(4:8)]
 
-# Bars plots, sorting by RI and factorin barriers
+# Bars plots, sorting by RI and factoring barriers
 orders <- orders[order(orders$RI, decreasing = F),]
 orders[orders=="Fertile F1 Hybrids"] <- "No Barriers (Fertile F1 Hybrids)"
-orders[orders=="Haldanes Rule"] <- "Haldane's Rule"
 orders[orders=="Oviposition"] <- "Gametic or Tactile Barriers"
 orders[orders=="Assortative Mating"] <- "Assortative Mating + \nMechanical Isolation"
 unique(orders$Barrier)
@@ -221,7 +220,6 @@ colnames(isolation.table)[1:2] <- c("Barrier","Order")
 
 # Widening table for labels
 wide.table <- spread(isolation.table[,-4], Order, Freq)
-wide.table <- wide.table[rev(c(3,5,4,2,1)),]
 row.names(wide.table) <- wide.table$Barrier
 wide.table <- wide.table[,-1]
 
@@ -468,20 +466,23 @@ print("ALL INSECTS")
 summary(reg)
 sink()
 
-# Wrtitting table
+# Confidence intervals
+confint(reg,'Gen',level=0.95)
+
+# Wrtiting table
 write.table(orders, "../figures/07_Insects_Scatterplot_data.tsv", sep = "\t", quote = F, row.names = F)
 
 # Plotting
 png("../figures/07_Insects_Scatterplot.png", width = 24, height = 16, units = "cm", res = 300)
 ggplot(orders) +
   geom_point(aes(x=Gen, y=RI, color=Order), alpha=0.75, size=2.5) +
-  geom_smooth(aes(x=Gen, y=RI), formula = y~x, method = "lm", se = F) +
+  geom_smooth(aes(x=Gen, y=RI), formula = y~x, method = "lm", se = T, na.rm = T) +
   scale_color_manual(values = colors) +
-  scale_y_continuous(limits = c(0,1)) +
+  coord_cartesian(ylim = c(0, 1)) + # <- cambiar zoom sin modificar limites de ejes! <3
   labs(x="Genetic Distance", y="Reproductive Isolation") +
   theme_classic() +
   theme(text = element_text(family = "serif", size = 24),
-        legend.position = "bottom")
+        legend.position = "none")
 dev.off()
 
 # Per orders linear regressions
@@ -500,9 +501,10 @@ png("../figures/09_Orders_Scatterplots.png", width = 16, height = 32, units = "c
 ggplot(orders) +
   facet_wrap(. ~ Order, ncol = 1) +
   geom_point(aes(x=Gen, y=RI, color=Order), size=2.5) +
-  geom_smooth(aes(x=Gen, y=RI), formula = y~x, method = "lm", se = F) +
+  geom_smooth(aes(x=Gen, y=RI), data = orders[orders$Order=="Odonata" | orders$Order=="Diptera" | orders$Order=="Lepidoptera",],
+              formula = y~x, method = "lm", se = T) +
   scale_color_manual(values = colors) +
-  scale_y_continuous(limits = c(0,1)) +
+  coord_cartesian(ylim = c(0, 1)) +
   labs(x="Genetic Distance", y="Reproductive Isolation\n") +
   theme_classic() +
   theme(legend.position = "none",
@@ -520,7 +522,7 @@ orders$Barrier <- (2*round(orders$RI*10/2))/10
 orders <- orders[order(orders$RI, decreasing = T),]
 orders$Barrier <- factor(orders$Barrier, levels = unique(orders$Barrier),
                        labels = c("Assortative Mating", "Oviposition", "Hybrid Inviability",
-                                  "Hybrid Sterility","Haldane's Rule","Fertile F1 Hybrids"))
+                                  "Hybrid Sterility","Partial Hybrid Sterility","Fertile F1 Hybrids"))
 
 png("../figures/12_Barriers_Corrected.png", width = 12, height = 24, units = "cm", res = 300)
 ggplot(orders) +

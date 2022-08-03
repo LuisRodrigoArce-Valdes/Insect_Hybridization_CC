@@ -12,30 +12,18 @@ Kruskal-Wallis chi-squared = 17.166, df = 5, p-value = 0.004195
 
 data:  tmp[tmp$Order == i, "Gen"] and tmp[tmp$Order == i, "Barrier"] 
 
-                                 Assortative Mating + \nMechanical Isolation
-Gametic or Tactile Barriers      0.03636                                    
-Hybrid Inviability               0.21818                                    
-Hybrid Sterility                 0.86364                                    
-Haldane's Rule                   0.00017                                    
-No Barriers (Fertile F1 Hybrids) 0.02290                                    
-                                 Gametic or Tactile Barriers
-Gametic or Tactile Barriers      -                          
-Hybrid Inviability               0.33333                    
-Hybrid Sterility                 0.20000                    
-Haldane's Rule                   0.22222                    
-No Barriers (Fertile F1 Hybrids) 0.50000                    
-                                 Hybrid Inviability Hybrid Sterility
-Gametic or Tactile Barriers      -                  -               
-Hybrid Inviability               -                  -               
-Hybrid Sterility                 0.80000            -               
-Haldane's Rule                   0.05556            0.01667         
-No Barriers (Fertile F1 Hybrids) 0.22222            0.11667         
-                                 Haldane's Rule
-Gametic or Tactile Barriers      -             
-Hybrid Inviability               -             
-Hybrid Sterility                 -             
-Haldane's Rule                   -             
-No Barriers (Fertile F1 Hybrids) 1.00000       
+                                 Assortative Mating + \nMechanical Isolation Gametic or Tactile Barriers
+Gametic or Tactile Barriers      0.03636                                     -                          
+Hybrid Inviability               0.21818                                     0.33333                    
+Hybrid Sterility                 0.86364                                     0.20000                    
+Partial Hybrid Sterility         0.00017                                     0.22222                    
+No Barriers (Fertile F1 Hybrids) 0.02290                                     0.50000                    
+                                 Hybrid Inviability Hybrid Sterility Partial Hybrid Sterility
+Gametic or Tactile Barriers      -                  -                -                       
+Hybrid Inviability               -                  -                -                       
+Hybrid Sterility                 0.80000            -                -                       
+Partial Hybrid Sterility         0.05556            0.01667          -                       
+No Barriers (Fertile F1 Hybrids) 0.22222            0.11667          1.00000                 
 
 P value adjustment method: none 
 [1] "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
@@ -44,30 +32,18 @@ P value adjustment method: none
 
 data:  tmp[tmp$Order == i, "Gen"] and tmp[tmp$Order == i, "Barrier"] 
 
-                                 Assortative Mating + \nMechanical Isolation
-Gametic or Tactile Barriers      0.5455                                     
-Hybrid Inviability               1.0000                                     
-Hybrid Sterility                 1.0000                                     
-Haldane's Rule                   0.0026                                     
-No Barriers (Fertile F1 Hybrids) 0.3435                                     
-                                 Gametic or Tactile Barriers
-Gametic or Tactile Barriers      -                          
-Hybrid Inviability               1.0000                     
-Hybrid Sterility                 1.0000                     
-Haldane's Rule                   1.0000                     
-No Barriers (Fertile F1 Hybrids) 1.0000                     
-                                 Hybrid Inviability Hybrid Sterility
-Gametic or Tactile Barriers      -                  -               
-Hybrid Inviability               -                  -               
-Hybrid Sterility                 1.0000             -               
-Haldane's Rule                   0.8333             0.2500          
-No Barriers (Fertile F1 Hybrids) 1.0000             1.0000          
-                                 Haldane's Rule
-Gametic or Tactile Barriers      -             
-Hybrid Inviability               -             
-Hybrid Sterility                 -             
-Haldane's Rule                   -             
-No Barriers (Fertile F1 Hybrids) 1.0000        
+                                 Assortative Mating + \nMechanical Isolation Gametic or Tactile Barriers
+Gametic or Tactile Barriers      0.5455                                      -                          
+Hybrid Inviability               1.0000                                      1.0000                     
+Hybrid Sterility                 1.0000                                      1.0000                     
+Partial Hybrid Sterility         0.0026                                      1.0000                     
+No Barriers (Fertile F1 Hybrids) 0.3435                                      1.0000                     
+                                 Hybrid Inviability Hybrid Sterility Partial Hybrid Sterility
+Gametic or Tactile Barriers      -                  -                -                       
+Hybrid Inviability               -                  -                -                       
+Hybrid Sterility                 1.0000             -                -                       
+Partial Hybrid Sterility         0.8333             0.2500           -                       
+No Barriers (Fertile F1 Hybrids) 1.0000             1.0000           1.0000                  
 
 P value adjustment method: bonferroni 
 [1] "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
@@ -76,30 +52,18 @@ P value adjustment method: bonferroni
 
 data:  tmp[tmp$Order == i, "Gen"] and tmp[tmp$Order == i, "Barrier"] 
 
-                                 Assortative Mating + \nMechanical Isolation
-Gametic or Tactile Barriers      0.4525                                     
-Hybrid Inviability               1.0000                                     
-Hybrid Sterility                 1.0000                                     
-Haldane's Rule                   0.0087                                     
-No Barriers (Fertile F1 Hybrids) 0.3800                                     
-                                 Gametic or Tactile Barriers
-Gametic or Tactile Barriers      -                          
-Hybrid Inviability               1.0000                     
-Hybrid Sterility                 1.0000                     
-Haldane's Rule                   1.0000                     
-No Barriers (Fertile F1 Hybrids) 1.0000                     
-                                 Hybrid Inviability Hybrid Sterility
-Gametic or Tactile Barriers      -                  -               
-Hybrid Inviability               -                  -               
-Hybrid Sterility                 1.0000             -               
-Haldane's Rule                   0.5530             0.3800          
-No Barriers (Fertile F1 Hybrids) 1.0000             0.9678          
-                                 Haldane's Rule
-Gametic or Tactile Barriers      -             
-Hybrid Inviability               -             
-Hybrid Sterility                 -             
-Haldane's Rule                   -             
-No Barriers (Fertile F1 Hybrids) 1.0000        
+                                 Assortative Mating + \nMechanical Isolation Gametic or Tactile Barriers
+Gametic or Tactile Barriers      0.4525                                      -                          
+Hybrid Inviability               1.0000                                      1.0000                     
+Hybrid Sterility                 1.0000                                      1.0000                     
+Partial Hybrid Sterility         0.0087                                      1.0000                     
+No Barriers (Fertile F1 Hybrids) 0.3800                                      1.0000                     
+                                 Hybrid Inviability Hybrid Sterility Partial Hybrid Sterility
+Gametic or Tactile Barriers      -                  -                -                       
+Hybrid Inviability               -                  -                -                       
+Hybrid Sterility                 1.0000             -                -                       
+Partial Hybrid Sterility         0.5530             0.3800           -                       
+No Barriers (Fertile F1 Hybrids) 1.0000             0.9678           1.0000                  
 
 P value adjustment method: BY 
 [1] "###########################"
@@ -116,14 +80,10 @@ Kruskal-Wallis chi-squared = 3.6667, df = 3, p-value = 0.2998
 
 data:  tmp[tmp$Order == i, "Gen"] and tmp[tmp$Order == i, "Barrier"] 
 
-                                 Assortative Mating + \nMechanical Isolation
-Gametic or Tactile Barriers      0.5                                        
-Hybrid Inviability               1.0                                        
-No Barriers (Fertile F1 Hybrids) 1.0                                        
-                                 Gametic or Tactile Barriers
-Gametic or Tactile Barriers      -                          
-Hybrid Inviability               1.0                        
-No Barriers (Fertile F1 Hybrids) 0.5                        
+                                 Assortative Mating + \nMechanical Isolation Gametic or Tactile Barriers
+Gametic or Tactile Barriers      0.5                                         -                          
+Hybrid Inviability               1.0                                         1.0                        
+No Barriers (Fertile F1 Hybrids) 1.0                                         0.5                        
                                  Hybrid Inviability
 Gametic or Tactile Barriers      -                 
 Hybrid Inviability               -                 
@@ -136,14 +96,10 @@ P value adjustment method: none
 
 data:  tmp[tmp$Order == i, "Gen"] and tmp[tmp$Order == i, "Barrier"] 
 
-                                 Assortative Mating + \nMechanical Isolation
-Gametic or Tactile Barriers      1                                          
-Hybrid Inviability               1                                          
-No Barriers (Fertile F1 Hybrids) 1                                          
-                                 Gametic or Tactile Barriers
-Gametic or Tactile Barriers      -                          
-Hybrid Inviability               1                          
-No Barriers (Fertile F1 Hybrids) 1                          
+                                 Assortative Mating + \nMechanical Isolation Gametic or Tactile Barriers
+Gametic or Tactile Barriers      1                                           -                          
+Hybrid Inviability               1                                           1                          
+No Barriers (Fertile F1 Hybrids) 1                                           1                          
                                  Hybrid Inviability
 Gametic or Tactile Barriers      -                 
 Hybrid Inviability               -                 
@@ -156,14 +112,10 @@ P value adjustment method: bonferroni
 
 data:  tmp[tmp$Order == i, "Gen"] and tmp[tmp$Order == i, "Barrier"] 
 
-                                 Assortative Mating + \nMechanical Isolation
-Gametic or Tactile Barriers      1                                          
-Hybrid Inviability               1                                          
-No Barriers (Fertile F1 Hybrids) 1                                          
-                                 Gametic or Tactile Barriers
-Gametic or Tactile Barriers      -                          
-Hybrid Inviability               1                          
-No Barriers (Fertile F1 Hybrids) 1                          
+                                 Assortative Mating + \nMechanical Isolation Gametic or Tactile Barriers
+Gametic or Tactile Barriers      1                                           -                          
+Hybrid Inviability               1                                           1                          
+No Barriers (Fertile F1 Hybrids) 1                                           1                          
                                  Hybrid Inviability
 Gametic or Tactile Barriers      -                 
 Hybrid Inviability               -                 
@@ -184,30 +136,18 @@ Kruskal-Wallis chi-squared = 17.034, df = 5, p-value = 0.004435
 
 data:  tmp[tmp$Order == i, "Gen"] and tmp[tmp$Order == i, "Barrier"] 
 
-                                 Assortative Mating + \nMechanical Isolation
-Gametic or Tactile Barriers      0.76916                                    
-Hybrid Inviability               0.28377                                    
-Hybrid Sterility                 0.35294                                    
-Haldane's Rule                   0.17131                                    
-No Barriers (Fertile F1 Hybrids) 0.00082                                    
-                                 Gametic or Tactile Barriers
-Gametic or Tactile Barriers      -                          
-Hybrid Inviability               0.38371                    
-Hybrid Sterility                 0.25000                    
-Haldane's Rule                   0.38333                    
-No Barriers (Fertile F1 Hybrids) 0.00122                    
-                                 Hybrid Inviability Hybrid Sterility
-Gametic or Tactile Barriers      -                  -               
-Hybrid Inviability               -                  -               
-Hybrid Sterility                 0.17344            -               
-Haldane's Rule                   0.35723            1.00000         
-No Barriers (Fertile F1 Hybrids) 0.00242            0.80000         
-                                 Haldane's Rule
-Gametic or Tactile Barriers      -             
-Hybrid Inviability               -             
-Hybrid Sterility                 -             
-Haldane's Rule                   -             
-No Barriers (Fertile F1 Hybrids) 0.28182       
+                                 Assortative Mating + \nMechanical Isolation Gametic or Tactile Barriers
+Gametic or Tactile Barriers      0.76916                                     -                          
+Hybrid Inviability               0.28377                                     0.38371                    
+Hybrid Sterility                 0.35294                                     0.25000                    
+Partial Hybrid Sterility         0.17131                                     0.38333                    
+No Barriers (Fertile F1 Hybrids) 0.00082                                     0.00122                    
+                                 Hybrid Inviability Hybrid Sterility Partial Hybrid Sterility
+Gametic or Tactile Barriers      -                  -                -                       
+Hybrid Inviability               -                  -                -                       
+Hybrid Sterility                 0.17344            -                -                       
+Partial Hybrid Sterility         0.35723            1.00000          -                       
+No Barriers (Fertile F1 Hybrids) 0.00242            0.80000          0.28182                 
 
 P value adjustment method: none 
 [1] "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
@@ -216,30 +156,18 @@ P value adjustment method: none
 
 data:  tmp[tmp$Order == i, "Gen"] and tmp[tmp$Order == i, "Barrier"] 
 
-                                 Assortative Mating + \nMechanical Isolation
-Gametic or Tactile Barriers      1.000                                      
-Hybrid Inviability               1.000                                      
-Hybrid Sterility                 1.000                                      
-Haldane's Rule                   1.000                                      
-No Barriers (Fertile F1 Hybrids) 0.012                                      
-                                 Gametic or Tactile Barriers
-Gametic or Tactile Barriers      -                          
-Hybrid Inviability               1.000                      
-Hybrid Sterility                 1.000                      
-Haldane's Rule                   1.000                      
-No Barriers (Fertile F1 Hybrids) 0.018                      
-                                 Hybrid Inviability Hybrid Sterility
-Gametic or Tactile Barriers      -                  -               
-Hybrid Inviability               -                  -               
-Hybrid Sterility                 1.000              -               
-Haldane's Rule                   1.000              1.000           
-No Barriers (Fertile F1 Hybrids) 0.036              1.000           
-                                 Haldane's Rule
-Gametic or Tactile Barriers      -             
-Hybrid Inviability               -             
-Hybrid Sterility                 -             
-Haldane's Rule                   -             
-No Barriers (Fertile F1 Hybrids) 1.000         
+                                 Assortative Mating + \nMechanical Isolation Gametic or Tactile Barriers
+Gametic or Tactile Barriers      1.000                                       -                          
+Hybrid Inviability               1.000                                       1.000                      
+Hybrid Sterility                 1.000                                       1.000                      
+Partial Hybrid Sterility         1.000                                       1.000                      
+No Barriers (Fertile F1 Hybrids) 0.012                                       0.018                      
+                                 Hybrid Inviability Hybrid Sterility Partial Hybrid Sterility
+Gametic or Tactile Barriers      -                  -                -                       
+Hybrid Inviability               -                  -                -                       
+Hybrid Sterility                 1.000              -                -                       
+Partial Hybrid Sterility         1.000              1.000            -                       
+No Barriers (Fertile F1 Hybrids) 0.036              1.000            1.000                   
 
 P value adjustment method: bonferroni 
 [1] "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
@@ -248,30 +176,18 @@ P value adjustment method: bonferroni
 
 data:  tmp[tmp$Order == i, "Gen"] and tmp[tmp$Order == i, "Barrier"] 
 
-                                 Assortative Mating + \nMechanical Isolation
-Gametic or Tactile Barriers      1.00                                       
-Hybrid Inviability               1.00                                       
-Hybrid Sterility                 1.00                                       
-Haldane's Rule                   1.00                                       
-No Barriers (Fertile F1 Hybrids) 0.03                                       
-                                 Gametic or Tactile Barriers
-Gametic or Tactile Barriers      -                          
-Hybrid Inviability               1.00                       
-Hybrid Sterility                 1.00                       
-Haldane's Rule                   1.00                       
-No Barriers (Fertile F1 Hybrids) 0.03                       
-                                 Hybrid Inviability Hybrid Sterility
-Gametic or Tactile Barriers      -                  -               
-Hybrid Inviability               -                  -               
-Hybrid Sterility                 1.00               -               
-Haldane's Rule                   1.00               1.00            
-No Barriers (Fertile F1 Hybrids) 0.04               1.00            
-                                 Haldane's Rule
-Gametic or Tactile Barriers      -             
-Hybrid Inviability               -             
-Hybrid Sterility                 -             
-Haldane's Rule                   -             
-No Barriers (Fertile F1 Hybrids) 1.00          
+                                 Assortative Mating + \nMechanical Isolation Gametic or Tactile Barriers
+Gametic or Tactile Barriers      1.00                                        -                          
+Hybrid Inviability               1.00                                        1.00                       
+Hybrid Sterility                 1.00                                        1.00                       
+Partial Hybrid Sterility         1.00                                        1.00                       
+No Barriers (Fertile F1 Hybrids) 0.03                                        0.03                       
+                                 Hybrid Inviability Hybrid Sterility Partial Hybrid Sterility
+Gametic or Tactile Barriers      -                  -                -                       
+Hybrid Inviability               -                  -                -                       
+Hybrid Sterility                 1.00               -                -                       
+Partial Hybrid Sterility         1.00               1.00             -                       
+No Barriers (Fertile F1 Hybrids) 0.04               1.00             1.00                    
 
 P value adjustment method: BY 
 [1] "###########################"
@@ -288,14 +204,10 @@ Kruskal-Wallis chi-squared = 56.838, df = 3, p-value = 2.783e-12
 
 data:  tmp[tmp$Order == i, "Gen"] and tmp[tmp$Order == i, "Barrier"] 
 
-                                 Assortative Mating + \nMechanical Isolation
-Gametic or Tactile Barriers      0.25                                       
-Hybrid Inviability               0.94                                       
-No Barriers (Fertile F1 Hybrids) 8.7e-13                                    
-                                 Gametic or Tactile Barriers
-Gametic or Tactile Barriers      -                          
-Hybrid Inviability               0.57                       
-No Barriers (Fertile F1 Hybrids) 3.8e-09                    
+                                 Assortative Mating + \nMechanical Isolation Gametic or Tactile Barriers
+Gametic or Tactile Barriers      0.25                                        -                          
+Hybrid Inviability               0.94                                        0.57                       
+No Barriers (Fertile F1 Hybrids) 8.7e-13                                     3.8e-09                    
                                  Hybrid Inviability
 Gametic or Tactile Barriers      -                 
 Hybrid Inviability               -                 
@@ -308,14 +220,10 @@ P value adjustment method: none
 
 data:  tmp[tmp$Order == i, "Gen"] and tmp[tmp$Order == i, "Barrier"] 
 
-                                 Assortative Mating + \nMechanical Isolation
-Gametic or Tactile Barriers      1.00000                                    
-Hybrid Inviability               1.00000                                    
-No Barriers (Fertile F1 Hybrids) 5.2e-12                                    
-                                 Gametic or Tactile Barriers
-Gametic or Tactile Barriers      -                          
-Hybrid Inviability               1.00000                    
-No Barriers (Fertile F1 Hybrids) 2.3e-08                    
+                                 Assortative Mating + \nMechanical Isolation Gametic or Tactile Barriers
+Gametic or Tactile Barriers      1.00000                                     -                          
+Hybrid Inviability               1.00000                                     1.00000                    
+No Barriers (Fertile F1 Hybrids) 5.2e-12                                     2.3e-08                    
                                  Hybrid Inviability
 Gametic or Tactile Barriers      -                 
 Hybrid Inviability               -                 
@@ -328,14 +236,10 @@ P value adjustment method: bonferroni
 
 data:  tmp[tmp$Order == i, "Gen"] and tmp[tmp$Order == i, "Barrier"] 
 
-                                 Assortative Mating + \nMechanical Isolation
-Gametic or Tactile Barriers      0.91193                                    
-Hybrid Inviability               1.00000                                    
-No Barriers (Fertile F1 Hybrids) 1.3e-11                                    
-                                 Gametic or Tactile Barriers
-Gametic or Tactile Barriers      -                          
-Hybrid Inviability               1.00000                    
-No Barriers (Fertile F1 Hybrids) 2.8e-08                    
+                                 Assortative Mating + \nMechanical Isolation Gametic or Tactile Barriers
+Gametic or Tactile Barriers      0.91193                                     -                          
+Hybrid Inviability               1.00000                                     1.00000                    
+No Barriers (Fertile F1 Hybrids) 1.3e-11                                     2.8e-08                    
                                  Hybrid Inviability
 Gametic or Tactile Barriers      -                 
 Hybrid Inviability               -                 
@@ -356,12 +260,9 @@ Kruskal-Wallis chi-squared = 2.8929, df = 2, p-value = 0.2354
 
 data:  tmp[tmp$Order == i, "Gen"] and tmp[tmp$Order == i, "Barrier"] 
 
-                                 Gametic or Tactile Barriers
-Haldane's Rule                   0.67                       
-No Barriers (Fertile F1 Hybrids) 0.40                       
-                                 Haldane's Rule
-Haldane's Rule                   -             
-No Barriers (Fertile F1 Hybrids) 0.53          
+                                 Gametic or Tactile Barriers Partial Hybrid Sterility
+Partial Hybrid Sterility         0.67                        -                       
+No Barriers (Fertile F1 Hybrids) 0.40                        0.53                    
 
 P value adjustment method: none 
 [1] "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
@@ -370,12 +271,9 @@ P value adjustment method: none
 
 data:  tmp[tmp$Order == i, "Gen"] and tmp[tmp$Order == i, "Barrier"] 
 
-                                 Gametic or Tactile Barriers
-Haldane's Rule                   1                          
-No Barriers (Fertile F1 Hybrids) 1                          
-                                 Haldane's Rule
-Haldane's Rule                   -             
-No Barriers (Fertile F1 Hybrids) 1             
+                                 Gametic or Tactile Barriers Partial Hybrid Sterility
+Partial Hybrid Sterility         1                           -                       
+No Barriers (Fertile F1 Hybrids) 1                           1                       
 
 P value adjustment method: bonferroni 
 [1] "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
@@ -384,11 +282,8 @@ P value adjustment method: bonferroni
 
 data:  tmp[tmp$Order == i, "Gen"] and tmp[tmp$Order == i, "Barrier"] 
 
-                                 Gametic or Tactile Barriers
-Haldane's Rule                   1                          
-No Barriers (Fertile F1 Hybrids) 1                          
-                                 Haldane's Rule
-Haldane's Rule                   -             
-No Barriers (Fertile F1 Hybrids) 1             
+                                 Gametic or Tactile Barriers Partial Hybrid Sterility
+Partial Hybrid Sterility         1                           -                       
+No Barriers (Fertile F1 Hybrids) 1                           1                       
 
 P value adjustment method: BY 

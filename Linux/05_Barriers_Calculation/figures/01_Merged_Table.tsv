@@ -1,4 +1,4 @@
-Order	Sp1	Sp2	Assortative_Mating	Oviposition	Hybrid_Inviability	Haldanes_Rule	Fertile_F1_Hybrids	Reference
+Order	Sp1	Sp2	Assortative_Mating	Oviposition	Hybrid_Inviability	Partial_Hybrid_Sterility	Fertile_F1_Hybrids	Reference
 Diptera	Aedes aegypti	Aedes albopictu	N	Y	N	N	N	HARPER, JP; PAULSON, SL, 1994
 Diptera	Anastrepha bistrigata	Anastrepha striata	?	N	N	N	N	Selivon, D; Morgante, J, 1997
 Diptera	Anastrepha fraterculus	Anastrepha obliqua	Y	Y	Y	?	?	Rull, J; Tadeo, E; Lasa, R; Rodriguez, CL; Altuzar-Molina, A; Aluja, M, 2018

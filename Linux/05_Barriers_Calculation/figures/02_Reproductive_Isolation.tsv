@@ -1,24 +1,24 @@
-Order	Sp1	Sp2	Assortative_Mating	Oviposition	Hybrid_Inviability	Haldanes_Rule	Fertile_F1_Hybrids	RI	Barrier
+Order	Sp1	Sp2	Assortative_Mating	Oviposition	Hybrid_Inviability	Partial_Hybrid_Sterility	Fertile_F1_Hybrids	RI	Barrier
 Diptera	Aedes aegypti	Aedes albopictu	N	Y	N	N	N	1	Assortative Mating
 Diptera	Anastrepha bistrigata	Anastrepha striata	?	N	N	N	N	0.8	Oviposition
 Diptera	Anopheles gambiae	Anopheles coluzzii	Y	Y	Y	Y	Y	0	Fertile F1 Hybrids
-Diptera	Anopheles merus	Anopheles coluzzii	?	Y	Y	Y	N	0.2	Haldanes Rule
-Diptera	Anopheles merus	Anopheles gambiae	?	Y	Y	Y	N	0.2	Haldanes Rule
+Diptera	Anopheles merus	Anopheles coluzzii	?	Y	Y	Y	N	0.2	Partial Hybrid Sterility
+Diptera	Anopheles merus	Anopheles gambiae	?	Y	Y	Y	N	0.2	Partial Hybrid Sterility
 Diptera	Anopheles sinensis	Anopheles pullus	?	Y	Y	N	N	0.4	Hybrid Sterility
 Diptera	Bactrocera tryoni	Bactrocera neohumeralis	Y	Y	Y	Y	Y	0	Fertile F1 Hybrids
 Diptera	Chironomus riparius	Chironomus piger	Y	Y	Y	Y	Y	0	Fertile F1 Hybrids
 Diptera	Drosophila denruoi	Drosophila tsigana	?	Y	N	N	N	0.6	Hybrid Inviability
-Diptera	Drosophila lini	Drosophila ogumai	Y	Y	Y	Y	N	0.2	Haldanes Rule
-Diptera	Drosophila lini	Drosophila ogumai	Y	Y	Y	Y	N	0.2	Haldanes Rule
+Diptera	Drosophila lini	Drosophila ogumai	Y	Y	Y	Y	N	0.2	Partial Hybrid Sterility
+Diptera	Drosophila lini	Drosophila ogumai	Y	Y	Y	Y	N	0.2	Partial Hybrid Sterility
 Diptera	Drosophila mojavensis	Drosophila arizonae	?	N	N	N	N	0.8	Oviposition
 Diptera	Drosophila neotestacea	Drosophila orientacea	Y	Y	N	N	N	0.6	Hybrid Inviability
-Diptera	Drosophila nepalensis	Drosophila trilutea	?	Y	Y	Y	N	0.2	Haldanes Rule
-Diptera	Drosophila ogumai	Drosophila ohnishii	Y	Y	Y	Y	N	0.2	Haldanes Rule
+Diptera	Drosophila nepalensis	Drosophila trilutea	?	Y	Y	Y	N	0.2	Partial Hybrid Sterility
+Diptera	Drosophila ogumai	Drosophila ohnishii	Y	Y	Y	Y	N	0.2	Partial Hybrid Sterility
 Diptera	Drosophila silvestris	Drosophila heteroneura	Y	Y	Y	Y	Y	0	Fertile F1 Hybrids
 Diptera	Drosophila testacea	Drosophila neotestacea	Y	Y	N	N	N	0.6	Hybrid Inviability
 Diptera	Drosophila testacea	Drosophila orientacea	Y	Y	Y	Y	Y	0	Fertile F1 Hybrids
 Diptera	Liriomyza trifolii	Liriomyza sativae	?	Y	Y	N	N	0.4	Hybrid Sterility
-Diptera	Phlebotomus papatasi	Phlebotomus bergeroti	?	Y	Y	Y	N	0.2	Haldanes Rule
+Diptera	Phlebotomus papatasi	Phlebotomus bergeroti	?	Y	Y	Y	N	0.2	Partial Hybrid Sterility
 Diptera	Phlebotomus papatasi	Phlebotomus duboscqi	?	Y	Y	N	N	0.4	Hybrid Sterility
 Diptera	Rhagoletis berberis	Rhagoletis suavis	N	?	?	?	?	1	Assortative Mating
 Diptera	Rhagoletis completa	Rhagoletis zoqui	Y	Y	Y	Y	Y	0	Fertile F1 Hybrids
@@ -29,7 +29,7 @@ Diptera	Rhagoletis indifferens	Rhagoletis suavis	N	?	?	?	?	1	Assortative Mating
 Diptera	Rhagoletis mendax	Rhagoletis zephyria	Y	Y	Y	Y	Y	0	Fertile F1 Hybrids
 Diptera	Rhagoletis pomonella	Rhagoletis basiola	N	?	?	?	?	1	Assortative Mating
 Diptera	Rhagoletis pomonella	Rhagoletis suavis	N	?	?	?	?	1	Assortative Mating
-Diptera	Sepsis neocynipsea	Sepsis cynipsea	Y	Y	Y	Y	N	0.2	Haldanes Rule
+Diptera	Sepsis neocynipsea	Sepsis cynipsea	Y	Y	Y	Y	N	0.2	Partial Hybrid Sterility
 Diptera	Sepsis pyrrhosoma	Sepsis flavimana	N	Y	Y	N	N	1	Assortative Mating
 Diptera	Telostylinus lineolatus	Telostylinus angusticollis	Y	Y	N	N	N	0.6	Hybrid Inviability
 Diptera	Themira lohmanus	Themira biloba	Y	Y	N	N	N	0.6	Hybrid Inviability
@@ -42,12 +42,12 @@ Hymenoptera	Encarsia inaron	Encarsia partenopea	N	N	N	NA	N	1	Assortative Mating
 Hymenoptera	Nasonia giraulti	Nasonia vitripennis	Y	N	N	NA	N	0.8	Oviposition
 Hymenoptera	Nasonia longicornis	Nasonia vitripennis	Y	N	N	NA	N	0.8	Oviposition
 Hymenoptera	Neodiprion pinetum	Neodiprion lecontei	Y	Y	Y	NA	Y	0	Fertile F1 Hybrids
-Hymenoptera	Trichogramma kaykai	Trichogramma deion	?	Y	Y	NA	N	0.2	Haldanes Rule
+Hymenoptera	Trichogramma kaykai	Trichogramma deion	?	Y	Y	NA	N	0.2	Partial Hybrid Sterility
 Hymenoptera	Trissolcus plautiae	Trissolcus japonicus	?	N	N	NA	N	0.8	Oviposition
 Lepidoptera	Busseola fusca	Busseola nairobica	N	N	N	N	N	1	Assortative Mating
 Lepidoptera	Busseola segeta	Busseola fusca	N	N	N	N	N	1	Assortative Mating
 Lepidoptera	Busseola segeta	Busseola nairobica	N	Y	N	N	N	1	Assortative Mating
-Lepidoptera	Chloridea virescens	Heliothis subflexa	Y	Y	Y	Y	N	0.2	Haldanes Rule
+Lepidoptera	Chloridea virescens	Heliothis subflexa	Y	Y	Y	Y	N	0.2	Partial Hybrid Sterility
 Lepidoptera	Colias eurytheme	Colias philodice	Y	Y	Y	Y	Y	0	Fertile F1 Hybrids
 Lepidoptera	Dahlica charlottae	Dahlica lazuri	Y	Y	N	N	N	0.6	Hybrid Inviability
 Lepidoptera	Dahlica charlottae	Dahlica lichenella	Y	Y	N	N	N	0.6	Hybrid Inviability
@@ -67,7 +67,7 @@ Lepidoptera	Darna trima	Setora nitens	N	?	?	?	?	1	Assortative Mating
 Lepidoptera	Darna trima	Setothosea asigna	N	?	?	?	?	1	Assortative Mating
 Lepidoptera	Earias vittella	Earias insulana	Y	N	N	N	N	0.8	Oviposition
 Lepidoptera	Etiella zinckenella	Etiella hobsoni	N	?	?	?	?	1	Assortative Mating
-Lepidoptera	Heliconius cydno	Heliconius melpomene	Y	Y	Y	Y	N	0.2	Haldanes Rule
+Lepidoptera	Heliconius cydno	Heliconius melpomene	Y	Y	Y	Y	N	0.2	Partial Hybrid Sterility
 Lepidoptera	Heliconius cydno	Heliconius pachinus	Y	Y	Y	Y	Y	0	Fertile F1 Hybrids
 Lepidoptera	Heliconius elevatus	Heliconius pardalinus	N	Y	Y	Y	N	1	Assortative Mating
 Lepidoptera	Heliconius erato	Heliconius himera	Y	Y	Y	Y	Y	0	Fertile F1 Hybrids
@@ -83,7 +83,7 @@ Lepidoptera	Ostrinia furnacalis	Ostrinia nubilalis	Y	Y	Y	Y	Y	0	Fertile F1 Hybrid
 Lepidoptera	Ostrinia furnacalis	Ostrinia scapulalis	Y	Y	Y	Y	Y	0	Fertile F1 Hybrids
 Lepidoptera	Ostrinia nubilalis	Ostrinia scapulalis	Y	Y	Y	Y	Y	0	Fertile F1 Hybrids
 Lepidoptera	Papilio canadensis	Papilio glaucus	Y	Y	Y	Y	Y	0	Fertile F1 Hybrids
-Lepidoptera	Pieris napi	Pieris microstriata	?	Y	Y	Y	N	0.2	Haldanes Rule
+Lepidoptera	Pieris napi	Pieris microstriata	?	Y	Y	Y	N	0.2	Partial Hybrid Sterility
 Lepidoptera	Pieris napi	Pieris virginiensis	?	Y	Y	N	N	0.4	Hybrid Sterility
 Lepidoptera	Pieris oleracea	Pieris virginiensis	Y	N	N	N	N	0.8	Oviposition
 Lepidoptera	Platyptilia carduidactyla	Platyptilia williamsii	N	N	N	N	N	1	Assortative Mating
@@ -315,8 +315,8 @@ Odonata	Sympetrum vulgatum	Sympetrum striolatum	Y	Y	N	NA	NA	0.6	Hybrid Inviabili
 Odonata	Trigomphus interruptus	Trigomphus ogumai	N	N	N	NA	NA	1	Assortative Mating
 Orthoptera	Allonemobius fasciatus	Allonemobius socius	Y	Y	Y	Y	Y	0	Fertile F1 Hybrids
 Orthoptera	Chorthippus albomarginatus	Chorthippus oschei	Y	Y	Y	Y	Y	0	Fertile F1 Hybrids
-Orthoptera	Chorthippus biguttulus	Chorthippus brunneus	Y	Y	Y	Y	N	0.2	Haldanes Rule
-Orthoptera	Chorthippus biguttulus	Chorthippus mollis	Y	Y	Y	Y	N	0.2	Haldanes Rule
+Orthoptera	Chorthippus biguttulus	Chorthippus brunneus	Y	Y	Y	Y	N	0.2	Partial Hybrid Sterility
+Orthoptera	Chorthippus biguttulus	Chorthippus mollis	Y	Y	Y	Y	N	0.2	Partial Hybrid Sterility
 Orthoptera	Chorthippus brunneus	Chorthippus jacobsi	Y	Y	Y	Y	Y	0	Fertile F1 Hybrids
 Orthoptera	Chorthippus parallelus	Chorthippus montanus	Y	Y	Y	Y	Y	0	Fertile F1 Hybrids
 Orthoptera	Cyphoderris buckelli	Cyphoderris monstrosa	Y	N	N	N	N	0.8	Oviposition
