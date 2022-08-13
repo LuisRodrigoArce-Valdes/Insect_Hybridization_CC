@@ -42,8 +42,15 @@ Freqs <- rbind(Freqs, read.delim("../data/GBIF.tsv"))
 # Factoring
 Freqs$Data <- factor(Freqs$Data, levels = c("Species", "Hybrids", "Barriers"), labels = c("Total number\nof species", "Species reported\nto hybridize", "Species in reproductive\nbarriers studies"))
 
+# Saving results table
+write.table(apply(Freqs, 2, function(x) gsub("\n"," ",as.character(x))),
+            "../figures/02_Species.txt", row.names = F, quote = T)
+
+# Excluding odonates
+Freqs <- Freqs[Freqs$Order!="Odonata",]
+
 # Plotting
-colors <- c('#66c2a5','#fc8d62','#8da0cb','#e78ac3','#a6d854')
+colors <- c('#66c2a5','#fc8d62','#8da0cb', '#a6d854')
 p1 <- ggplot(Freqs) +
   geom_bar(aes(x=Data, y=Freq, fill=Order), position = "fill", stat = "identity") +
   scale_y_continuous(labels = scales::percent) +
@@ -53,8 +60,8 @@ p1 <- ggplot(Freqs) +
   theme(text = element_text(family = "serif", size = s),
         axis.title.x = element_blank(),
         axis.text.x = element_text(hjust = 1, angle = 20, lineheight = 0.75),
-        legend.position =  c(1.01,.58),
-        legend.spacing.y = unit(1.8, 'cm'),
+        legend.position =  c(1.01,.60),
+        legend.spacing.y = unit(2.4, 'cm'),
         legend.title = element_blank(),
         legend.text = element_blank(),
         legend.background = element_blank()) +
@@ -69,8 +76,8 @@ Barriers <- Barriers[,c(1,4:8)]
 orders <- list()
 for (i in unique(Barriers$Order)) {
   orders[[i]] <- Barriers[Barriers$Order==i,-1]
-  orders[[i]][orders[[i]]=="?"] <- 0
-  orders[[i]][orders[[i]]!="0"] <- 1
+  orders[[i]][orders[[i]]=="?"] <- 1
+  orders[[i]][orders[[i]]!="1"] <- 0
   orders[[i]] <- apply(orders[[i]], 2, as.numeric)
   orders[[i]] <- as.data.frame(colSums(orders[[i]]))
   orders[[i]]$Barrier <- row.names(orders[[i]])
@@ -93,14 +100,21 @@ orders$Barrier <- factor(orders$Barrier, levels = rev(unique(orders$Barrier)), l
 orders <- orders[complete.cases(orders),]
 orders[orders$Order=="Hymenoptera" & orders$Barrier=="Partial Hybrid\nSterility","Barrier"] <- "Hybrid\nSterility"
 
+# Saving results
+write.table(apply(orders, 2, function(x) gsub("\n"," ",as.character(x))),
+            "../figures/03_Barriers.txt", row.names = F, quote = T)
+
+# Excluding odonates
+orders <- orders[orders$Order!="Odonata",]
+
 # Plotting
 p2 <- ggplot(orders) +
   geom_bar(aes(y=Order, x=Fx, fill=Barrier), position = "fill", stat = "identity") +
-  scale_fill_manual(values = c('#f6eff7','#bdc9e1','#67a9cf','#1c9099','#016c59'), guide = guide_legend(reverse = T)) +
+  scale_fill_manual(values = c('#edf8fb','#b3cde3','#8c96c6','#8856a7','#810f7c'), guide = guide_legend(reverse = T)) +
   scale_y_discrete(limits=rev) +
   scale_x_continuous(labels = scales::percent, n.breaks = 6) +
   theme_classic() +
-  labs(x="Relative Frequency") +
+  labs(x="Missing data relative frequency") +
   theme(text = element_text(family = "serif", size = s),
         axis.title.y = element_blank(),
         legend.title = element_blank(),
