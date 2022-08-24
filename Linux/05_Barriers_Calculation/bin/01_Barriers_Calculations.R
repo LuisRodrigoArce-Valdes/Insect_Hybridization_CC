@@ -461,7 +461,9 @@ dev.off()
 orders <- orders[orders$Gen < 0.30,]
 reg <- lm(formula = RI ~ Gen, data = orders)
 sink("../figures/06_Insects_Correlation.txt", split = F)
-print("~~~~~~~~~~~~~~~~~~~~~~~~~~+")
+print("~~~~~~~~~~~~~~~~~~~~~~~~~~")
+cor.test(orders$RI, orders$Gen)
+print("~~~~~~~~~~~~~~~~~~~~~~~~~~")
 print("ALL INSECTS")
 summary(reg)
 sink()
@@ -488,8 +490,10 @@ dev.off()
 # Per orders linear regressions
 sink("../figures/08_Orders_Regressions.txt", split = T)
 for (i in unique(orders$Order)){
-  print("~~~~~~~~~~~~~~~~~~~~~~~~~~~")
   print(i)
+  print("~~~~~~~~~~~~~~~~~~~~~~~~~~~")
+  print(cor.test(orders[orders$Order==i,]$RI, orders[orders$Order==i,]$Gen))
+  print("~~~~~~~~~~~~~~~~~~~~~~~~~~~")
   x <- lm(formula = RI ~ Gen, data = orders[orders$Order==i,])
   print(summary(x))
 }

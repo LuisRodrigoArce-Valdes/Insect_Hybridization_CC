@@ -5,6 +5,8 @@ library(dplyr)
 library(ggplot2)
 library(gridExtra)
 library(scales)
+library(officer)
+library(rvg)
 
 # Text size for both graphics
 s <- 17
@@ -122,7 +124,6 @@ p2 <- ggplot(orders) +
         panel.grid.major.x = element_line(color = "gray"),
         legend.position =  "bottom")
 
-# Merging plots
 png("../figures/01_Bias.png", width = 12.5984, height = 12.5984/2, units = "in", res = 300)
 grid.arrange(p1, p2, nrow=1, widths = c(1, 2))
 dev.off()
@@ -130,3 +131,23 @@ dev.off()
 pdf("../figures/01_Bias.pdf", width = 12.5984, height = 12.5984/2)
 grid.arrange(p1, p2, nrow=1, widths = c(1, 2))
 dev.off()
+
+# Merging plots and exporting as pptx
+# Converting to dml
+p1 <- rvg::dml(ggobj = p1)
+p2 <- rvg::dml(ggobj = p2)
+
+# Exporting
+officer::read_pptx("../data/Left.pptx") %>%
+  # specify object and location of object (full size)
+  officer::ph_with(p1, location = ph_location_fullsize()) %>%
+  # export slide
+  print(target = "../figures/Left.pptx")
+
+# Second plot
+officer::read_pptx("../data/Right.pptx") %>%
+  # specify object and location of object (full size)
+  officer::ph_with(p2, location = ph_location_fullsize()) %>%
+    # export slide
+    print(target = "../figures/Right.pptx")
+  
