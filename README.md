@@ -6,7 +6,7 @@ In this repository you will find raw literature search results, raw data and scr
 
 #### Repository structure
 
-Here is the structure of the directory of the book chapter, several folders of intermediary files have been gitignored. Within each folder `bin` includes the scripts that conform our general pipeline. Scripts in the bins folders are written either in bash or in R.
+Here is the structure of the directory of the book chapter, several folders of intermediary files have been gitignored. Within each folder `bin` includes the scripts that make up our general pipeline. Scripts in the bins folders are written either in bash or in R.
 
 ```
 +-RawData_Summaries.xlsx					#This excel file contains summarized tables including all the species pairs and references we used in our chapter.
